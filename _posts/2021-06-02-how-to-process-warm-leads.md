@@ -88,6 +88,8 @@ Now, you have gathered pretty much information about the person and his backgrou
 
 ![image](../../images/warm-leads-7.png)
 
+![image](../../images/warm-leads-17.png)
+
 ## Step 6
 
 Click on the 'Message' button.
