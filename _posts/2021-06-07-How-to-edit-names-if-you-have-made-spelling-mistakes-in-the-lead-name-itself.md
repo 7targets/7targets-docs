@@ -1,8 +1,8 @@
 ---
 date: 2021-06-07
-title: How to edit names of lead if you have made spelling mistakes in the lead name itself
+title: How to edit lead name if you have made spelling mistake
 video_id: JC2yJnBXzLM
-description: Below is the steps, How to edit names of lead if you have made spelling mistakes in the lead name itself
+description:  How to edit lead names if you have made spelling mistake in the lead name itself
 type: How-to
 sidebar:
   - {id: step-1, text: Click on edit}
@@ -17,7 +17,11 @@ categories:
 # set_order: 3
 ---
 
+If you have entered the wrong names of leads while uploading the lead list into 7targets, then the AI sales assistant will be using the wrong name in the salutation. 
 
+This will not create a good impression on the lead and you might lose one.
+
+So to change the name for the lead after uploading them, follow the below steps.
 
 
 ## Step 1
