@@ -21,15 +21,15 @@ categories:
 
 Generating leads is important. It creates sales and increases organic customers.
 For Converting leads into customers, the salesperson needs to be on this toes, respond back quickly, do follow-ups.
-Sometimes **salesperson forgets to do follow-ups** and the company looses a potential client. Which is a big cost.
+Sometimes **salesperson forgets to follow-up** and the company looses a potential client. This is a significant cost.
 
-According to what we have seen so far, EACH salesperson forgets to follow up **2 leads every month**. Some of them maybe junior sales, others maybe interns, but this list also includes founders of companies. 
+According to what we have seen so far, **EACH salesperson forgets to follow up _at least_ 2 leads every month**. Even with the best CRMs! Founders and seniors forget because they are busy. Junior sales, interns forget because they dont KNOW the meaning of VALUE OF AN OPPORTUNITY. 
 
-Even if you assume a $1000 opportunity cost, 2 misses per month is $2000 per month. If youbhave 10 sales guys, its $20k missing in opportunity pipeline. 
+Even if you assume that each opportunity is worth a $1000, 2 misses per month is $2000 per month. If you have 10 sales guys, its $20k leaking from opportunity pipeline. 
 
-In 7Targets, we have a feature of sending follow-up emails automatically, even after Sales person responds to the initial email from the prospect. This minimizes the human effort and increase the chances of conversion.
+In 7Targets, we have a feature of sending follow-up emails automatically, to leads who do not reply. Even after Sales person responds to the initial email from the prospect, where he/she thinks his job is pretty much done, the salesperson forgets to keep track of this lead, because he **thinks the lead will respond**. Guess what. Its a busy world. Most people you approach are anyway seniors and are out of time. Each salesperson must expect that his email is NOT GOING TO BE READ. **This expectation of expecting a response after sending the brochure is where sales drops leads**. Changing human behavior is more difficult than going to Mars. And here is where AI Sales Assistants come to the rescue. AI Sales Assistants picks up the followup tasks and minimizes the human effort and increase the chances of conversion.
 
-You can do this manually via your existing CRM with high discipline and regular meetings. Here's the explanation of how you can do successful follow-ups using 7Targets. 
+You can try this process manually via your existing CRM and try to with high discipline in sales with regular meetings daily standing meetings. Or you can try 7Targets. The explanation of how you can do successful follow-ups using 7Targets is here. 
 
 ## Step 1 
 Select the files which you want to look into. If a Salesperson has uploaded leads using 3 files in last month, you can go to leads and select "multiple lead upload" 
