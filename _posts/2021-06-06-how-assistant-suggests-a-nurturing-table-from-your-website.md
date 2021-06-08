@@ -87,7 +87,7 @@ Go to lead Icon and click on "Add lead".
 [image](../../images/Nurturing-11.png)
 
 
-You can see the 'Ps' line coming from the nurturing table for the first Email.
+You can see the 'PS' line coming from the nurturing table for the first Email.
 
 [image](../../images/Nurturing-12.png)
 
@@ -96,8 +96,12 @@ For the second email, the 'PS' message will be different, as shown in the image.
 
 [image](../../images/Nurturing-13.png)
 
-Now You don't have to worry about what to write.
 
-Our expert assistance team gives you excellent suggestions and you can choose what to write.
+
+Your Sales AI Assistant suggests the Nurturing lines for you to choose from. 
+
+We have seen many a times that Assistant has surprised a lot of our customers with the suggestions. 
+
+Hopeful that this will give you a good quick start and not have to worry about what to write in the Nurturing table.
 
 If you have any furthur doubts you can directly mail us at info@7targets.com .
