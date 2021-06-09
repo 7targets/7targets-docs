@@ -17,7 +17,7 @@ categories:
 # set_order: 3
 ---
 
-Once you have uploaded the multiple lists of leads from various sources in 7targets, the AI sales assistant will take care of all the leads until they respond.
+Once you have uploaded the multiple lists of leads from various sources in 7Targets, the AI sales assistant will take care of all the leads until they respond.
 
 But if you want to know about the leads from a particular file, how many leads were there, how many were actually added, why other leads are not added etc.
 
