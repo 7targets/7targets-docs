@@ -24,7 +24,7 @@ After you have uploaded the leads and the follow-up has started, you'll see few 
 
 These are the leads that have highest chance of conversion if you follow-up promptly.
 
-In 7targets, we have a feature, when a lead opens your email for the third time, you'll receive a notification on WhatsApp message and a mail within 5 minutes. This helps you to act on that lead quickly.
+In 7Targets, we have a feature, when a lead opens your email for the third time, you'll receive a notification on WhatsApp message and a mail within 5 minutes. This helps you to act on that lead quickly.
 
 Below is the explanation of how you can act upon these warm leads.
 
