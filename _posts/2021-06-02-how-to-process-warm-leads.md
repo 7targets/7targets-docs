@@ -147,22 +147,25 @@ Here, you can see that the mail written by you is scheduled at the optimized dat
 
 ## Step 10
 
-Acting upon the warm leads at the proper time with a personalized message increases the chances of getting a reply from the lead.
-You can click on the website icon and the LinkedIn icon to get some personal information about the lead and the company and write that personalized next message.
+**Acting upon the warm leads at the proper time with a personalized message increases the chances of getting a reply from the lead**.
+You can click on the `website icon` and the `LinkedIn icon` to get some personal information about the lead and the company and write that personalized next message.
 
 If you see more and more warm leads from a particular sector, think of creating a special sequence for them. 
-eg. 'Nurturing healthcare clinics in NY'. 
-Such a specific nurturing sequence will have examples of other NY customers that will resonate with the reader. Everyone loves it when RELEVANT info is sent. Generic nurturing sequence might have success stories of similar companies, but they maybe far from NY, or the size maybe different or the industry maybe different. Nearby competitors success stories can create a FOMO effect as well, if your offerings are valuable and helping competitors. Hence creating a focused nurturing sequences for warm lead categories will help. No need to create all messages before hand. Create them only when you see more warm leads showing interest from a particular sector/region. 
+eg. `Nurturing healthcare clinics in NY`.  
+Such a specific nurturing sequence will have examples of other NY customers that will resonate with the reader. Everyone loves it when RELEVANT info is sent. 
+
+Generic nurturing sequence might have success stories of similar companies, but they maybe far from NY, or the size maybe different or the industry maybe different. Nearby competitors success stories can create a FOMO effect as well, if your offerings are valuable and helping competitors.  
+Hence creating a focused nurturing sequences for warm lead categories will help. No need to create all messages before hand. Create them only when you see more warm leads showing interest from a particular sector/region. 
 
 With the help of 7Targets, you can easily do this within just a few steps.
 
 What actions to take outside of 7Targets? 
-Below are some examples. 
-a. Comment on some of the shares for a few times consistently. Make sure comment is valuable and interesting enough for the person to notice you. 
-b. Follow the lead so you can get notified whenever he/she comments or posts. 
-c. Find out shortest connection path with the lead that can be led by introductions. People are generally more than happy to introduce. Provide a ready made text for intro, so the introducer does not have to waste time, and along the way you are also making your offering aware to one more person! This can itself lead to a new reference which you yourself may not be aware of. 
-d. Find open positions in the company in Linkedin or job site to check what is budgeted. This will provide additional ammo for a better personalized email to warm leads. This cannot be done for all, because it takes time, but its worth doing it for warm leads.
-e. Connect to others who are either reporting to the lead or who maybe the leads boss. Use same email signature pattern to guess a email address and start connecting with them as well. 
+Below are some examples:
+1. Comment on some of the shares for a few times consistently. Make sure comment is valuable and interesting enough for the person to notice you. 
+1. Follow the lead so you can get notified whenever he/she comments or posts. 
+1. Find out shortest connection path with the lead that can be led by introductions. People are generally more than happy to introduce. Provide a ready made text for intro, so the introducer does not have to waste time, and along the way you are also making your offering aware to one more person! This can itself lead to a new reference which you yourself may not be aware of. 
+1. Find open positions in the company in Linkedin or job site to check what is budgeted. This will provide additional ammo for a better personalized email to warm leads. This cannot be done for all, because it takes time, but its worth doing it for warm leads.
+1. Connect to others who are either reporting to the lead or who maybe the leads boss. Use same email signature pattern to guess a email address and start connecting with them as well. 
 
 In short, any actions that helps to track the buying signals and purchase intents of the warm lead needs to be looked into. 
 
