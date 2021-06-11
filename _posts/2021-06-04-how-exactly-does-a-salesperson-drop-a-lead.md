@@ -1,6 +1,6 @@
 ---
 date: 2021-06-4
-title: How exactly does a salesperson drop a lead
+title: How exactly does a salesperson drop a lead? How to fix the problem? 
 video_id: JC2yJnBXzLM
 description:  Possible solution when a salesperson drops a lead.
 type: How-to
