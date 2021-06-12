@@ -8,7 +8,7 @@ sidebar:
   - {id: step-1, text: Go to Assistants }
   - {id: step-2, text: My assistant only}
   - {id: step-3, text: Click notification}
-  - {id: step-4, text: Disable receive email notification}
+  - {id: step-4, text: Disable "Receive email notification"}
   - {id: step-5, text: Specific notification}
   - {id: step-6, text: Instant notification}
   - {id: step-7, text: Weekly summary notification}
