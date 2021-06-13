@@ -109,7 +109,7 @@ Whenever you're using email, you can put assistant email in CC.
 
 You'll get a notification in your inbox when you've put an assistant email in CC.
 
-## Step-09
+## Step-9
 
 You can even Change notification settings from your email.
 
