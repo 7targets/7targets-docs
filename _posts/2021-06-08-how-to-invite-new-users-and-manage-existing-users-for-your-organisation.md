@@ -35,7 +35,7 @@ Go to the Organisation tab and click on 'Org users'.
 
 If you want to change the role of the existing user
  
-Click on 'Actionss' and select 'make Org admin'.
+Click on 'Actions' and select 'Make Org Admin'.
 
 
 ![image](../../images/Invite-2.png)
@@ -86,7 +86,7 @@ There might be existing Invited users who have not logged in 24 hours of getting
 
 Click on 'Actions' . Select 'Resend Invite' option.
 
-![image](../../images/Invite-9)
+![image](../../images/Invite-9.png)
 
 Users will receive a new email with a one-time password which will be valid for the next 24 hours.
 
