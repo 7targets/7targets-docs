@@ -3,7 +3,7 @@ date: 2021-06-10
 title: How to stop getting notifications
 video_id: JC2yJnBXzLM
 description: These steps are about How to stop getting notification of leads or how to disable them.
-type:  
+type: How-to
 sidebar:
   - {id: step-1, text: Go to Assistants }
   - {id: step-2, text: My assistant only}

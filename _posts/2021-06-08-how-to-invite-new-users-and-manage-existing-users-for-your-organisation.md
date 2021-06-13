@@ -3,7 +3,7 @@ date: 2021-06-08
 title: How to Invite new users and manage existing users for your Organisation
 video_id: JC2yJnBXzLM
 description: You may want to Invite new users to your Organisation, edit the roles of previous users or even assign an existing assistant to other users in the Organisation
-type:  
+type: How-to
 sidebar:
   - {id: step-1, text: Organisation user}
   - {id: step-2, text: Change the role of existing user}
