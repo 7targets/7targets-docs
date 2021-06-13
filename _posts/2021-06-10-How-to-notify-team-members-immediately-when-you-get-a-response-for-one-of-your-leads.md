@@ -44,7 +44,7 @@ You will be directed to the notification page.
 
 ## Step-3
 
-Click on response receive (email ) notification and add the email addresses of your team members.
+Click on 'Response Receive (Email ) Notification' and add the email addresses of your team members.
 
 ![image](../../images/Notify-team-4.png)
 
