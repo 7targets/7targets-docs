@@ -68,11 +68,13 @@ Click on the notification.
 
 Here you'll see a list of all notifications.
 
-![image](../../images/Stop-getting-notification-6.png)
+![image](../../images/Stop-getting-notification-.png)
 
-Scroll down and choose whatever notification you want to diable.
+Scroll down and choose whatever notification you want to disable.
 
 Shown below is how to disable notifications for warm leads.
+
+![image](../../images/Stop-getting-notification-6.png)
 
 For warm leads, there are two types of notification.
 1) Instant notification.
