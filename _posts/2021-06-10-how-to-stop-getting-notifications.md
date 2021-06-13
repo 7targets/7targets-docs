@@ -14,10 +14,6 @@ sidebar:
   - {id: step-7, text: Weekly summary notification}
   - {id: step-8, text: EmailCC notification}
   - {id: step-9, text: Change notification link in your email}
- 
-
-  
-
 categories:
   - How-To
 # set: getting-started
