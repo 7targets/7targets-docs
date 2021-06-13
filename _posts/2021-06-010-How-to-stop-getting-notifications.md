@@ -14,8 +14,8 @@ sidebar:
   - {id: step-7, text: Weekly summary notification}
   - {id: step-8, text: EmailCC notification}
   - {id: step-9, text: Change notification link in your email}
-  - {id: step-10, text: How to open notification from gmail}
-  - {id: step-11, text: Notification preferences}
+ 
+
   
 
 categories:
@@ -33,7 +33,7 @@ To change notifications setting or disable any notification, follow the steps me
 
 How to stop getting all notifications.
 
-Go to "Assistant", if you are Org admin you'll see all the assistants.
+Go to 'Assistant', if you are Org admin you'll see all the assistants.
 
 ![image](../../images/Stop-getting-notification-1.png)
 
@@ -84,7 +84,7 @@ Disable instant notification.
 
 ![image](../../images/Stop-getting-notification-7.png)
 
-If you want to get notified once a day then enable 'once a day notification'.
+If you want to get notified once a day then enable 'Once a day notification'.
 
 ![image](../../images/Stop-getting-notification-8.png)
 
@@ -116,8 +116,6 @@ You can even Change notification settings from your email.
 Click on any email sent by ai assistant.
 
 ![image](../../images/Stop-getting-notification-13.png)
-
-## Step-10
 
 Scroll down and click on change notification preferences.
 
