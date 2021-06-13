@@ -8,7 +8,6 @@ sidebar:
   - {id: step-1, text: Go to assistant tab}
   - {id: step-2, text: go to notification}
   - {id: step-3, text: Add email adress of members}
-  
 categories:
   - How-To
 # set: getting-started
