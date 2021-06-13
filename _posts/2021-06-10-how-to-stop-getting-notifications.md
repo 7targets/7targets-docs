@@ -74,9 +74,9 @@ Scroll down and choose whatever notification you want to diable.
 
 Shown below is how to disable notifications for warm leads.
 
-For warm leads, there are two types of notification.
+For warm leads, there are two types of notification.  
 1) Instant notification.
-2) Once-a-day notification.
+1) Once-a-day notification.
 
 ## Step-6
 
