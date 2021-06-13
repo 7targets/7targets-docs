@@ -1,6 +1,7 @@
 ---
 date: 2021-06-12
-title: How to get notified when someone is clicking your link
+title: How to get notified when someone clicks your
+ link
 video_id: JC2yJnBXzLM
 description: Keeping the track of particular clicks on link is necessary. 
 These steps are about how to enable "Link clicked notifications".
@@ -22,20 +23,20 @@ categories:
 # set_order: 3
 ---
 
-The link clicked notification is a feature that notifies you whenever someone is clicking the link you've added in the 'Trigger when' section.
+The link clicked notification is a feature that notifies you whenever someone is clicking the link you've added in the "Trigger when" section.
 
 To enable this Follow the steps mentioned below
 
 
 ## Step-1 
 
-Go to Assistant tab, if you are Org admin you'll see all the assistants.
+Go to Assistant tab, if you are Org Admin you'll see all the assistants.
 
 ![image](../../images/Link-clicked-1.png)
 
 ## Step-2
 
-Enable 'Show my assistant only'.
+Enable "Show my assistant only".
 
 ![image](../../images/Link-clicked-2.png)
 
@@ -59,13 +60,13 @@ Click on 'Link clicked notification'
 
 ## Step-6
 
- Paste your link in the 'Trigger when' section.
+Paste your link in the 'Trigger when' section.
 
- ![image](../../images/Link-clicked-6.png)
+![image](../../images/Link-clicked-6.png)
 
- # Step-7
+## Step-7
 
- Enable notifications
+Enable notifications
 
 ![image](../../images/Link-clicked-7.png)
 
