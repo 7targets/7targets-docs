@@ -63,38 +63,38 @@ For example, we've typed  7targets.ai
 
 The Assistant will start reading your website 
 
-[image](../../images/Nurturing-7.png)
+![image](../../images/Nurturing-7.png)
 
 Here Assistant found good and relevant information that we can use.
 
-[image](../../images/Nurturing-8.png)
+![image](../../images/Nurturing-8.png)
 
 You can remove the row by clicking on the delete.
 
-[image](../../images/Nurturing-9.png)
+![image](../../images/Nurturing-9.png)
 
 
 ## Step 4
 
 Click on the Save icon.
 
-[image](../../images/Nurturing-10.png)
+![image](../../images/Nurturing-10.png)
 
 ## Step 5
 
 Go to lead Icon and click on "Add lead".
 
-[image](../../images/Nurturing-11.png)
+![image](../../images/Nurturing-11.png)
 
 
 You can see the 'PS' line coming from the nurturing table for the first Email.
 
-[image](../../images/Nurturing-12.png)
+![image](../../images/Nurturing-12.png)
 
 
 For the second email, the 'PS' message will be different, as shown in the image.
 
-[image](../../images/Nurturing-13.png)
+![image](../../images/Nurturing-13.png)
 
 
 
