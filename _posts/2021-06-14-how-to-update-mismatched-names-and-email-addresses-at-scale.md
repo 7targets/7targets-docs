@@ -5,8 +5,8 @@ video_id: JC2yJnBXzLM
 description: How to change mismatched data such as name and email addresses.
 type: How-to
 sidebar:
-  - {id: step-1, text: Go to leads and select 'Multiple Leads'}
-  - {id: step-2, text: Drag File in 'Drag and Drop OR Select Excel File'}
+  - {id: step-1, text: Selecting the leads}
+  - {id: step-2, text: Uploading file}
   - {id: step-3, text: Click on add leads}
   - {id: step-4, text: Enter name of assistant and click yes}
   - {id: step-5, text: Click on view leads}
@@ -23,7 +23,7 @@ Adding mismatched data of leads can end up in losing a potential client.
 
 Important data such as Name, Email, etc should be written accordingly which results in fewer complications.
 
-Here's the complete guideline of how you can do that by following simple steps 
+Here is the complete guideline of how you can do that by following simple steps 
 
 ## Step-1
 
@@ -73,7 +73,7 @@ There are two ways to fix this error:
 
 ## Step-6
 
-To edit the selected row
+To edit the upload file
 
 Click on 'Edit lead name'
 
@@ -85,7 +85,7 @@ Here you can change the name of the lead and then click yes.
 
 ## Step-7
 
-To edit the dragged file
+To edit from the uploaded file
 
 Correct the name and email in the file.
 
