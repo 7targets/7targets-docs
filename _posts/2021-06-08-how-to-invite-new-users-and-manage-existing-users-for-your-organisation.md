@@ -84,7 +84,7 @@ There might be existing Invited users who have not logged in 24 hours of getting
 
 ![image](../../images/Invite-8.png)
 
-Click on 'Actions' . Select 'Resend Invite' option.
+Click on 'Actions'. Select 'Resend Invite' option.
 
 ![image](../../images/Invite-9.png)
 
@@ -114,6 +114,10 @@ Confirm your selection by clicking on proceed.
 
 Note:  A normal user (who is not an org admin) does not see the leads beyond himself, even when the assistant is shared across multiple users.
 
-The Assistant Manager will be able to see leads of other users too for the assistant of which she/he is made an Assistant Manager.
+The Assistant Manager will be able to see leads of other users too for the assistant of which she/he is made an Assistant Manager.  
+By default Assistant manager will also be copied in the email notifications sent by the assistant for other users of the Assistant. Assistant manager can configure the Assistant Manager specific notification from the notification tab by clicking the Assistant Manager button as in the below image.  
+Notification for Self can be configured by selecting the Self button.
+
+![image](../../images/Invite-14.png)
 
 If you have any further doubts you can directly mail us at info@7targets.com.

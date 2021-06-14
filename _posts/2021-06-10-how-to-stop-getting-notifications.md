@@ -3,7 +3,7 @@ date: 2021-06-10
 title: How to stop getting notifications
 video_id: JC2yJnBXzLM
 description: These steps are about How to stop getting notification of leads or how to disable them.
-type: How-to 
+type: How-to
 sidebar:
   - {id: step-1, text: Go to Assistants }
   - {id: step-2, text: My assistant only}
@@ -14,10 +14,6 @@ sidebar:
   - {id: step-7, text: Weekly summary notification}
   - {id: step-8, text: EmailCC notification}
   - {id: step-9, text: Change notification link in your email}
- 
-
-  
-
 categories:
   - How-To
 # set: getting-started
@@ -74,11 +70,10 @@ Scroll down and choose whatever notification you want to disable.
 
 Shown below is how to disable notifications for warm leads.
 
-![image](../../images/Stop-getting-notification-6.png)
+For warm leads, there are two types of notification.  
 
-For warm leads, there are two types of notification.
 1) Instant notification.
-2) Once-a-day notification.
+1) Once-a-day notification.
 
 ## Step-6
 

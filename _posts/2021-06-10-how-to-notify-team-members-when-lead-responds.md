@@ -3,12 +3,11 @@ date: 2021-06-10
 title: How to notify team members immediately, when you get a response for one of your leads
 video_id: JC2yJnBXzLM
 description: How to add team members so that they can receive notification from assistant whenever a lead responds to you.
-type: How-to  
+type: How-to
 sidebar:
   - {id: step-1, text: Go to assistant tab}
   - {id: step-2, text: go to notification}
   - {id: step-3, text: Add email adress of members}
-  
 categories:
   - How-To
 # set: getting-started

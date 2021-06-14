@@ -2,9 +2,8 @@
 date: 2021-06-12
 title: How to get notified when someone clicks your link
 video_id: JC2yJnBXzLM
-description: Keeping the track of particular clicks on link is necessary. 
-These steps are about how to enable "Link clicked notifications".
-type: How-to 
+description: Keeping the track of particular clicks on link is necessary. These steps are about how to enable "Link clicked notifications".
+type: How-to
 sidebar:
   - {id: step-1, text: Go to Assistants }
   - {id: step-2, text: Enable "Show my assistant only"}
@@ -13,8 +12,6 @@ sidebar:
   - {id: step-5, text: Link clicked notification}
   - {id: step-6, text: Pasting copied link in "Trigger when section"}
   - {id: step-7, text: Enable notifications}
-
-  
 
 categories:
   - How-To
