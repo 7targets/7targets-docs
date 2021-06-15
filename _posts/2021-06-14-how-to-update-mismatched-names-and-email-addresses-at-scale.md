@@ -5,13 +5,13 @@ video_id: JC2yJnBXzLM
 description: How to change mismatched data such as name and email addresses.
 type: How-to
 sidebar:
-  - {id: step-1, text: Selecting the leads}
-  - {id: step-2, text: Uploading file}
-  - {id: step-3, text: Click on add leads}
-  - {id: step-4, text: Enter name of assistant and click yes}
-  - {id: step-5, text: Click on view leads}
-  - {id: step-6, text: How to edit selected row}
-  - {id: step-7, text: How to edit dragged file}
+  - {id: step-1, text: Select the leads}
+  - {id: step-2, text: Upload the file}
+  - {id: step-3, text: Add leads}
+  - {id: step-4, text: Confirm add leads}
+  - {id: step-5, text: View added leads}
+  - {id: step-6, text: Correct one lead at a time}
+  - {id: step-7, text: Correct all leads at a time}
 
 categories:
   - How-To
@@ -55,7 +55,6 @@ Now leads are added. You can open them by clicking on 'Multiple Lead Upload'.
 
 **Note: It might take few minutes to change the status from 'Validating' to 'complete'.**
 
-
 ## Step-5
 
 Click on 'View Leads'
@@ -68,8 +67,8 @@ Here you can see a list of leads with mismatch data.
 
 There are two ways to fix this error:
 
-1) Edit selected row
-2) Edit dragged file
+1) Correct selected row
+2) Correct all leads at once
 
 ## Step-6
 
