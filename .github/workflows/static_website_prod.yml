@@ -1,4 +1,4 @@
-name: To deploy static website in S3 bucket for production
+name: To deploy static website in S3 bucket for production.
 
 on:
   pull_request:
