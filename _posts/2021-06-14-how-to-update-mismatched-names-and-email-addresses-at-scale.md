@@ -11,7 +11,7 @@ sidebar:
   - {id: step-4, text: Confirm add leads}
   - {id: step-5, text: View added leads}
   - {id: step-6, text: Correct one lead at a time}
-  - {id: step-7, text: Correct all leads at a time}
+  - {id: step-7, text: Correct all leads at once}
 
 categories:
   - How-To
