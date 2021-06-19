@@ -20,7 +20,7 @@ Lead goes under various states before conversion. To recieve best out of one lea
 
 Here is the complete guideline of how you can do that by following simple steps.
 
-Step-1
+## Step-1
 
 How to see different Lead states 
 
@@ -58,7 +58,7 @@ You'll be directed to this page.
 
 **Note: After restarting follow-up lead will go back to 'Cold' state.**
 
-Step-2
+## Step-2
 
 How to add a tag
 
@@ -88,7 +88,7 @@ Type the tag and click yes.
 
 ![image](../../images/Lead-Tags-12.png)
 
-Step-3
+## Step-3
 
 If you want to filter your search
 
@@ -104,7 +104,7 @@ Select tags and click on 'Apply Filters'.
 
 ![image](../../images/Lead-Tags-15.png)
 
-Step-4 
+## Step-4 
 
 To remove all tags
 
