@@ -2,12 +2,12 @@
 date: 2021-06-18
 title: How to manage Lead States and Tags
 video_id: JC2yJnBXzLM
-description: These steps are about How to manage Lead states and tags, which ultimately helps in better management. Hence, conversion rate is more.
+description: AI Sales Assistant will categorize the leads in various states based on the followups and responses. These states are there for the user to help focus on the right leads for conversion. 
 type: How-to
 sidebar:
-  - {id: step-1, text: How to add and Manage Lead states }
-  - {id: step-2, text: How to add and manage Tags }
-  - {id: step-3, text: Filter search}
+  - {id: step-1, text: Lead states }
+  - {id: step-2, text: Manage Tags }
+  - {id: step-3, text: Filter by tags}
   - {id: step-4, text: Remove all tags}
 
 categories:
@@ -16,63 +16,53 @@ categories:
 # set_order: 3
 ---
 
-Lead goes under various states before conversion. To recieve best out of one lead it is important to manage Lead state and Tags.
+AI Sales Assistant will categorize the leads in various states based on the followups and responses. These states are there for the user to help focus on the right leads for better conversion. 
 
-Here is the complete guideline of how you can do that by following simple steps.
+Refer this to know about various [lead states]({{ site.baseurl }}/assigning-leads/lead-responses/#lead-state)  
+Leads with some specific states may need different handling.  
+For e.g. Hot leads needs immediate attention and Assistant will followup with you if Hot Leads are not taken care of, will also mark them Lead At Risk.  
+Refer this for [Warm leads processing]({{ site.baseurl }}/how-to/how-to-process-warm-leads/).
 
-Step-1
+Lets understand how various state, filters, actions and tags work together.
 
-How to see different Lead states 
+## Step-1
 
-Click on processed. You'll see a list of states.
+Select the States filter drop down and filter by Processed state.
 
 ![image](../../images/Lead-Tags-1.png)
 
-When a new contact is added to the system it is called 'New' state.
-
-When the email sequence is just started then it is called 'Cold' state.
+When a person doesn’t open any email or remains Cold until the end of the follow-ups then it is marked as ‘Processed’ state.
 
 ![image](../../images/Lead-Tags-2.png)
 
-When lead responds then it becomes 'Hot' lead.
-
-If hot lead opens emails around 3 or 4 times,  it becomes a 'Warm' lead.
+Lets filter and look at a Warm lead. Note the double-ticks which convey that lead has opened your emails and so is marked as Warm too.  
+Assistant would have even optimized the send time to make sure that emails are delivered to the lead at a time when he/she opens the emails.
 
 ![image](../../images/Lead-Tags-3.png)
 
-If the person unsubscribes then it is called 'Unsubscribed' lead.
-
-When you don't want to send any communication that's called a 'Deactivated' state.
-
-When a person doesn't open any email or remains cold until the end of the follow-ups then it is called 'Processed' state.
-
-![image](../../images/Lead-Tags-4.png)
-
-If you want to send something to a processed lead then click on 'Restart Followup'.
+If you want to send some other messages to a processed lead then click on 'Restart Followup'.
 
 ![image](../../images/Lead-Tags-5.png)
 
-You'll be directed to this page.
+You'll be directed to this page. Where you can select a new Schedule, Assistant and other details and then Restart. 
 
 ![image](../../images/Lead-Tags-6.png) 
 
-**Note: After restarting follow-up lead will go back to 'Cold' state.**
+**Note: After Restart follow-up Processed lead will go back to 'Cold' state.**
 
-Step-2
+## Step-2
 
-How to add a tag
+Lets look at how to add tags
 
 Click on 'ADD TAGS'.
 
 ![image](../../images/Lead-Tags-7.png)
 
-Type the tag and click yes.
+Type the tag text or select from existing tag you want to apply to the lead and click yes.
 
 ![image](../../images/Lead-Tags-8.png)
 
-Another way of doing this is
-
-select a bunch of contacts 
+If you want to apply tags to multiple leads at same time, then select all those leads
 
 ![image](../../images/Lead-Tags-9.png)
 
@@ -84,13 +74,13 @@ Click on 'Update Tags'.
 
 ![image](../../images/Lead-Tags-11.png) 
 
-Type the tag and click yes.
+Type the tag or select from existing and click yes.
 
 ![image](../../images/Lead-Tags-12.png)
 
-Step-3
+## Step-3
 
-If you want to filter your search
+If you want to filter leads by tags.
 
 Click on 'All Filters'.
 
@@ -104,11 +94,11 @@ Select tags and click on 'Apply Filters'.
 
 ![image](../../images/Lead-Tags-15.png)
 
-Step-4 
+## Step-4 
 
 To remove all tags
 
-Click on 'More Actions'.
+Click on 'More Actions' for those selected leads.
 
 ![image](../../images/Lead-Tags-16.png) 
 
@@ -120,6 +110,6 @@ Select 'Remove all existing tags for selected lead' and click yes.
 
 ![image](../../images/Lead-Tags-18.png) 
 
-By following the above method you're now able to manage and add Lead state and tags.
+
 
 If you have any further doubts you can directly mail us at info@7targets.com.
