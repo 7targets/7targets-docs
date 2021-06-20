@@ -40,8 +40,9 @@ Some examples are mentioned below:
 
 ## [Lead State](#lead-state)
 Assistant will categorize the leads in various states based on the followups and responses. Various possible state are:   
-`Hot` if the lead has accepted to meet.   
+`New` conveys that the lead added cannot be processed as you have used up your leads limit as per the plan. You can Restart these leads in the next period or upgrade your plan and then restart these leads now.  
 `Cold` the followup is under progress.   
+`Hot` if the lead has accepted to meet.   
 `Warm` lead is someone who has opened 3 or more emails. A good list for your calling team to call.  
 `Engaged` lead is someone who has opened 1 or more emails.  
 `Processed` followup is completed as per the schedule and there was no response from the lead.    
@@ -50,7 +51,6 @@ Assistant will categorize the leads in various states based on the followups and
 `Unsubscribed` lead used the unsubscribed link in the email or responded asking to unsubscribe. You wont be able to send any more emails to this lead.  
 `Responded` state for the lead conveys that there is some response from the lead and Assistant was not able to categorize it to one of the above.  
 `Pending` means Assistant is still validating the email address of the lead.  
-`New` conveys that the lead added cannot be processed as you have used up your leads limit as per the plan. You can Restart these leads in the next period or upgrade your plan and then restart these leads now.  
 
 ## Teach your Assistant
 Some of the responses may over fit or under fit the out-of-the-box ML model and the response received from the lead may get identified in a State which may not be most correct.  
