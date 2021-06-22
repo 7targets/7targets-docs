@@ -21,7 +21,7 @@ One of the most important features of 7Targets is lead nurturing. You can upload
 
 To know more about nurturing please visit this page.
 
-[![image](../../images/nurture-data-btn.png)](https://help.7targets.ai/getting-responses/assistant-nurturing/)
+[![image](../images/nurture-data-btn.png)](https://help.7targets.ai/getting-responses/assistant-nurturing/)
 
 Follow these simple steps to upload the nurturing information.
 
@@ -31,11 +31,11 @@ Sign in to your account.
 
 Click on 'Assistant' tab as shown below.
 
-![image](../../images/lead-nurturing-1.png)
+![image](../images/lead-nurturing-1.png)
 
 You'll be directed to this page.
 
-![image](../../images/lead-nurturing-2.png)
+![image](../images/lead-nurturing-2.png)
 
 
 ## Step 2
@@ -44,23 +44,23 @@ Select the assistant you want to add nurturing information to.
 
 Click on the 'Nurture' button of that assistant as shown.
 
-![image](../../images/lead-nurturing-3.png)
+![image](../images/lead-nurturing-3.png)
 
 ## Step 3
 
 Click on the 'Add Row' button to add the nurturing message.
 
-![image](../../images/lead-nurturing-4.png)
+![image](../images/lead-nurturing-4.png)
 
 ## Step 4
 
 Now either you can edit the message in the section shown, or you can paste the already available message here.
 
-![image](../../images/lead-nurturing-5.png)
+![image](../images/lead-nurturing-5.png)
 
 This is a sample of how your nurturing messages can be. You should copy the messages one at a time.
 
-![image](../../images/lead-nurturing-6.png)
+![image](../images/lead-nurturing-6.png)
 
 ## Step 5
 
@@ -69,7 +69,7 @@ Paste it in the section shown below.
 To add the next message, click on the '+' (plus) button and then repeat step 4.
 
 
-![image](../../images/lead-nurturing-7.png)
+![image](../images/lead-nurturing-7.png)
 
 ## Step 6
 
@@ -79,14 +79,14 @@ Click on the button 'Copy and Verify Links'.
 
 You will be directed to a new window. Paste the link you want to verify there and then click 'Check Status'.
 
-![image](../../images/lead-nurturing-9.png)
+![image](../images/lead-nurturing-9.png)
 
 
 ## Step 7
 
 Click on 'Save' button at the left bottom corner. 
 
-![image](../../images/lead-nurturing-8.png)
+![image](../images/lead-nurturing-8.png)
 
 We recommend you have vertical / industry specific Assistant. Success stories or testimonials from other customers of the same vertical / industry would interest leads better.
 
