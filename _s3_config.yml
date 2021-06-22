@@ -47,8 +47,8 @@ collections:
     permalink: /archives/:path/
 
 
-# jekyll-archives:
-#   enabled: ['categories']
+jekyll-archives:
+  enabled: ['categories']
 
 defaults:
   -
