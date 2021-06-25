@@ -23,6 +23,8 @@ Generating leads is important. It creates sales and increases organic customers.
 For Converting leads into customers, the salesperson needs to be on this toes, respond back quickly, do follow-ups.
 Sometimes **salesperson forgets to follow-up** and the company looses a potential client. This is a significant cost (opportunity loss).
 
+![image](../../images/lead-generation.png)
+
 According to what we have seen so far, **EACH salesperson forgets to follow up _at least_ 2 leads every month**. Even with the best CRMs! Founders and seniors forget because they are busy. Junior sales, interns forget because they dont KNOW the meaning of VALUE OF AN OPPORTUNITY. 
 
 Even if you assume that each opportunity is worth a $1000, 2 misses per month is $2000 per month. If you have 10 sales guys, its $20k leaking from opportunity pipeline. 
