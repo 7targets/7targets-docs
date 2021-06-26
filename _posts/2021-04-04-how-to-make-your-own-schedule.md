@@ -29,7 +29,7 @@ Assistant comes with two default schedules **Recommended** and **Recommended for
 
 To know more about scheduling please visit this page.
 
-[![image](../../images/schedule-sequence-btn.png)](https://help.7targets.ai/manage-org/organization-schedule/)
+[![image](../images/schedule-sequence-btn.png)](https://help.7targets.ai/manage-org/organization-schedule/)
 
 
 Follow these simple steps to create a new schedule.
@@ -40,7 +40,7 @@ Sign in to your account.
 
 Click on the 'Organisation' Tab. The Schedule sub-tab is selected.
 
-![image](../../images/mail-schedule-1.png)
+![image](../images/mail-schedule-1.png)
 
 ## Step 2
 
@@ -54,19 +54,19 @@ If you want to clone from some other Schedule then search the desired schedule a
 Now click the 'Clone' button.
 
 
-![image](../../images/mail-schedule-2.png)
+![image](../images/mail-schedule-2.png)
 
 ## Step 3
 
 Give a new name for the schedule that you are creating and add a small description.
 
-![image](../../images/mail-schedule-3.png)
+![image](../images/mail-schedule-3.png)
 
 ## Step 4
 
 Now, in the table, click on the drop down-arrow as shown and select the type of message. Typically we recommend creating the first message in the schedule as a Custom Message.
 
-![image](../../images/mail-schedule-5.png)
+![image](../images/mail-schedule-5.png)
 
 ## Step 5
 
@@ -78,7 +78,7 @@ From the Message column, you can create a new or select from an existing custom 
 
 Now, change the 'After Days' value so that the message will be sent after the selected number of days. While you change this value, watch the example Date you are getting on the right side.
 
-![image](../../images/mail-schedule-7.png)
+![image](../images/mail-schedule-7.png)
 
 ## Step 7
 
@@ -87,14 +87,14 @@ You can click on the 'View' icon to see the message.
 On the right side, you can click on the add and delete icons on any of the rows to add a new message or delete one depending on how many messages you want to have in a schedule. 
 
 
-![image](../../images/mail-schedule-8.png)
+![image](../images/mail-schedule-8.png)
 
 
 ## Step 8
 
 Click on the 'Save' button at the left bottom corner after you have made all the changes to the schedule. 
 
-![image](../../images/mail-schedule-10.png)
+![image](../images/mail-schedule-10.png)
 
 ## Step 9
 
@@ -102,11 +102,11 @@ After saving the schedule you may want to mark it default for the selected/speci
 
 Click on the drop-down arrow as shown. Select the AI assistant you want to assign the new schedule to.
 
-![image](../../images/mail-schedule-4.png)
+![image](../images/mail-schedule-4.png)
 
 Now, click the 'Make default' button.
 
-![image](../../images/mail-schedule-9.png)
+![image](../images/mail-schedule-9.png)
 
 
 The custom schedule gives you the ability to pick the number of followups and the days between each appropriately, along with the messages to be sent on each followup.
