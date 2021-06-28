@@ -5,9 +5,9 @@ video_id: JC2yJnBXzLM
 description: Filter the leads by their click on particular links.
 type: How-to
 sidebar:
-  - {id: step-1, text:  Go to All filters and Select the filter}
+  - {id: step-1, text: Go to All filters and Select the filter}
   - {id: step-2, text: Filter the number of clicked links}
-  - {id: step-3, text: apply filter}
+  - {id: step-3, text: Apply filters}
   - {id: step-4, text: Detail information of lead}
   - {id: step-5, text: See the clicked link}
   - {id: step-6, text: Go to All filters}
@@ -40,7 +40,7 @@ Scroll down and click on 'Clicked links' and add leads who have clicked at least
 
 ## Step-3
 
-Click on 'Apply Filter'.
+Click on 'Apply Filters'.
 
 ![image](../../images/Particular-link-3.png)
 
