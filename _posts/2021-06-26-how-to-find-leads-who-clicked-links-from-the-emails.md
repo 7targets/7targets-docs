@@ -50,7 +50,7 @@ You'll see the list of leads who have at least clicked one link.
 
 ## Step-4
 
-Click on any lead, you'll see the detailed information of follow-up. Here double tick means the lead has opened the email and the attachment sign shows that the link is opened.
+Click on any lead, you will see the detailed information of follow-up. Here double tick means the lead has opened the email and the attachment sign shows that the link is opened.
 
 ![image](../../images/Particular-link-5.png)
 
