@@ -87,7 +87,7 @@ This is helpful in reaching out to the right people and make personalized messag
 
 This ultimately results in a better conversion of a lead. 
 
-You may want to get notification on a particular link click and that is possible too. Read [How to get notified when someone clicks your link]({{ site.baseurl }}/how-to-get-notified-when-someone-is-clicking-your-link/) 
+You may want to get notification on a particular link click and that is possible too. Read [How to get notified when someone clicks your link]({{ site.baseurl }}/how-to/how-to-get-notified-when-someone-is-clicking-your-link/) 
 
 If you have any further doubts you can directly mail us at info@7targets.com.
 
