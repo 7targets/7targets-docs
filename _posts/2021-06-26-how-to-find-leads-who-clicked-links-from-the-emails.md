@@ -5,7 +5,7 @@ video_id: JC2yJnBXzLM
 description: Filter the leads by their click on particular links.
 type: How-to
 sidebar:
- - {id: step-1, text:  Go to All filters and Select the filter}
+  - {id: step-1, text:  Go to All filters and Select the filter}
   - {id: step-2, text: Filter the number of clicked links}
   - {id: step-3, text: apply filter}
   - {id: step-4, text: Detail information of lead}
@@ -13,6 +13,7 @@ sidebar:
   - {id: step-6, text: Go to All filters}
   - {id: step-7, text: Select specific links}
   - {id: step-8, text: Apply Filters}
+
 categories:
   - How-To
 # set: getting-started
