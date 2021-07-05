@@ -31,7 +31,7 @@ Even if you assume that each opportunity is worth a $1000, 2 misses per month is
 
 Recruitment Companies 
 <div class="video-container">
-    <iframe src="https://www.youtube.com/embed/vnYYk1XQuKI" height="380" width="560" 
+    <iframe src="https://www.youtube.com/embed/vnYYk1XQuKI" height="360" width="640" 
     allow="autoplay; encrypted-media"
     frameborder="0">
     </iframe>
