@@ -29,6 +29,14 @@ According to what we have seen so far, **EACH salesperson forgets to follow up _
 
 Even if you assume that each opportunity is worth a $1000, 2 misses per month is $2000 per month. If you have 10 sales guys, its $20k leaking from opportunity pipeline. 
 
+Recruitment Companies 
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/vnYYk1XQuKI" height="360" width="640" 
+    allow="autoplay; encrypted-media"
+    frameborder="0">
+    </iframe>
+</div>
+
 In 7Targets, we have a feature of sending follow-up emails automatically, to leads who do not reply. Even after Sales person responds to the initial email from the prospect, where he/she thinks his job is pretty much done, the salesperson forgets to keep track of this lead, because he **thinks the lead will respond**. Guess what. Its a busy world. Most people you approach are anyway seniors and are out of time. Each salesperson must expect that his email is NOT GOING TO BE READ. **This expectation of expecting a response after sending the brochure is exactly where sales drops leads**. We all know, changing human behavior is more difficult than going to Mars. And here is where AI Sales Assistants come to the rescue. AI Sales Assistants pick up the followup tasks and minimizes the human effort and increase the chances of conversion.
 
 You can try this process manually via your existing CRM and try to bring high discipline in sales with regular daily standing meetings. Or you can try 7Targets. The explanation of how you can do successful follow-ups using 7Targets is below. 
