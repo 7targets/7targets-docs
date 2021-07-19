@@ -1,8 +1,8 @@
 ---
 date: 2021-06-26
 title: How to find leads who clicked links from the emails
-video_id: JC2yJnBXzLM
-description: Filter the leads by their click on particular links.
+# video_id: JC2yJnBXzLM
+description: Finding leads who clicked links from the email, that too some specific link will help write a personalized email to that lead. This will help get the response from the lead.
 type: How-to
 sidebar:
   - {id: step-1, text: Go to All filters and Select the filter}
@@ -20,11 +20,10 @@ categories:
 # set_order: 3
 ---
 
-Follow-ups can be real messy sometimes.
+Finding leads who clicked links from the email, that too some specific link. This will help get understand the what interests the lead. Thus, using this information one can write a personalized email to that lead, increasing the chances of getting a response. 
 
-With 7Targets you can easily filter out your search and actually see the leads who clicked links from the emails.
-
-Here is the complete guideline of how you can do that by following simple steps.
+With 7Targets, you can easily filter the leads who clicked links from the emails.  
+Here are the steps for you.
 
 ## Step-1
 
@@ -34,7 +33,7 @@ Go to leads and click on 'All Filters'.
 
 ## Step-2
 
-Scroll down and click on 'Clicked links' and add leads who have clicked at least 'x' number of links.
+Scroll down and click on 'Clicked links' and type a number 'x'(say 1) in number of clicked links. 
 
 ![image](../../images/Particular-link-2.png) 
 
@@ -44,26 +43,25 @@ Click on 'Apply Filters'.
 
 ![image](../../images/Particular-link-3.png)
 
-You'll see the list of leads who have at least clicked one link.
+You'll see the filtered list of leads who have at least clicked one link from the received emails.
 
 ![image](../../images/Particular-link-4.png)
 
 ## Step-4
 
-Click on any lead, you will see the detailed information of follow-up. Here double tick means the lead has opened the email and the attachment sign shows that the link is opened.
+Click on any lead, you will see the detailed information of follow-up. Here double tick means the lead has opened the email and link icon conveyed that lead clicked on the link.
 
 ![image](../../images/Particular-link-5.png)
 
 ## Step-5
 
-Click on 'Lead Created' and you can see which link was clicked by the lead.
+Open the email and you can see which link was clicked by the lead. 
 
 ![image](../../images/Particular-link-6.png)
 
-
 ## Step-6
 
-If you particularly want to see which link was clicked 
+If you want to filter leads who clicked particularly link/s 
 
 Go to 'All Filters'
 
@@ -87,7 +85,9 @@ You'll see a list of leads who have clicked that specific link.
 
 This is helpful in reaching out to the right people and make personalized messages to people clicking on specific links.
 
-This ultimately results in a better conversion of a lead.
+This ultimately results in a better conversion of a lead. 
+
+You may want to get notification on a particular link click and that is possible too. Read [How to get notified when someone clicks your link]({{ site.baseurl }}/how-to/how-to-get-notified-when-someone-is-clicking-your-link/) 
 
 If you have any further doubts you can directly mail us at info@7targets.com.
 
