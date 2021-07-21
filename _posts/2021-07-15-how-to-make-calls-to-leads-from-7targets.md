@@ -1,8 +1,8 @@
 ---
 date: 2021-07-19
-title: How to make calls to leads from 7targets
-video_id: JC2yJnBXzLM
-description: Calling is an important aspect of lead conversion. 7targets make this task easy with the help of their automated tools.
+title: How to make calls to leads from 7targets easily
+#video_id: JC2yJnBXzLM
+description: Calling is an important aspect of lead conversion. Knowing whom to call and keep a tag of the call result is critical to simplify the calling process. 7targets make this task easy for you.
 type: How-to
 sidebar:
   - {id: step-1, text: Lead filters}
@@ -25,11 +25,9 @@ categories:
 # set_order: 3
 ---
 
-When it comes to striking the human chord nothing is as effective as warm calling. Emails are more likely to get ignored by respective lead this is why Calling is an important aspect of lead conversion.
+Calling the leads is a very messy process. Searching for numbers, pasting them into dial paid, keeping a tab of the call result, deciding whom to call to better utilize the time in hand, etc. is very time consuming.
 
-But it can be real messy sometime. Searching for numbers, pasting them into dial paid etc. is very time consuming.
-
-With the help of 7targets you can reduce these efforts to null. Here is the complete guideline of how you can do that by following simple steps.
+With the help of 7targets you can reduce these efforts. Here is the complete guideline of how you can do that by following simple steps.
 
 ## Step-1
 
@@ -55,7 +53,7 @@ Click on 'Apply Filters'.
 
 ![image](../../images/Call-lead-4.jpg)
 
-Now It'll show you all the leads on the warm stage and have a phone number.
+See a list all the Warm leads with a phone number. 
 
 ![image](../../images/Call-lead-5.jpg)
 
@@ -75,7 +73,7 @@ Click on the phone number and you'll get directed to the dialer.
 
 ## Step-7
 
-After having the conversation with the respective lead, you can also add a particular tag that highlights the result of the call.
+After having the conversation with the respective lead, you can also add a particular tag that saves the result of the call.
 
 To do this
 
@@ -85,7 +83,7 @@ Click on 'Add tags'
 
 ## Step-8
 
-Select any of the tags and click on 'Yes'.
+Select any of the Tags from quick tags or type your own new Tag if required and click on 'Yes'. 
 
 ![image](../../images/Call-lead-9.jpg)
 
@@ -123,6 +121,6 @@ Add the phone number and click on 'Yes'.
 
 ![image](../../images/Call-lead-20.jpg)
 
-This is how you can easily make calls from 7targets.
+This is how you can easily make calls from 7targets and simplify the calling process.
 
 If you have any further doubts you can directly mail us at info@7targets.com.
