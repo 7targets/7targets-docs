@@ -1,5 +1,5 @@
 ---
-date: 2021-07-19
+date: 2021-07-21
 title: How to make calls to leads from 7targets easily
 #video_id: JC2yJnBXzLM
 description: Calling is an important aspect of lead conversion. Knowing whom to call and keep a tag of the call result is critical to simplify the calling process. 7targets make this task easy for you.
@@ -87,7 +87,7 @@ Select any of the Tags from quick tags or type your own new Tag if required and 
 
 ![image](../../images/Call-lead-9.jpg)
 
-**Note: You can also add your tags.**
+**Note: You can also add your own tags.**
 
 ## Step-9
 
@@ -111,7 +111,7 @@ Now you'll not see the leads with that specific filter you selected.
 
 ## Step-12
 
-Some leads might not have phone numbers. So to add numbers manually click on 'Edit'.
+Some leads might not have the phone numbers. So to add numbers manually click on 'Edit'.
 
 ![image](../../images/Call-lead-13.jpg)
 
