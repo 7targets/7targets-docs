@@ -1,7 +1,7 @@
 ---
 date: 2020-02-23
 title: Pipedrive  
-description: Integrate with Pipedrive 
+description: Integrate 7Targets AI Assistant with Pipedrive 
 type: Document
 sidebar:
   - {id: what-you-get, text: What you get}
@@ -12,14 +12,14 @@ categories:
 
 <a name="what-you-get"/>
 ## [What you get](#what-you-get)
-Leads from **Pipedrive** CRM can be assigned to 7Targets AI Sales Assistant directly within the Pipedrive UI. AI Assistant will then own the lead and communicate to try and get the meeting. Assistant will also update the lead details putting notes for the emails being sent. Will also move the leads assigned across multiple stages in the Pipeline.
+Deals from **Pipedrive** CRM can be assigned to 7Targets AI Sales Assistant directly within the Pipedrive UI. AI Assistant will then own the lead and communicate to try and get the meeting. Assistant will also update the deal by putting notes for the emails being sent.
 
 One **important** point to note, as soon as the AI Assistant receives a response from the lead and detects it to be a Hot or Responded lead then the assistant assigns the lead back to the original owner.
 
 For onboarding your AI Assistant on Pipedrive please reach out to support@7targets.com
 
 ## Authorize Pipedrive for 7Targets
-**Authorize Pipedrive** by clicking this link [authorize](https://solution.7targets.com/hubspot-pipedrive){:target="_blank" rel="noopener"}. Once Authorization is complete follow below steps for further configuration before it is ready to be used. 
+**Authorize Pipedrive** by clicking this link [authorize](https://solution.7targets.com/pipedrive-authorize){:target="_blank" rel="noopener"}. Once Authorization is complete follow below steps for further configuration before it is ready to be used. 
 
 1. Create your assistant in 7Targets if not already created. Provide the default values for context and other variables at the Assistant level by editing the Assistant.  
 
