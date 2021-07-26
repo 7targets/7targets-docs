@@ -67,7 +67,7 @@ Go to the search tab and write the telephone code of the particular country
 
 ## Step-6
 
-Click on the phone number and you'll get directed to the dialer.
+Click on the phone number and you will get directed to the dialer.
 
 ![image](../../images/Call-lead-7.jpg)
 
@@ -91,7 +91,7 @@ Select any of the Tags from quick tags or type your own new Tag if required and 
 
 ## Step-9
 
-Next time you're making a call and you don't want to see the leads that are already contacted, Just click on Filters
+Next time you're making a call and you don't want to see the leads that are already contacted, Just click on Filters.
 
 ![image](../../images/Call-lead-10.jpg)
 
@@ -103,7 +103,7 @@ Click on 'Advanced Filters' and click on 'Not Having Tags'.
 
 ## Step-11
 
-Select the lead tags you don't want to see and click on 'Apply FIlters'
+Select the lead tags you don't want to see and click on 'Apply FIlters'.
 
 ![image](../../images/Call-lead-12.jpg)
 
