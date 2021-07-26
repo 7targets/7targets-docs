@@ -2,7 +2,7 @@
 date: 2021-07-23
 title: How to introduce yourself (a salesperson) in a Lead<->Assistant communication 
 #video_id: JC2yJnBXzLM
-description: This is about how we can introduce a human salesperson in a conversation between Lead and AI assistant.
+description: An AI assistant interacts with hundreds of leads in parallel. When a lead responds to the AI assistant and asks for a meeting, now the AI assistant needs to introduce her boss to take the conversation forward.
 type: How-to
 sidebar:
   - {id: step-1, text: Login to 7targets}
@@ -17,10 +17,10 @@ categories:
 # set_order: 3
 ---
 
-Problem: An AI assistant interacts with hundreds of leads in parallel. When a lead responds to the AI assistant and asks for a meeting, now the AI assistant needs to introduce her boss to take the conversation forward. the human salesperson into the conversation. This is done using the following simple steps.
+Problem: An AI assistant interacts with hundreds of leads in parallel. When a lead responds to the AI assistant and asks for a meeting, now the AI assistant needs to introduce her boss to take the conversation forward. This is done using the following simple steps.
 
 In the below example, the AI assistant got a response from a lead named Nicole asking a time for a meeting.
-First, when assistant reads something like this, she marks this lead as a HOT lead. And then she forwards this hot lead to her boss. 
+First, when assistant reads something like this, she marks this lead as a HOT lead. And then she forwards this HOT lead to her boss. 
 
 Now her boss wants to introduce himself to the lead - Nicole.
 
