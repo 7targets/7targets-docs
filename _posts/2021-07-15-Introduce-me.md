@@ -1,8 +1,8 @@
 ---
 date: 2021-07-23
-title: How to introduce salesperson to AI assistant
+title: How to introduce yourself (a salesperson) in a Lead<->Assistant communication 
 #video_id: JC2yJnBXzLM
-description: This is about how we can introduce actual human salesperson to AI assistant.
+description: This is about how we can introduce a human salesperson in a conversation between Lead and AI assistant.
 type: How-to
 sidebar:
   - {id: step-1, text: Login to 7targets}
@@ -17,25 +17,18 @@ categories:
 # set_order: 3
 ---
 
-AI sales assistant is getting more advanced by the time. It is reducing human efforts but can never replace human salespeople. 
+Problem: An AI assistant interacts with hundreds of leads in parallel. When a lead responds to the AI assistant and asks for a meeting, now the AI assistant needs to introduce her boss to take the conversation forward. the human salesperson into the conversation. This is done using the following simple steps.
 
-Introducing humans to AI assistant is important. Below is the complete guideline of how you can do that by following simple steps.
+In the below example, the AI assistant got a response from a lead named Nicole asking a time for a meeting.
+First, when assistant reads something like this, she marks this lead as a HOT lead. And then she forwards this hot lead to her boss. 
 
-Here assistant got a response saying something like are you available at a given time.
-So assistant forwards this hot lead to the head.
-
-Now the head wants to introduce himself to Nicole.
+Now her boss wants to introduce himself to the lead - Nicole.
 
 So all you have to do is.
 
 Step-1
 
-Login to 7targets.
-
-Step-2
-
-Go to 'Leads' and search for the email which was sent to you via email.
-
+Click the lead URL that was sent to you in lead notification. If 7Targets is open, search for 'Nicole' on Lead list page. 
 ![image](../../images/Introduce-me-1.jpg)
 
 Lead name with follow-up history will pop up.
@@ -50,11 +43,11 @@ Here you'll see the response from the lead. In this case, the lead is asking for
 
 Step-4
 
-Click on 'Introduce Me'.
+Click on 'Introduce Me' to see a ready made introduction email popup. 
 
 ![image](../../images/Introduce-me-4.jpg)
 
-You can also make changes to the response message.
+Make changes to the ready made response message as needed. Notice that your real email id is pre-populated by the assistant in CC. 
 
 ![image](../../images/Introduce-me-5.jpg)
 
