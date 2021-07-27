@@ -40,6 +40,6 @@ Select one of those contacts (leads) and confirm that the assignment to the Assi
 ![image](../../images/jobadder-7targets-confirmation-note.jpg)
 
 
-Thats it! Thats how easy it is to leverage AI Sales assistant to do the mundance work ok connecting with your Contacts from JobAdder.
+Thats it! Thats how easy it is to leverage AI Sales assistant to do the mundane work of connecting with your Contacts from JobAdder.
 
 If you have any further doubts you can directly mail us at info@7targets.com.
