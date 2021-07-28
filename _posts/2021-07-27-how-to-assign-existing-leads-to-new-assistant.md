@@ -1,8 +1,8 @@
 ---
 date: 2021-07-27
-title: How to assign existing leads to new assistant
+title: How to assign existing leads to another AI Sales Assistant
 #video_id: JC2yJnBXzLM
-description: Assign leads to new AI assistant. 
+description: Assign some of the existing leads to another AI assistant and put on a new nurturing schedule.
 type: How-to
 sidebar:
   - {id: step-1, text: Go to Leads}
@@ -24,9 +24,9 @@ categories:
 # set_order: 3
 ---
 
-Sometimes you might want to assign all the existing leads to a new assistant. 
+Sometimes you might want to assign some of the existing leads to another assistant with a different nurturing schedule for a different offering.
 
-With 7Targets you can easily assign existing leads to new assistants.
+In 7Targets, you can easily assign existing leads to new assistants. It involves filtering and getting those leads which needs to be assigned to another Assistant, selecting all of them and then using the Restart Followup action.
 
 Here is the complete guideline of how you can do that by following simple steps.
 
@@ -52,15 +52,13 @@ Click on 'Apply'
 
 If you want to apply more filters.
 
-Click on 'Schedules' and select the filter you want to apply.
+Click on 'Schedules' and select the filter you want to apply. You can apply more such filters to get the list of leads which needs to be assigned to another Assistant.
 
 ![image](../../images/Existing-leads-4.jpg)
 
 ## Step-5
 
-If you want to assign all the leads to different assistants. Then,
-
-Select all the leads. 
+To assign all the filtered leads to different assistants select all the leads. 
 
 ![image](../../images/Existing-leads-5.jpg)
 
@@ -70,7 +68,7 @@ Click on 'Restart Followup'.
 
 ![image](../../images/Existing-leads--6.jpg)
 
-As you will click on the restart follow-up. A new page will appear.
+After you will click on the restart follow-up. A new page will appear.
 
 ![image](../../images/Existing-leads-7.jpg)
 
@@ -82,13 +80,13 @@ Select the assistant to whom you want to assign the leads.
 
 ## Step-8
 
-If there are multiple users you can also change the user.
+If there are multiple users you can also change the user too.
 
 ![image](../../images/Existing-leads-9.jpg)
 
 ## Step-9
 
-Select the context.
+Type the context.
 
 ![image](../../images/Existing-leads-10.jpg)
 
@@ -100,17 +98,19 @@ Write down the additional information if you want to provide any.
 
 ## Step-11
 
-Select a schedule.
+Select the appropriate schedule.
 
 ![image](../../images/Existing-leads-12.jpg)
 
+If new value is not provided for these fields on this page then existing values from the existing lead will be used. 
+
 ## Step-12
 
-Click on 'Restart'
+Note the comment about the number of leads. Click on 'Restart'.
 
 ![image](../../images/Existing-leads-13.jpg)
 
-**Note: After clicking restart, all the balanced leads will be restarted and Unsubscribed or bounced leads will be skipped.**
+**Note: After clicking restart, all the selected leads will be restarted. Unsubscribed or Invalid emails will be skipped.**
 
 This is how you can assign leads of one AI assistant to another assistant.
 
