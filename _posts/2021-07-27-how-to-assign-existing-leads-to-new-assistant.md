@@ -1,5 +1,5 @@
 ---
-date: 2021-07-27
+date: 2021-07-28
 title: How to assign existing leads to new assistant
 #video_id: JC2yJnBXzLM
 description: Assign leads to new AI assistant. 
@@ -60,9 +60,9 @@ Click on 'Schedules' and select the filter you want to apply.
 
 If you want to assign all the leads to different assistants. Then,
 
-Select all the leads. 
+Select all the leads. To select all the leads at once, just click on 'Select all 'n' leads'.
 
-![image](../../images/Existing-leads-5.jpg)
+![image](../../images/Existing-leads-50.jpg)
 
 ## Step-6
 
