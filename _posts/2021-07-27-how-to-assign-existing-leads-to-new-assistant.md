@@ -58,9 +58,9 @@ Click on 'Schedules' and select the filter you want to apply.
 
 ## Step-5
 
-If you want to assign all the leads to different assistants. Then,
+To assign all the filtered leads to different assistants select all the leads.
 
-Select all the leads. To select all the leads at once, just click on 'Select all 'n' leads'.
+To select all the leads at once, just click on 'Select all 'n' leads'.
 
 ![image](../../images/Existing-leads-50.jpg)
 
