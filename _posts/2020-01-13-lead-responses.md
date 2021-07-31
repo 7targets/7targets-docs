@@ -1,6 +1,6 @@
 ---
 date: 2020-01-13
-title: Lead Responses, Lead State and Teach your Assistant
+title: Lead State and Responses
 description: Lead Responses, Lead State and Teach your Assistant
 type: Document
 sidebar:
