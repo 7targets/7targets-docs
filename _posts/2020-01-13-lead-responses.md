@@ -1,7 +1,7 @@
 ---
 date: 2020-01-13
-title: Lead Responses
-description: Lead Responses
+title: Lead State and Responses
+description: Lead Responses, Lead State and Teach your Assistant
 type: Document
 sidebar:
   - {id: lead-responses, text: Lead Responses}
