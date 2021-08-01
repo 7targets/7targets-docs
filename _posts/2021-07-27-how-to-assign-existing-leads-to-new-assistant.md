@@ -1,5 +1,4 @@
 ---
-<<<<<<< HEAD
 date: 2021-07-28
 title: How to assign existing leads to new assistant
 #video_id: JC2yJnBXzLM
@@ -59,7 +58,6 @@ Click on 'Schedules' and select the filter you want to apply. You can apply more
 
 ## Step-5
 
-<<<<<<< HEAD
 To assign all the filtered leads to different assistants select all the leads.
 
 To select all the leads at once, just click on 'Select all 'n' leads'.
