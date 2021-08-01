@@ -1,6 +1,6 @@
 ---
 date: 2021-07-28
-title: How to assign existing leads to new assistant
+title: How to assign existing leads to another AI assistant
 #video_id: JC2yJnBXzLM
 description: Assign some of the existing leads to another AI assistant and put on a new nurturing schedule.
 type: How-to
