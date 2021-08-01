@@ -24,7 +24,7 @@ categories:
 
 **Continue Followup** 
 
-The processed state is a state where all the follow-up messages have been sent to the lead, but the lead didn't respond.
+The processed state is a state where all the follow-up message has been sent to the lead.
 
 Continous follow-up is used to send another follow-up message to leads at processed state.
 
@@ -34,39 +34,39 @@ To add a new follow-up message-
 
 Go to 'Leads' and select the state.
 
-![image](../../images/Different-followup-.jpg)
+![image](../../images/Different-followup-1.jpg)
 
 ## Step-2 
 
 Click on 'Apply'.
 
-![image](../../images/Different-followup-1.jpg)
+![image](../../images/Different-followup-.2jpg)
 
 All the leads in the processed state will show up.
 
-![image](../../images/Different-followup-2.jpg)
+![image](../../images/Different-followup-3.jpg)
 
 ## Step-3
 
 Select all the leads. To select all leads at once click on 'Select all 'n' leads'.
 
-![image](../../images/Different-followup-3.jpg)
+![image](../../images/Different-followup-4.jpg)
 
 ## Step-4
 
-Go to 'More Actions' and select 'Continue followup'.
+Go to 'More Actions' and select 'Continue Followup'.
 
-![image](../../images/Different-followup-4.jpg)
+![image](../../images/Different-followup-5.jpg)
 
 A message for continued follow-up will show up.
 
-![image](../../images/Different-followup-5.jpg)
+![image](../../images/Different-followup-6.jpg)
 
 ## Step-5
 
 Write the message you want to send and click on 'Yes'.
 
-![image](../../images/Different-followup-6.jpg)
+![image](../../images/Different-followup-7.jpg)
 
 Note: All the selected leads will get the new follow-up message.
 
@@ -78,43 +78,43 @@ Restart follow-up is done when you want to send a Followup message to all the le
 
 Go to 'Leads' and select the state.
 
-![image](../../images/Different-followup-7.jpg)
+![image](../../images/Different-followup-8.jpg)
 
 ## Step-7
 
 Click on 'Apply'.
 
-![image](../../images/Different-followup-8.jpg)
+![image](../../images/Different-followup-9.jpg)
 
 All the leads in the processed state will show up.
 
-![image](../../images/Different-followup-9.jpg)
+![image](../../images/Different-followup-10.jpg)
 
 ## Step-8
 
 Select all the leads. To select all leads at once click on 'Select all 'n' leads'.
 
-![image](../../images/Different-followup-10.jpg)
+![image](../../images/Different-followup-11.jpg)
 
 ## Step-9
 
 Click on 'Restart Followup'.
 
-![image](../../images/Different-followup-11.jpg)
+![image](../../images/Different-followup-12.jpg)
 
 A message for Restart follow-up will show up.
 
-![image](../../images/Different-followup-12.jpg)
+![image](../../images/Different-followup-13.jpg)
 
 You can also edit the schedule or assign leads to other assistants.
 
-![image](../../images/Different-followup-13.jpg)
+![image](../../images/Different-followup-14.jpg)
 
 ## Step-10
 
 Click on 'Restart'.
 
-![image](../../images/Different-followup-14.jpg)
+![image](../../images/Different-followup-15.jpg)
 
 As you will click on restart all of them will start receiving new messages as per the given schedule.
 
