@@ -34,7 +34,7 @@ After creating and saving the message, click on the ‘Dashboard’ tab.
 
 Scroll down. If you want to invite only warm leads, click on the ‘Warm (*%)’. If you wish to send the invitation to the leads who have opened the email only once, click on the ‘Engaged (**%)’.
 
-![image](../]../images/webinar-9.png)
+![image](../../images/webinar-9.png)
 
 To select all the leads under warm or engaged leads, tick on the box as shown.
 
