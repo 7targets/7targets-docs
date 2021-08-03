@@ -1,6 +1,6 @@
 ---
-date: 2021-07-27
-title: How to assign existing leads to another AI Sales Assistant
+date: 2021-07-28
+title: How to assign existing leads to another AI assistant
 #video_id: JC2yJnBXzLM
 description: Assign some of the existing leads to another AI assistant and put on a new nurturing schedule.
 type: How-to
@@ -58,9 +58,11 @@ Click on 'Schedules' and select the filter you want to apply. You can apply more
 
 ## Step-5
 
-To assign all the filtered leads to different assistants select all the leads. 
+To assign all the filtered leads to different assistants select all the leads.
 
-![image](../../images/Existing-leads-5.jpg)
+To select all the leads at once, just click on 'Select all 'n' leads'.
+
+![image](../../images/Existing-leads-50.jpg)
 
 ## Step-6
 
