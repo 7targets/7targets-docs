@@ -53,6 +53,6 @@ The downloaded file will look like this. Add the leads in this sheet.
 
 ![image](../../images/leads-sheet-5.png)
 
-Once your sheet is ready, follow the steps under [How to upload multiple leads](../how-to-add-multiple-leads/).
+Once your sheet is ready, follow the steps under [How to upload multiple leads](../how-to/how-to-add-multiple-leads/).
 
 If you have any further doubts you can directly mail us at info@7targets.com.
