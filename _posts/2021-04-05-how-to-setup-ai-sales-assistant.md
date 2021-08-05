@@ -20,7 +20,7 @@ Your Assistant is identified by name, email address, and title. You can always c
  
 To know more about setting up an AI sales assistant please visit this page.
 
-[![image](../../images/setup-assistant-btn.png)](https://help.7targets.ai/getting-started/create-your-assistant/)
+[![image](../../images/setup-assistant-btn.png)](../../getting-started/create-your-assistant/)
  
 Follow these simple steps below to a add new AI sales assistant.
 

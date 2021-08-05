@@ -31,11 +31,11 @@ categories:
 After you have setup the AI assistant, you can add further details to her such as signature, context, default schedule, brochure URL, etc.
 
 
-If you haven't yet setup an assistant, do follow the steps under [how to setup an AI sales assistant](https://help.7targets.ai/how-to-setup-ai-sales-assistant/).
+If you haven't yet setup an assistant, do follow the steps under [how to setup an AI sales assistant](../how-to-setup-ai-sales-assistant/).
 
 To know more about the details of the assistant please visit this page.
 
-[![image](../../images/details-of-assistant-btn.png)](https://help.7targets.ai/getting-responses/assistant-details/#assistant-default)
+[![image](../../images/details-of-assistant-btn.png)](../../getting-responses/assistant-details/#assistant-default)
 
 
 Here is a small video explaining the steps.
@@ -107,7 +107,7 @@ You can assign the default schedule to the assistant. Click on the drop-down arr
 
 ![image](../../images/details-of-assistant-8.png)
 
-You can even create your own schedule. Follow the steps under [how to make your own schedule](https://help.7targets.ai/how-to-schedule-followups/).
+You can even create your own schedule. Follow the steps under [how to make your own schedule](../how-to-make-your-own-schedule/).
 
 ## Step 9
 
