@@ -105,9 +105,8 @@ You'll be directed to this page.
 
 Here, for a certain file, if you want to download the total number of leads. Click on its corresponding 'Total Leads'.
 
-Similarly, to know the reason why certain leads aren't added, download it by clicking the corresponding 'Not Added'. The same is for the added lead, click on the correponding 'Added'.
-
-Other details in this table are assigned assistant to the leads, date, status, and actions to be taken.
+Similarly, to know the reason why certain leads aren't added, download it by clicking the corresponding 'Not Added'. To look at the leads added, click on the 'Added' count. 
+By clicking on the file name you would be able to download the original file uploaded.
 
 ![image](../../images/Step-10.png)
 
