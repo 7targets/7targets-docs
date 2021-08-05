@@ -2,19 +2,20 @@
 date: 2021-08-01
 title: What is the difference between continue followup and restart followup
 #video_id: JC2yJnBXzLM
-description: Continue followup and Restart followup has their own significance. Let's understand their roles in details
+description: Continue followup and Restart followup are two different actions and purpose. Let's understand these actions in details
 type: How-to
 sidebar:
-  - {id: step-1, text: Go to Leads and select the state}
-  - {id: step-2, text: Apply tags}
-  - {id: step-3, text: Select the leads}
-  - {id: step-4, text: Continue followup}
-  - {id: step-5, text: Send message}
-  - {id: step-6, text: Go to Leads and select the state}
-  - {id: step-7, text: Apply tags}
-  - {id: step-8, text: Select the leads}
-  - {id: step-9, text: Restart Followup}
-  - {id: step-10, text: Send message}
+  - {id: continue-followup, text: Continue Followup}
+  - {id: step-1, text: Filter by Processed State}
+  - {id: step-2, text: Select all the leads}
+  - {id: step-3, text: Continue followup}
+  - {id: step-4, text: Confirm}
+  - {id: restart-followup, text: Restart Followup}
+  - {id: step-5, text: Filters leads to restart}
+  - {id: step-6, text: Apply tags}
+  - {id: step-7, text: Select the leads}
+  - {id: step-8, text: Restart Followup}
+  - {id: step-9, text: Confirm Restart}
 
 categories:
   - How-To
@@ -22,37 +23,36 @@ categories:
 # set_order: 3
 ---
 
-**Continue Followup** 
+## Continue Followup
 
-The processed state is a state where all the follow-up message has been sent to the lead.
+Assistant stops sending any further messages to the lead after one of the below happens:
+1. a response is received from the lead
+1. all the messages are sent out as per the schedule for the lead
 
-Continue follow-up is used to send another follow-up message to leads at processed state.
+You may need to continue follow-up for situation 1 above. Or may have added more followup messages to the schedule and in that case may need to send the remaining messages from the schedule to the lead.
 
-To add a new follow-up message-
+**Continue Followup** action helps you to let the follow-ups be continued from where it stopped.
+
+You can do it for one lead at a time or for multiple. Lets look at the steps below for multiple leads.
+
 
 ## Step-1 
 
-Go to 'Leads' and select the state.
+Go to 'Leads' and filter by the Processed state. Click on 'Apply'.
 
 ![image](../../images/Different-followup-1.jpg)
-
-## Step-2 
-
-Click on 'Apply'.
-
-![image](../../images/Different-followup-.2jpg)
 
 All the leads in the processed state will show up.
 
 ![image](../../images/Different-followup-3.jpg)
 
-## Step-3
+## Step-2
 
 Select all the leads. To select all leads at once click on 'Select all 'n' leads'.
 
 ![image](../../images/Different-followup-4.jpg)
 
-## Step-4
+## Step-3
 
 Go to 'More Actions' and select 'Continue Followup'.
 
@@ -62,25 +62,25 @@ A message for continued follow-up will show up.
 
 ![image](../../images/Different-followup-6.jpg)
 
-## Step-5
+## Step-4
 
-Write the message you want to send and click on 'Yes'.
+Write the note to save, select the date and time for the messages to continue. The the number of leads for confirmation and click on 'Yes'.
 
 ![image](../../images/Different-followup-7.jpg)
 
-Note: All the selected leads will get the new follow-up message.
+Note: All the selected leads will be continued as per the schedule and the next message in the schedule for that lead.
+ 
+## Restart Followup
 
-**Restart Followup** 
+**Restart Followup** will start sending the messages for the restarted leads from the first message in the schedule sequence. This action is useful if you want to restart followup for certain leads on a different schedule.
 
-Restart follow-up is done when you want to send a Followup message to all the leads from the beginning.
+## Step-5
 
-## Step-6
-
-Go to 'Leads' and select the state.
+Go to 'Leads' and filter by Processed state. You can use other filters as required.
 
 ![image](../../images/Different-followup-8.jpg)
 
-## Step-7
+## Step-6
 
 Click on 'Apply'.
 
@@ -90,13 +90,13 @@ All the leads in the processed state will show up.
 
 ![image](../../images/Different-followup-10.jpg)
 
-## Step-8
+## Step-7
 
 Select all the leads. To select all leads at once click on 'Select all 'n' leads'.
 
 ![image](../../images/Different-followup-11.jpg)
 
-## Step-9
+## Step-8
 
 Click on 'Restart Followup'.
 
@@ -110,7 +110,7 @@ You can also edit the schedule or assign leads to other assistants.
 
 ![image](../../images/Different-followup-14.jpg)
 
-## Step-10
+## Step-9
 
 Click on 'Restart'.
 

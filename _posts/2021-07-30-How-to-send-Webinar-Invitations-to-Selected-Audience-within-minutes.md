@@ -9,8 +9,7 @@ sidebar:
   - {id: step-2, text: Select leads}
   - {id: step-3, text: Broadcast message}
   - {id: step-4, text: Assign message to selected leads}
-  - {id: step-5, text: Name broadcast message}
-  - {id: step-6, text: Enable okay button}
+  - {id: step-5, text: Create broadcast for selected leads}
 
 categories:
   - How-To
@@ -26,7 +25,7 @@ Follow the simple steps below for sending the invitations.
 
 ## Step 1
 
-After creating and saving the message, click on the ‘Dashboard’ tab.
+Click on the ‘Dashboard’ tab.
 
 ![image](../../images/webinar-8.png)
 
@@ -36,13 +35,13 @@ Scroll down. If you want to invite only warm leads, click on the ‘Warm (*%)’
 
 ![image](../../images/webinar-9.png)
 
-To select all the leads under warm or engaged leads, tick on the box as shown.
+To select all the leads under warm or engaged leads, tick on the box as shown below. Click on 'Select all the 'n' leads' too.
 
 ![image](../../images/webinar-10.png)
 
 ## Step 3
 
-Click on the ‘More Actions’ arrow.
+Click on ‘More Actions’.
 
 ![image](../../images/webinar-11.png)
 
@@ -52,26 +51,20 @@ Select the ‘Broadcast Message’.
 
 ## Step 4
 
-To assign the webinar invitation you created to the leads, click on the ‘Select Message’.
+Assign the webinar invitation message you created to the leads, click on the ‘Select Message’. We have a [Message Library](../../manage-org/organization-message-library/) to pick from for Webinar Invitation messages along with other types too.
 
 ![image](../../images/webinar-13.png)
 
-From the list, select your message and click ‘Okay’.
+From the list, search and select your message.
 
 ![image](../../images/webinar-14.png)
 
 ## Step 5
 
-Name the Broadcast message. Click on 'Create' button when you enter the name. 
+Name the Broadcast message. Select the date and time and then click on 'Create' button. 
 
 ![image](../../images/webinar-50.png)
 
-## Step 6
-
-Okay button is 'Enabled' when Broadcast message has a name. 
-
-![image](../../images/webinar-51.png)
-
-The webinar invitation message is broadcasted to all the selected leads in these few simple steps within minutes.
+The webinar invitation message is broadcasted to all the selected leads in these few simple steps within minutes. 
 
 If you have any further doubts, you can directly mail us at info@7targets.com.
