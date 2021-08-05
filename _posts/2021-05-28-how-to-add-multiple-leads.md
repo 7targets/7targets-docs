@@ -23,7 +23,7 @@ You can use 'Multiple Lead' option to directly upload leads from an excel sheet.
 
 To know more about adding multiple leads please visit this page.
 
-[![image](../../images/add-multiple-leads-btn.png)](https://help.7targets.ai/assigning-leads/add-multiple-leads/)
+[![image](../../images/add-multiple-leads-btn.png)](../../assigning-leads/add-multiple-leads/)
 
 Here is a small video explaining the steps.
 <div class="video-container">
@@ -39,7 +39,7 @@ Sign in to your account. Click on the 'Leads' option besides 'Dashboard' on top.
 
 Before uploading the leads, you should have an excel sheet ready in a proper format. The name, email id, company, designation, etc should be formatted so that you can upload multiple leads. 
 
-If you haven't yet prepared the sheet, do follow the steps under [how to prepare an excel sheet to upload multiple leads](https://help.7targets.ai/how-to-prepare-excel-sheet-to-upload-information-of-multiple-leads/).
+If you haven't yet prepared the sheet, do follow the steps under [how to prepare an excel sheet to upload multiple leads](../how-to-prepare-excel-sheet-to-upload-information-of-multiple-leads/).
 
 ## Step 1
 
@@ -64,7 +64,7 @@ Click on the drop down arrow as shown below. Select the source from where you go
 
 ## Step 4
 
-In 'More Context' field, add further details of the lead source.It helps assistant to construct more relevant sentences in the email. You can see the dynamic email constuction on the right side.
+In 'More Context' field, add further details of the lead source.It helps assistant to construct more relevant sentences in the email. You can see the dynamic email construction on the right side.
 
 ![image](../../images/Step-4.png)
 
@@ -86,7 +86,7 @@ You can assign schedule to these leads. Click on the 'Schedule' button. Select t
 
 ![image](../../images/Step-8.png)
 
-Further, you can even create your own schedule to assign to these leads. Follow the steps under [how to make your own schedule](https://help.7targets.ai/how-to-schedule-followups/).
+Further, you can even create your own schedule to assign to these leads. Follow the steps under [how to make your own schedule](../how-to-make-your-own-schedule/).
 
 ## Step 7
 

@@ -26,7 +26,7 @@ categories:
 
 The processed state is a state where all the follow-up message has been sent to the lead.
 
-Continous follow-up is used to send another follow-up message to leads at processed state.
+Continue follow-up is used to send another follow-up message to leads at processed state.
 
 To add a new follow-up message-
 
