@@ -20,8 +20,14 @@ categories:
 ---
 
 Most companies buy data from third parties. Or have a junior team work on collecting contacts. Those contacts are then uploaded into the system in a required format, and then someone else, who understands the business, uses those contacts to start a campaign. 
-7Targets supports this 2 step process, where one person uploads an XL file of contacts, and second person approves those contacts and starts a campaign using them. Once the 'uploader' uploads a file, the file is verified by the AI Assistants offline. If file is invalid, then the uploader get an email from the AI Assistant. If the file format is valid, an email is sent to the uploader as well as the approver that the file is successfully uploaded. Format verification is completed. Validity of emails is NOT done in this step. Just format of the file is validated. Once the approver get a notification, then he/she can verify if those are the right leads that need to be added to the system. To proceed, the approver can go ahead with 'Add Lead' action, and get started with the lead nurturing campaign. Detailed step by step instructions are given below. 
 
+[7Targets](https://7targets.ai) supports this 2 step process, 
+- where one person uploads an XL file of contacts, 
+- and second person approves those contacts and starts a campaign using them. 
+
+Once the 'uploader' uploads a file, the file is verified by the AI Assistants offline. If file is invalid, then the uploader get an email from the AI Assistant. If the file format is valid, an email is sent to the uploader as well as the approver that the file is successfully uploaded. File format is verified. 
+
+Validity of emails is NOT done in this step. Just format of the file is validated. Once the approver get a notification, then he/she can verify if those are the right leads that need to be added to the system. To proceed, the approver can go ahead with 'Add Lead' action, and get started with the lead nurturing campaign. Detailed step by step instructions are given below. 
 
 ## Step-1 
 
