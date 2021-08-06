@@ -1,6 +1,6 @@
 ---
 date: 2021-08-05
-title: How to verify and add leads from the uploaded excel file
+title: How to verify, approve and then add leads from a excel file
 #video_id: JC2yJnBXzLM
 description: How one user uploads an excel file, then approver verifies and add the leads.
 type: How-to
@@ -19,7 +19,8 @@ categories:
 # set_order: 3
 ---
 
-To divide the upload file and then add leads into two different people. Users can use the multi step process. One user can simply upload the file and on file upload get an email. Forward that email to approver to verify the upload details and then add those leads.
+Most companies buy data from third parties. Or have a junior team work on collecting contacts. Those contacts are then uploaded into the system in a required format, and then someone else, who understands the business, uses those contacts to start a campaign. 
+7Targets supports this 2 step process, where one person uploads an XL file of contacts, and second person approves those contacts and starts a campaign using them. Once the 'uploader' uploads a file, the file is verified by the AI Assistants offline. If file is invalid, then the uploader get an email from the AI Assistant. If the file format is valid, an email is sent to the uploader as well as the approver that the file is successfully uploaded. Format verification is completed. Validity of emails is NOT done in this step. Just format of the file is validated. Once the approver get a notification, then he/she can verify if those are the right leads that need to be added to the system. To proceed, the approver can go ahead with 'Add Lead' action, and get started with the lead nurturing campaign. Detailed step by step instructions are given below. 
 
 
 ## Step-1 
@@ -28,28 +29,28 @@ Go to 'Leads' and click on Add Leads
 
 ![image](../../images/action-leads-addlead.jpg)
 
-Go to Multiple leads and provide values for Got leads from, Assistant, More Context, etc. 
+Go to Multiple leads and provide values for 'Got leads from', 'Assistant', 'More Context', etc. 
 
 ![image](../../images/page-multiple-leads.jpg)
 
 ## Step-2
 
-1. Tick the check-box for Only Upload
-1. Drag and drop or select the excel file to be uploaded
-1. Select the correct schedule and start-at date and time
-1. Note the copy upload notification. If you want to copy [someone else in the upload notification](#notify-approver-on-upload) click on it and it will take you to the Notification configuration.
+1. Tick the check-box for 'Only Upload'
+1. Drag and drop the excel file to be uploaded
+1. Select the schedule and start date
+1. If you want to copy [someone else in the upload notification](#notify-approver-on-upload), click on 'copy upload notification' and it will take you to the Notification configuration.
 
 ![image](../../images/page-upload-only.jpg)
 
 ## Step-3
 
-On successful excel upload an email is sent. Forward this email to the approver as required. So that the uploaded leads can be verified. Assistant, Schedule, date-time, etc can be checked and then leads added. 
+On successful excel upload, an email is sent by the AI Sales Assistant. Forward this email to any other approver if required. Approver can verified the leads, the selected Assistant, the Schedule, and the date-time - change them as needed, and then proceed with adding the leads.
 
 ![image](../../images/upload-only-email.jpg)
 
 ## Step-4
 
-Click on "Add Leads" button in the email will open below screen. 
+Click on "Add Leads" button in the email.
 
 ![image](../../images/page-upload-history.jpg)
 
@@ -59,7 +60,7 @@ Click on "Add Leads" button in the email will open below screen.
 
 ## Step-5
 
-On click on Verify action the below screen opens. Check other details like schedule, etc. change if required. Then click on Add Leads.
+Verify action brings up the below screen. Verify other details like schedule, etc. change if required. Then click on Add Leads.
 
 ![image](../../images/page-verify-upload.jpg)
 1. Check the right Assistant and user is selected along with context, more information and tags
