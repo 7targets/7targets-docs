@@ -84,6 +84,9 @@ Here you can change the name of the lead and then click yes.
 
 ## Step-7
 
+**Related help:**
+Vlookup is a important XL function that can help get your mismatched rows in excel organized. Search for 'how to use vlookup in XL'. Simple video tutorials can help you fix mismatched rows before uploading corrected rows in 7Targets.
+
 To edit from the uploaded file
 
 Correct the name and email in the file.
