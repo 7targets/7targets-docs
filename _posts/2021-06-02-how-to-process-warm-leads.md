@@ -90,6 +90,17 @@ Now, you have gathered pretty much information about the person and his backgrou
 
 ![image](../../images/warm-leads-17.png)
 
+You need to click on the LinkedIn icon of these warm leads and connect with them on LinkedIn and send a small note to them. 
+
+They are seeing HireDNA on email. They are opening your email. We need them to see your LinkedIn profile. 
+So that the next email possibly seems familiar to them. 
+
+You will get another warm lead notification for the same lead. Thats when you should send a second followup note on LinkedIn to them. 
+
+Basically, manual LinkedIn followups need to happen in tandem with email outreach for omnichannel outreach.
+
+More than 30% conversions happen via LinkedIn. Email shows some aspect of your company. But LinkedIn shows 5x more info with your pinned articles. 
+
 ## Step 6
 
 Click on the 'Message' button.

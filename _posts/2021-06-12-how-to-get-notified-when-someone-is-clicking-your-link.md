@@ -68,7 +68,17 @@ Enable notifications
 
 By following these steps you've enabled "Link clicked notifications"
 
-You'll be notified when someone will click the mentioned link 
+You'll be notified when someone will click the mentioned link.
+
+For example, here, I have set it up notification for my 'calendly meeting link'. And you can see Emma Assistant alerting me on 4:09 am and then at 4:10 am the person setup a meeting. 
+
+![image](../../images/link-click-notification-1.jpg)
+
+![image](../../images/link-click-notification-2.jpg)
+
+![image](../../images/link-click-notification-3.jpg)
+
+Sharing open calendly slots enables to prevent the 'what time' related back and forth emails shaving off one week in sales cycle.
 
 If you have any further doubts you can directly mail us at info@7targets.com.
 
