@@ -28,11 +28,11 @@ Now the head wants to introduce himself to Nicole.
 
 So all you have to do is.
 
-Step-1
+## Step-1
 
 Login to 7targets.
 
-Step-2
+## Step-2
 
 Go to 'Leads' and search for the email which was sent to you via email.
 
@@ -42,13 +42,13 @@ Lead name with follow-up history will pop up.
 
 ![image](../../images/Introduce-me-2.jpg)
 
-Step-3
+## Step-3
 
 Here you'll see the response from the lead. In this case, the lead is asking for a call to see the demo.
 
 ![image](../../images/Introduce-me-3.jpg)
 
-Step-4
+## Step-4
 
 Click on 'Introduce Me'.
 
@@ -58,7 +58,7 @@ You can also make changes to the response message.
 
 ![image](../../images/Introduce-me-5.jpg)
 
-Step-5
+## Step-5
 
 Click on 'Send Email'.
 
