@@ -38,7 +38,7 @@ Edit name and then click yes.
 
 Changes made in the name has been saved now.
 
-![image](../../images/Edit-name-3.png)
+![image](../../images/Edit-name-3.jpg)
 
 
 
