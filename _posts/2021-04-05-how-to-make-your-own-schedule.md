@@ -29,7 +29,7 @@ Assistant comes with two default schedules **Recommended** and **Recommended for
 
 To know more about scheduling please visit this page.
 
-[![image](../../images/schedule-sequence-btn.png)](https://help.7targets.ai/manage-org/organization-schedule/)
+[![image](../../images/schedule-sequence-btn.png)](../../manage-org/organization-schedule/)
 
 
 Follow these simple steps to create a new schedule.

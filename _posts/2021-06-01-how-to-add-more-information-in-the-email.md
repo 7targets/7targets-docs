@@ -65,7 +65,7 @@ Then, select the 'Yes' option and you information will be added.
 
 ## Step 6
 
-Now, if you [upload the leads](https://help.7targets.ai/how-to-add-multiple-leads/) and assign them to the asssistant. You will see that the additional information you have added is used as it is in the emails.
+Now, if you [upload the leads](../how-to-add-multiple-leads/) and assign them to the assistant. You will see that the additional information you have added is used as it is in the emails.
 
 
 If you wish to edit this information while adding leads, you can do it in the 'More Information' field as shown.

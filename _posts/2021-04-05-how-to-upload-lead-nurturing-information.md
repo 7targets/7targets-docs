@@ -21,7 +21,7 @@ One of the most important features of 7Targets is lead nurturing. You can upload
 
 To know more about nurturing please visit this page.
 
-[![image](../../images/nurture-data-btn.png)](https://help.7targets.ai/getting-responses/assistant-nurturing/)
+[![image](../../images/nurture-data-btn.png)](../../getting-responses/assistant-nurturing/)
 
 Follow these simple steps to upload the nurturing information.
 

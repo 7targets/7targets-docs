@@ -124,6 +124,77 @@
 	}
 }
 
+.how-to-listing {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	// display: flex;
+	flex-flow: wrap;
+
+	li {
+		margin: 10px 0;
+		padding: 0;
+		width: 100%;
+		@media #{$mid-point} {
+			flex: 0 0 50%;
+		}
+	}
+
+	h3 {
+		margin: 0;
+		font-size: 1.3em;
+	}
+
+	a {
+		display: flex;
+		text-decoration: none;
+		padding: 5px;
+		border-radius: 5px;
+		height: 100%;
+
+		article {
+			display: flex;
+			align-items: center;
+			flex-wrap: wrap;
+		}
+
+		.icon {
+			flex: 0 0 50px;
+			display: flex;
+			align-items: center;
+			padding: 0 5px 0 0;
+			svg {
+				width: 25px;
+				height: 25px;
+				fill: $link-color;
+				-webkit-transition: all .2s ease;
+				margin: 0 auto;
+			}
+		}
+
+		.length {
+			color: $light-grey;
+			font-size: .8em;
+		}
+
+		&:hover {
+			svg {
+				fill: $link-hover-color;
+				width: 40px;
+				height: 40px;
+			}
+		}
+
+		p {
+			margin: 5px 0 0 0;
+			color: #888;
+			font-size: .9em;
+			line-height: 1.4em;
+			width: 100%;
+		}
+	}
+}
+
 .listing {
 	list-style: none;
 	padding: 0;
