@@ -26,7 +26,7 @@ Now her boss wants to introduce himself to the lead - Nicole.
 
 So all you have to do is.
 
-Step-1
+## Step-1
 
 Click the lead URL that was sent to you in lead notification. If 7Targets is open, search for 'Nicole' on Lead list page. 
 ![image](../../images/Introduce-me-1.jpg)
@@ -35,13 +35,13 @@ Lead name with follow-up history will pop up.
 
 ![image](../../images/Introduce-me-2.jpg)
 
-Step-3
+## Step-2
 
 Here you'll see the response from the lead. In this case, the lead is asking for a call to see the demo.
 
 ![image](../../images/Introduce-me-3.jpg)
 
-Step-4
+## Step-3
 
 Click on 'Introduce Me' to see a ready made introduction email popup. 
 
@@ -51,7 +51,7 @@ Make changes to the ready made response message as needed. Notice that your real
 
 ![image](../../images/Introduce-me-5.jpg)
 
-Step-5
+## Step-4
 
 Click on 'Send Email'.
 
