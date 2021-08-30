@@ -16,7 +16,7 @@ categories:
 ---
 After a response is received from a lead and Assistant needs to handover to a human. User tries to send the Introduce Me email copying himself or others in that email to introduce. 
 
-The default introduce me email is generic and you may need to customize for yourself. This is possible with below simple steps . 
+The default introduce me email is generic and you may need to customize for yourself. This is possible with below simple steps. 
 
 ## Step-1 
 
