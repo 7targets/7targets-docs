@@ -1,7 +1,9 @@
 ---
 ---
 {% assign how-tos = site.posts | where: "type", "How-to" | sort: "title" %}
-
+<section class="hero_search_how_to">
+    {% include search-how-to.html %}
+</section>
 <h1>How to use 7Targets AI Sales Assistants for Lead Generation and Nurturing</h1>
 
 {% include how-to-listings.html listings=how-tos %}
