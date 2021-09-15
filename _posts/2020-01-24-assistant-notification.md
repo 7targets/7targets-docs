@@ -33,6 +33,8 @@ If you already responded, you can click on the link in the email and mark the le
 If you don't do that, the Assistant will continue to remind you to work on this lead every 3 days.  
 You can change the duration of reminders.  
 
+![image](../../images/lead-at-risk.png)
+
 ## Questions answered
 - How can I notify other email ids of Warm, Hot or other details ?
 - How can I not receive notification on specific events from the Assistant ?

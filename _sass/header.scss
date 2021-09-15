@@ -160,3 +160,41 @@ header {
 		font-size: 1.1em;
 	}
 }
+
+.hero_search_how_to {
+	// display: none;
+	text-align: center;
+	flex: 0 0 100%;
+	// padding: 60px 0 30px 0;
+	background-color: #343642;
+
+	form {
+		position: relative;
+		max-width: 800px;
+		margin: 0 auto;
+		padding: 20px 0;
+
+		svg {
+			fill: #eee;
+			position: absolute;
+			top: 31px;
+			right: 12px;
+			display: inline-block;
+			width: 36px;
+			height: 40px;
+			cursor: pointer;
+		}
+	}
+
+	h1 {
+		// font-size: 2.4em;
+		color: #fff;
+	}
+
+	input[type=search] {
+		margin: 0;
+		color: #555;
+		padding: 15px;
+		font-size: 1.1em;
+	}
+}
