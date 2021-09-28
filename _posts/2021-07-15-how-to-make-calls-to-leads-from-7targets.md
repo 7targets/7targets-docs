@@ -1,6 +1,6 @@
 ---
 date: 2021-07-21
-title: How to make calls to leads from 7targets easily
+title: How to make calls to leads from 7Targets easily
 #video_id: JC2yJnBXzLM
 description: Calling is an important aspect of lead conversion. Knowing whom to call and keep a tag of the call result is critical to simplify the calling process. 7targets make this task easy for you.
 type: How-to

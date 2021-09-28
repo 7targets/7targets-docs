@@ -33,6 +33,7 @@ As a sales person, you need to respond back to the lead within 24 hours, otherwi
 If you already responded, you can click on the link in the email and mark the lead as `Not at risk`.  
 If you don't do that, the Assistant will continue to remind you to work on this lead every 3 days.  
 You can change the duration of reminders.  
+![image](../../images/lead-at-risk.png)
 
 ## Remove email from all notifications
 At times there is a need to remove a specific email from all the notifications across all the assistants in the org. This may be because that email is no more valid or some other reason.   
