@@ -29,6 +29,8 @@ Once you provide the Lead Source, Context and More information, review the email
 
 Click on Add Lead. Assistant will start validating each row, and will add the valid leads. Finally Assistant will notify you of the status on email. 
 
+Note that if the lead first and last name is not in `Proper` case then Assistant will convert it to a `Proper` case. e.g. if name is all capital like SANJU then Assistant will change it to Sanju. 
+
 You can look at the status by going to the “Upload History” page.  
 Clicking the `valid and invalid counts` will download an excel with the respective leads. Invalid leads file will have the reason too.  
 Clicking on the `Added count` will take you the lead list of those leads added from that specific excel file. 

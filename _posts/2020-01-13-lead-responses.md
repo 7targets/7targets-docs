@@ -43,7 +43,7 @@ Assistant will categorize the leads in various states based on the followups and
 `New` conveys that the lead added cannot be processed as you have used up your leads limit as per the plan. You can Restart these leads in the next period or upgrade your plan and then restart these leads now.  
 `Cold` the followup is under progress.   
 `Hot` if the lead has accepted to meet.   
-`Warm` lead is someone who has opened 3 or more emails. A good list for your calling team to call.  
+`Warm` lead is someone who has opened 3 or more emails or has clicked on a link from the email. A good list for your calling team to call.  
 `Engaged` lead is someone who has opened 1 or more emails.  
 `Processed` followup is completed as per the schedule and there was no response from the lead.    
 `Out of office` received an out of office from the lead. Assistant will restart the followup after lead returns back to office.  
