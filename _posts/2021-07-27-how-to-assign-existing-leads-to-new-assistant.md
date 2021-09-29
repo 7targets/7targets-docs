@@ -24,6 +24,15 @@ categories:
 # set_order: 3
 ---
 
+## Video on 'Why are Recruitment companies loving AI-POWERED sales assistants?'
+
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/WSvSCsOCvtA" height="380" width="560" 
+    allow="autoplay; encrypted-media"
+    frameborder="0">
+    </iframe>
+</div>
+
 Sometimes you might want to assign some of the existing leads to another assistant with a different nurturing schedule for a different offering.
 
 In 7Targets, you can easily assign existing leads to new assistants. It involves filtering and getting those leads which needs to be assigned to another Assistant, selecting all of them and then using the Restart Followup action.
