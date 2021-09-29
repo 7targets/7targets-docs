@@ -23,6 +23,15 @@ categories:
 # set_order: 3
 ---
 
+## Video on 'Difference between continue follow-up and restart follow-up [for your leads]'
+
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/kMZPbWFnEJU" height="380" width="560" 
+    allow="autoplay; encrypted-media"
+    frameborder="0">
+    </iframe>
+</div>
+
 ## Continue Followup
 
 Assistant stops sending any further messages to the lead after one of the below happens:
