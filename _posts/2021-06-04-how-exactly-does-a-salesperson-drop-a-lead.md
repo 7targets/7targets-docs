@@ -13,6 +13,7 @@ sidebar:
   - {id: step-6, text: Dropping the lead}
   - {id: step-7, text: How to fix this}
   - {id: step-8, text: Follow up emails}
+  - {id: step-9, text: Set default ReplyFollowup to off}
 categories:
   - How-To
 # set: getting-started
@@ -107,6 +108,15 @@ Here, are those 3 followup emails that we ship out of the box
 Here’s the follow up message
 
 ![image](../../images/Dropped-lead-11.png)
+
+## Step 9
+
+Reply Followup is on by default and uses the ReplyFollowup schedule. 
+If you want to change the defaults you can go that specific Assistant's preference, make changes and save.
+
+![image](../../images/reply-followup-preference.jpg)
+
+## Conclusion
 
 That's how every month 2 leads are missed. Assuming each lead is worth $1000, so per month you're facing a valuable loss of $2000.
 To prevent this opportunity loss, try using 7Targets with this awesome auto reply mechanism and you will see more happy sales people. 
