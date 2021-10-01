@@ -1,5 +1,5 @@
 <form action="{{ site.baseurl }}/search-how-to/" method="get">
-	<input type="search" name="q" {% if include.add_id %}id="search-input"{% endif %} placeholder="Search in How To..." autofocus>
+	<input type="search" name="q" {% if include.add_id %}id="search-input"{% endif %} placeholder="Search in How To..." autofocus style="width: 80%">
 	{% include search-icon.html %}
 	<input type="submit" value="Search" style="display: none;">
 </form>
