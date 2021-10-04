@@ -22,7 +22,7 @@ Multiple users can assign tasks to the same assistant and can assign tasks to mu
 
 
 
-## How to change assistant you want
+##  Change  the assistant.
 
 In the image below, let’s consider ‘Jenny’ as an assistant having two users. 
 To check who the users are? 
