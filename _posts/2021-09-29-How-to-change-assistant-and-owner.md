@@ -58,8 +58,6 @@ Now select the change owner or change assistant option.
 
  A Dialog box called ‘Edit Leads’ will appear. Here we change assistant from Kabir to Ashley and ‘User’ from Abdul to Sanju.
 
-
-
 ![image](../../images/changetheowner/7.jpg)
 
 Revisit the lead and you can see the changes.
