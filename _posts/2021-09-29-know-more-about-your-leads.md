@@ -23,7 +23,7 @@ We can call the ‘link click feature’, as a focus item because we can monitor
 
 
 ## Case 1 
-
+## To view number of users who clicked links
 Below is a dashboard. Here we have 342 end-users who have clicked on links. 
 Click on this number to drill down into the details.
 
@@ -32,6 +32,7 @@ Click on this number to drill down into the details.
 Select one lead 
 
 ![image](../../images/linkclick/linkclick2.jpg)
+## To check when lead clicked the link. 
 Now the information of leads is displayed.
  In this case, Emma is the assistant who is nurturing this lead.
 You can see in the image below that the lead has clicked a link on 9th June. There is a small link icon that shows that the lead has clicked a link.
@@ -39,17 +40,17 @@ Now we can go ahead and click on 9th June.
 
 
 ![image](../../images/linkclick/linkclick3.jpg)
-
+## To check which link lead clicked.
 Now a ‘Re-follow up’ dialog box will appear. Here we can see the email that was sent to the lead and the URL of the link which the lead has clicked.
 
 
 ![image](../../images/linkclick/linkclick4.jpg)
-
+## To get more information about a lead. 
 The next step is to visit the social media accounts of the lead and also the website of the lead, (if provided) to know more about the lead. 
 
 
 ![image](../../images/linkclick/linkclick5.jpg)
-
+## To write email to the lead. 
 Considering the information about lead. Write a focused email to the lead.  
 
 
@@ -59,6 +60,7 @@ Email is now successfully created and scheduled.
 
 ![image](../../images/linkclick/linkclick7.jpg)
 ## Case 2: 
+
 You want to specifically know about certain links clicked. 
 In this case, we are considering the youtube link
 
@@ -72,12 +74,13 @@ Nurturing table, edit assistant, deactivating assistant, assign to users, notifi
 Here we select notifications preferences. 
 
 ![image](../../images/linkclick/linkclick10.jpg)
+## To get notification when lead clicks the link. 
 
 We select the link notification option. Insert the link URL and assign the time limit.
 So within that time, we will be notified if a lead or end-user clicks the links.
 
 ![image](../../images/linkclick/linkclick11.jpg)
-
+## To get notification when lead clicks the link on whatsapp. 
 We can get notifications on Whatsapp as well. 
 
 ![image](../../images/linkclick/linkclick12.jpg)
