@@ -22,7 +22,6 @@ Let’s see the significance of a feature called “Link Click”  This feature 
 We can call the ‘link click feature’, as a focus item because we can monitor and analyze which link the lead clicked from the email sent to the lead. 
 
 
-
 ## Case 1 
 
 Below is a dashboard. Here we have 342 end-users who have clicked on links. 

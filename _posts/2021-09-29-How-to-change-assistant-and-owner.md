@@ -22,7 +22,7 @@ Multiple users can assign tasks to the same assistant and can assign tasks to mu
 
 
 
-## Case 1 
+## How to change assistant you want
 
 In the image below, let’s consider ‘Jenny’ as an assistant having two users. 
 To check who the users are? 
@@ -42,6 +42,7 @@ Sanju.
 ![image](../../images/changetheowner/3.jpg)
 
 You can select any assistant you want.
+##
 
 ![image](../../images/changetheowner/4.jpg)
 You can change the assistant and owner of the multiple leads at the same time. 
