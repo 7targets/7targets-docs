@@ -28,39 +28,44 @@ Click on the number and drill down.
 Click on the ‘Assistant’ tab as shown below.
 
 
-![image](../../images/lead at risk edited/leadatrisk1.jpg)
+![image](../../images/lead_at_risk/leadatrisk1.jpg)
 ## Action that assitant will take when he is unable to answer question of prospect.
 
 
 Consider a scenario where the user named Sanju is the owner of an assistant named Oliver. Oliver will forward the prospect’s email to Sanju if Oliver cannot respond to the lead automatically. Sanju should respond within 24 hrs.  
 
-![image](../../images/lead at risk edited/leadatrisk2.jpg)
+![image](../../images/lead_at_risk/leadatrisk2.jpg)
 
 
 In this case, the user doesn't need to respond. 
 
-![image](../../images/lead at risk edited/leadatrisk3.jpg)
-## To mark lead not at risk or deactivate feature.
-So the user will click on the ‘More button’ and select the not at risk option. 
+![image](../../images/lead_at_risk/leadatrisk3.jpg)
+## To mark lead not at risk.
+So the user will click on the ‘More button’ and select the 'Not At Risk' option. 
 
-![image](../../images/lead at risk edited/leadatrisk4.jpg)
+![image](../../images/lead_at_risk edited/leadatrisk4.jpg)
+## To remove 'Lead At risk' red  marker symbol.
+You can choose to remove lead at risk marker if you dont want to respond lead or are not going to respond lead by again following same step as  To mark lead not at risk.(link to above step)
+![image](../../images/lead_at risk edited/leadatrisk4.1.jpg)
 
- Now Lead at risk is Deactivated. 
+ ## To Deactivate Lead at risk. 
+ ![image](../../images/lead_at_risk/leadatrisk5.jpg)
 
-![image](../../images/lead at risk edited/leadatrisk5.jpg)
+
+![image](../../images/lead_at_risk/leadatrisk5.1.jpg)
 
 Below is the image email remainder that the assistant will send you. Unless you mark ‘Not at risk'. The assistant Oliver will send you an email after every three days.
 
-![image](../../images/lead at risk edited/leadatrisk6.jpg)
+![image](../../images/lead_at_risk/leadatrisk6.jpg)
 ## To set lead at risk remainder. 
 
-You can customize lead at risk reminders from 3 days to several days you want. 
+You can customize duration of lead at risk reminders from 3 days to several days you want from the email remainder. 
 
-![image](../../images/lead at risk edited/leadatrisk7.jpg)
+![image](../../images/lead_at_risk/leadatrisk7.jpg)
 ## To stop receiving lead at risk email reminder
 
 You can select the 'do not to remind me' option to stop receiving email reminders.
 
-![image](../../images/lead at risk edited/leadatrisk8.jpg)
+![image](../../images/lead_at_risk/leadatrisk8.jpg)
 
 If you have any further doubts, you can directly mail us at info@7targets.com.
