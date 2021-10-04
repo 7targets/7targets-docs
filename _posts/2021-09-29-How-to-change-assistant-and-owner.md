@@ -22,7 +22,7 @@ Multiple users can assign tasks to the same assistant and can assign tasks to mu
 
 
 
-##  Change  the assistant.
+##  To check the number of users assisgned to assistant.
 
 In the image below, let’s consider ‘Jenny’ as an assistant having two users. 
 To check who the users are? 
@@ -35,6 +35,8 @@ Here  Sanju and Tejaswini are two users to whom Jenny assistant is assigned.
 
 
 ![image](../../images/changetheowner/2.jpg)
+
+## To assign another assistant to the user 
  If you want to assign another assistant, select the ‘user’ and click on the assistant icon, and select another assistant. 
 Now Ashley assistant is assigned to 
 Sanju. 
@@ -42,9 +44,9 @@ Sanju.
 ![image](../../images/changetheowner/3.jpg)
 
 You can select any assistant you want.
-##
 
 ![image](../../images/changetheowner/4.jpg)
+## To change assitant and owner of multiple leads at same time.
 You can change the assistant and owner of the multiple leads at the same time. 
 Select single or multiple leads. Select ‘More Actions’ option and drill down. 
 In this case, Kabir is the assistant and Abdul is the user assigned to the lead. 
