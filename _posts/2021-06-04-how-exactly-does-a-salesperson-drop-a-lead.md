@@ -30,11 +30,9 @@ According to what we have seen so far, **EACH salesperson forgets to follow up _
 
 Even if you assume that each opportunity is worth a $1000, 2 misses per month is $2000 per month. If you have 10 sales guys, its $20k leaking from opportunity pipeline. 
 
-Recruitment Companies 
-<div class="video-container">
-    <iframe src="https://www.youtube.com/embed/vnYYk1XQuKI" height="360" width="640" 
-    allow="autoplay; encrypted-media"
-    frameborder="0">
+Recruitment Companies  
+<div class="video_wrapper">
+    <iframe src="https://www.youtube.com/embed/vnYYk1XQuKI?rel=0&modestbranding=1&showinfo=0" frameborder="0" allowfullscreen>
     </iframe>
 </div>
 

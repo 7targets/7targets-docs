@@ -26,10 +26,8 @@ To know more about adding multiple leads please visit this page.
 [![image](../../images/add-multiple-leads-btn.png)](../../assigning-leads/add-multiple-leads/)
 
 Here is a small video explaining the steps.
-<div class="video-container">
-    <iframe src="https://www.youtube.com/embed/jrO-Ite3CTA" height="380" width="560" 
-    allow="autoplay; encrypted-media"
-    frameborder="0">
+<div class="video_wrapper">
+    <iframe src="https://www.youtube.com/embed/jrO-Ite3CTA?rel=0&modestbranding=1&showinfo=0" frameborder="0" allowfullscreen>
     </iframe>
 </div>
 
