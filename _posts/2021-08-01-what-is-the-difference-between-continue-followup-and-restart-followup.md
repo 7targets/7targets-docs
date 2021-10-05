@@ -23,12 +23,11 @@ categories:
 # set_order: 3
 ---
 
-## Video on 'Difference between continue follow-up and restart follow-up [for your leads]'
+## Difference between continue follow-up and restart follow-up [for your leads]
+Look at the video below which explains the difference between continue follow-up and restart follow-up for your leads.
 
-<div class="video-container">
-    <iframe src="https://www.youtube.com/embed/kMZPbWFnEJU" height="380" width="560" 
-    allow="autoplay; encrypted-media"
-    frameborder="0">
+<div class="video_wrapper">
+    <iframe src="https://www.youtube.com/embed/kMZPbWFnEJU?rel=0&modestbranding=1&showinfo=0" frameborder="0" allowfullscreen>
     </iframe>
 </div>
 

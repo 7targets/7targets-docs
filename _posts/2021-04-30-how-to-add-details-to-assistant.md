@@ -40,10 +40,8 @@ To know more about the details of the assistant please visit this page.
 
 Here is a small video explaining the steps.
 
-<div class="video-container">
-    <iframe src="https://www.youtube.com/embed/ELaE7f0mi4A" height="380" width="560" 
-    allow="autoplay; encrypted-media"
-    frameborder="0">
+<div class="video_wrapper">
+    <iframe src="https://www.youtube.com/embed/ELaE7f0mi4A?rel=0&modestbranding=1&showinfo=0" frameborder="0" allowfullscreen>
     </iframe>
 </div>
 

@@ -26,10 +26,8 @@ categories:
 
 ## Video on 'Why are Recruitment companies loving AI-POWERED sales assistants?'
 
-<div class="video-container">
-    <iframe src="https://www.youtube.com/embed/WSvSCsOCvtA" height="380" width="560" 
-    allow="autoplay; encrypted-media"
-    frameborder="0">
+<div class="video_wrapper">
+    <iframe src="https://www.youtube.com/embed/WSvSCsOCvtA?rel=0&modestbranding=1&showinfo=0" frameborder="0" allowfullscreen>
     </iframe>
 </div>
 
