@@ -18,7 +18,13 @@ categories:
 # set: getting-started
 # set_order: 3
 ---
+## Invite new users and manage existing users for your Organisation
+Look at the video below which explains the how to invite new users and manage existing users for your organisation.
 
+<div class="video_wrapper">
+    <iframe src="https://www.youtube.com/embed/-6pLSMu-9yY?rel=0&modestbranding=1&showinfo=0" frameborder="0" allowfullscreen>
+    </iframe>
+</div>
 
 You may want to Invite new users to your Organisation, edit the roles of previous users or even assign an existing assistant to other users in the Organisation.
 
