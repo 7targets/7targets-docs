@@ -1,6 +1,6 @@
 ---
 date: 2021-06-10
-title: How to notify team members immediately, when you get a response for one of your leads
+title: How to notify team members immediately, when you get a response from one of your leads
 video_id: JC2yJnBXzLM
 description: How to add team members so that they can receive notification from assistant whenever a lead responds to you.
 type: How-to
@@ -13,6 +13,13 @@ categories:
 # set: getting-started
 # set_order: 3
 ---
+## Notify team members immediately, when you get a response from one of your lead
+Look at the video below which explains the how to notify team members immediately, when you get a response from one of your lead.
+
+<div class="video_wrapper">
+    <iframe src="https://www.youtube.com/embed/DWUzWvv3xz4?rel=0&modestbranding=1&showinfo=0" frameborder="0" allowfullscreen>
+    </iframe>
+</div>
 
 Responding to leads is one of the key factors for Converting them into potential customers.
 
