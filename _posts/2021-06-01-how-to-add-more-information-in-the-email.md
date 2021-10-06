@@ -17,9 +17,18 @@ categories:
 # set: getting-started
 # set_order: 3
 ---
+
+## How to Add More Information in the Email
+Look at the video below which explains the how to add more information in the email.
+
+<div class="video_wrapper">
+    <iframe src="https://www.youtube.com/embed/P76_l3ggR4Y?rel=0&modestbranding=1&showinfo=0" frameborder="0" allowfullscreen>
+    </iframe>
+</div>
+
 Ideally, the assistant generates dynamic emails everytime. But many a times we want to add some specific information which should be added to all the emails, and also don't want the assistant to change it. 
 
-This information can be a success story, about some award you won, the customers you work with etc. It establishes level of confidence in the people who are going to recieve the emails.
+This information can be a success story, about some award you won, the customers you work with etc. It establishes level of confidence in the people who are going to receive the emails.
 
 One of the many features in 7Targets is that you can add this additional information which will not be changed unless you edit it.
 
