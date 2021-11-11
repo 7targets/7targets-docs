@@ -39,6 +39,7 @@ While creating or editing the custom message, click on the image icon in the too
 
 We recommend to keep the image size small (like less than 200 KB). As well, the dimensions of the image to not more than 700X400, so that the image when visible to the lead does not take the whole screen.
 
+**How to put download button in email body?**  
 Sometimes you may want to add a call to action (CTA) type image and link it to the url it want. This is possible too. Make sure to create the image which looks like a button with proper text.
 
 ## Questions answered
@@ -46,4 +47,4 @@ Sometimes you may want to add a call to action (CTA) type image and link it to t
 - While creating custom message, if there is some content that needs to be picked from company name of the person or lead, can that be done?
 - Can I insert or send an image in the message ? 
 - Can I add a call to action (CTA) button in the email ?
-- How to out download button in email body?
+- How to put download button in email body?
