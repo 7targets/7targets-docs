@@ -46,3 +46,4 @@ Sometimes you may want to add a call to action (CTA) type image and link it to t
 - While creating custom message, if there is some content that needs to be picked from company name of the person or lead, can that be done?
 - Can I insert or send an image in the message ? 
 - Can I add a call to action (CTA) button in the email ?
+- How to out download button in email body?
