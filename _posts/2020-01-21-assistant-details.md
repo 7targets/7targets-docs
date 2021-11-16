@@ -10,6 +10,7 @@ sidebar:
   - {id: assistant-manager, text: Assistant Manager}
   - {id: assistant-default, text: Assistant Defaults}
   - {id: multiple-assistants, text: Multiple Assistants}
+  - {id: assistant-preference, text: Assistant Preference}
   - {id: questions-answered, text: Questions answered}
 categories:
   - getting-responses
@@ -74,6 +75,15 @@ Assistant has many defaults which are self explanatory. Some of the important on
 You can create multiple assistants for yourself. Assistants cannot be shared or assigned to other users in the Org. 
 
 We recommend to have `geography and vertical specific` assistants. So that the assistant is trained for nurturing the leads of that vertical with specific nurturing material.
+
+## Assistant Preference
+There are various Preferences you can set for the assistant and are self explanatory on the Assistant Preference page. Some of the preferences are explained below:  
+<a name="auto-activate-new-leads"/>
+### [Auto Activate New leads when plan capacity becomes available](#auto-activate-new-leads)
+If this preference is on (Which is the default) then Assistant will automatically activate the leads with New status, if the capacity becomes available as per the Plan. 
+
+Assistant checks for any New leads every day and if there is capacity available then these New leads are activated, i.e. restarted, so that emails starts going to these leads as per the schedule. 
+To know what is New lead or lead with state New, refer [Lead States](../../assigning-leads/lead-responses/#lead-state)
 
 ## Questions answered
 - Can I add logo in the signature ?
