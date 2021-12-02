@@ -63,7 +63,7 @@ Assistant has many defaults which are self explanatory. Some of the important on
 - `Brochure URL` Assistant will embed this URL in the email when responding to requests for Brochure
 - `More Context` and `More Information` are the defaults to be used when not provided while adding the leads
 - `Shared Calendar URL` If the value for this is provided while Edit Assistant then Assistant will add it in the signature with `Book a Meeting` link. One can create a shared calendar using some service like [Calendly](https://calendly.com/){:target="_blank" rel="noopener"}  
-- `Lead at Risk Reminder` Assistant will remind you after the provided days for 5 times if you forget to reach out to responded leads.
+- `Lead at Risk Reminder` Assistant will remind you after every 2 days(can be changed) for 5 times if you forget to reach out to responded leads. Period between each reminder is configurable from `Edit Assistant->Defaults`  
 - `Default Schedule` Assistant uses this schedule by default for the added leads. While you can provide the schedule when adding leads from the 7Targets UI. Providing the schedule when adding leads from CRM or by copying Assistant in the email sent by you to your lead is not possible, so in these scenarios the default schedule is used by the assistant. Value of default schedule can be changed by going to Assistant->Edit Assistant.
 - `Default EmailCC Schedule` is used by the assistant when assistant is copied in the email by the user with the lead. For EmailCC schedule, Assistant will start the with second message in the sequence. Your email where you Cc'ed/Copied the assistant is considered as the first email. More details about how the name of the lead works is here [Lead name for Email CC](#lead-name-for-emailcc)
 
