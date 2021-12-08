@@ -11,6 +11,8 @@ sidebar:
   - {id: assistant-default, text: Assistant Defaults}
   - {id: multiple-assistants, text: Multiple Assistants}
   - {id: assistant-preference, text: Assistant Preference}
+  - {id: auto-activate-new-leads-when-plan-capacity-becomes-available, text: Auto Activate New Leads}
+  - {id: lead-name-for-emailcc, text: Lead name for EmailCC}
   - {id: questions-answered, text: Questions answered}
 categories:
   - getting-responses
