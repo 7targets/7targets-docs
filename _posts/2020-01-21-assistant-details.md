@@ -13,6 +13,7 @@ sidebar:
   - {id: assistant-preference, text: Assistant Preference}
   - {id: auto-activate-new-leads-when-plan-capacity-becomes-available, text: Auto Activate New Leads}
   - {id: lead-name-for-emailcc, text: Lead name for EmailCC}
+  - {id: reserve-lead-limit-for-emailcc, text: Reserve lead limit for EmailCC}
   - {id: questions-answered, text: Questions answered}
 categories:
   - getting-responses
@@ -91,6 +92,11 @@ __Default lead name to use when assistant is Cc'ed and lead name not given__.
 Default value for this is `Sir/Madam` and you can edit to provide any other value as default. 
 
 But, if you save the preference with no value in it. Then Assistant will use the string in front of the `@` in the lead email as name. For e.g. if the lead email is `sales@somecompany.com` then the first name will be taken as `Sales`. To avoid situation where the email goes as `Hello Sales` it is recommended to set some default and not let this situation come. 
+
+## Reserve lead limit for EmailCC
+By default 5% leads are reserved for EmailCC source, so that when users copies the assistant in an email sent to lead, it has the lead limit availability to process. You can change this value from the Assistant preference.  
+
+Assistant will not allow other leads sources, like bulk file upload, to use this reserve. 
 
 ## Questions answered
 - Can I add logo in the signature ?
