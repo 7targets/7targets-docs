@@ -2,7 +2,7 @@
 date: 2021-11-17
 title: How to assign a lead to AI assistant using Email CC feature
 #video_id: JC2yJnBXzLM
-description: CC the appropriate assistant when sending the quotation or proposal email to your prospect/lead for the assistant to followup.
+description: CC the appropriate assistant when sending the quotation or proposal email to your prospect/lead for the assistant to followup. 5% of the lead capacity is reserved for EmailCC to make sure that leads from EmailCC is given priority over others. 
 type: How-to
 sidebar:
   - {id: step1, text: Create EmailCC schedule}
@@ -12,6 +12,7 @@ sidebar:
   - {id: step8, text: Copy AI Assistant Email}
   - {id: step9, text: Test by sending Email}
   - {id: step10, text: Check the notification}
+  - {id: step10, text: Email CC Lead Reserve}
 
 categories:
   - How-To
@@ -58,5 +59,13 @@ How does the Assistant decide the name for this lead ? [Read here](../../getting
 
 ## Step11 
 Click on the View lead button in the mail received in step 10 to view lead in 7Targets. Correct name or anything else you want to.
+
+## Step12
+`Email CC Lead Reserve` is one important preference to keep note of.
+
+By default 5% leads are reserved for Email CC source. Other leads sources, like bulk file upload will not be able to use this reserve.
+
+You can add more leads using Email CC than the 'reserve' count mentioned above. But other lead sources like bulk file upload will not be allowed to use Email CC lead reserves.
+![image](../../images/email-cc-lead-reserve.png)
 
 If you have any further doubts, you can directly mail us at info@7targets.com.
