@@ -33,8 +33,11 @@ A little background around formatting in documents. The documents written in Mic
 ![image](../../images/format-not-retained-copied-from-word-to-7targets.jpg)
 
 ## Step-2
-To prevent formatting issues, best practice is to type the email directly in the 7Targets email message editor itself. Do all the formatting in the editor and save it. The saved message is not sent unless it is used in a schedule. So you can get the saved custom message reviewed from someone else in your team by sharing the name of the message. 
+To prevent formatting issues, best practice is to type the email directly in the 7Targets email message editor itself. Do all the formatting in the editor and save it. 
 
+![image](../../images/flexible-message-editor.jpg)
+
+The saved message is not sent unless it is used in a schedule. So you can get the saved custom message reviewed from someone else in your team by sharing the name of the message.  
 If the email reviewer is a Org Admin, they can edit the message as part of the review. 
 
 ## Step-3
