@@ -15,7 +15,7 @@ categories:
 # set_order: 3
 ---
 <div class="video_wrapper">
-    <iframe src="https://www.youtube.com/embed/6xyI5NNCCmc?rel=0&modestbranding=1&showinfo=0" frameborder="0" allowfullscreen>
+    <iframe src="https://www.youtube.com/embed/vOBgFAJTFTQ?rel=0&modestbranding=1&showinfo=0" frameborder="0" allowfullscreen>
     </iframe>
 </div>
 
@@ -48,6 +48,5 @@ If you have any further doubts, you can directly mail us at info@7targets.com.
 
 Some references on similar recommendations from other email client softwares are here: 
 - https://answers.microsoft.com/en-us/msoffice/forum/all/issues-when-i-try-to-copy-from-word-to-the/572f1b27-860e-4922-bc8c-c1d23a50039a  
-- https://help.salesforce.com/s/articleView?id=000324370&type=1
 - https://www.msoutlook.info/question/reset-or-keep-formatting-when-pasting-to-email 
 
