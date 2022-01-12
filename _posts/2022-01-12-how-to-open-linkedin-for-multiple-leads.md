@@ -1,8 +1,8 @@
 ---
 date: 2022-01-12
-title: At times you may want to search or open LinkedIn for multiple leads
+title: Search or open LinkedIn for multiple leads in one click
 video_id: 6xyI5NNCCmc
-description: Multiple leads can be selected and with a single action of Search LinkedIn it will open multiple tabs for those selected leads. 
+description: Multiple leads can be selected and then a single action of Search LinkedIn will open LinkedIn in multiple browser tabs for those selected leads. 
 type: How-to
 sidebar:
   - {id: step-1, text: Select leads and click on More Actions}
