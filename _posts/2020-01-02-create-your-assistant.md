@@ -71,6 +71,7 @@ We will be setting an auto forwarding rule in Ashley’s GMAIL box to forward al
 1. Log into to Ashleys Gmail account. 
 1. Configure auto forwarding (Under Gmail Settings->All Settings->Forwarding and POP/IMAP). 
 1. Set the auto forward to send the received emails to John email address John@<yourcompany>.7ts-e.com. To ensure there are no spelling mistakes, you can copy Johns email from the 7Targets->Assistants page using `Copy Email Address` link. 
+1. You will receive an email to confirm the autoforward. Make sure to confirm by clicking on the link or using the code as mentioned in that email, else it will not work. 
 
 To start work on leads, you need to assign them to Ashley Assistant. To check status of leads, you can check it in Ashley Assistant. You can ignore John Assistant for all everyday usability purposes. 
 
