@@ -48,6 +48,11 @@ Assistant will send emails from using this authorized account. As well, Assistan
 
 Create a specific email id for your assistant in your Exchange account and use that to authorize while creating an Assistant. 
 
+**Important**
+Microsoft has some automatic detector and blocks the accounts at time and you will receive an email like below. Please unblock the account for the Assistant to function correctly.
+
+![image](../../images/microsoft-block-account.png)
+
 ## Use Gmail
 If you want your Assistant to send email from your company domain instead of `<yourcompany>.7ts-e.com` and your company domain email is on GMAIL for Business, then you can use this feature.  
 
