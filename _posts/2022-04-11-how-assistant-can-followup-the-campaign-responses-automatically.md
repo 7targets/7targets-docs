@@ -6,49 +6,56 @@ description: Responses and especially enquiries from a marketing campaign should
 type: How-to
 sidebar:
   - {id: step-1, text: Enable the feature for the Assistant}
-  - {id: step-2, text: Set preferences for email used for campaign}
-  - {id: step-3, text: Set preference for schedule to use for enquiry}
-  - {id: step-4, text: What happens if the response is not an Enquiry}
+  - {id: step-2, text: Set campaign email id}
+  - {id: step-3, text: Set Assistant email id for the campaign}
+  - {id: step-4, text: Set assistant behavior, how do you want the assistant to respond}
+  - {id: step-4, text: Tell the assistant what to do if its not a valid enquiry}
 
 categories:
   - How-To
 # set: getting-started
 # set_order: 3
 ---
-Some marketing and sales teams faced this problem of responses (more specifically enquiries) from the email campaign not getting immediate attention and at times getting dropped too. 
+Many sales and marketing teams use bulk emailing for some campaigns. Especially when they havent yet identified thier ideal customer profile. Since this can blacklist their main domain, marketeers create a different domain from which this bulk email is carried out. Whenever someone responds, they provide a different 'Respond To' email address. 
+Such 'Respond To' email boxes need to be monitored often. Most times good enquiries need immediate attention. Not doing so can result in lead getting dropped too. 
 
-The email campaign was run from a different tool and team members were responsible to keep and eye on  responses. Understand the details and get back soon in case of enquiries. Knowing well that the goal is to provide the available info and try and get a meeting with Sales Executive.
+The goal is to respond fast to good enquiries and convert it into a meeting with the Sales Executive.
 
-Now, a feature in 7Targets allows one to assign this response from email campaign as a lead directly to the Assistant. Assistant will do below:
-1. Create a lead
-2. Classify the response into (Seeking more info, Hot, Deactivated, Unsubscribed, etc)
-3. If the response is an Enquiry(Seeking more info) then put the lead on the schedule set in the preference. 
+What happens most of the times is that such email boxes are forgotten for days. Many responses are not looked into immediately. And this is where 7Targets Assistants come in... 
 
-Below are the steps to use this feature. 
+7Targets allows you to assign responses from email campaigns as a lead directly to an Assistant. Assistant will do the following:
+1. Read the email and Create a lead
+2. Classify the response appropriately. For eg. Seeking more info, Hot, Deactivated, Unsubscribed, etc.
+3. If the response is an Enquiry (Seeking more info) then the assistant assigns another email sequence to the lead immediately. 
+
+How to setup this flow?
+
+Its 5 simple steps. 
 
 ## Step-1
-First, this feature has to be enabled for the Assistant/s. Drop an email to support@7targets.com providing your 7Targets user email and the assistant name and email, to enable this feature for those Assistants. 
+First, Enable this feature for the selected Assistant(s). Drop an email to support@7targets.com, provide your 7Targets user email along with the assistant name(s), and our support team will enable this feature for you. 
 
 ## Step-2
-To be able to classify the response from a campaign email correctly, it is important to set this preference. It conveys from which email ID the original campaign was sent out. You can put multiple email ids here so that you do not have to come and edit every time a new campaign is run. 
+Mention the email address from where this campaign is run. Add multiple email ids if you are running multiple campaigns from different email boxes. 
 
-One important thing to note is to set the Reply-To attribute for your campaign emails to the Assistant's email id. So that the reply can be received by the Assistant and process it as expected. 
+## Step-3
+Ensure that set the Reply-To attribute for your campaign emails to the Assistant's email id. So that the reply can be received by the Assistant and processed appropriately. 
 
-Today this is supported only for Assistant with email on Google Suite. Refer [this]({{ site.baseurl }}/getting-started/create-your-assistant/#use-gmail) to create an Assistant using your existing GSuite email id. 
+Today, this is supported for Assistants that have Google Suite email ids. Refer [this]({{ site.baseurl }}/getting-started/create-your-assistant/#use-gmail) to create an Assistant using your existing GSuite email id. If you would like to support it for other email providers, please email support@7Targets.com.
 
 ![image](../../images/preference-for-emails-used-for-campaign.png)
 
-## Step-3
-You will have to create a specific schedule which possibly sends a quick Thank you note with a link to book a meeting. And may contain few followup emails too. 
+## Step-4
+Create a specific schedule where the first email is a quick 'Thank you' note with a link to book a meeting. Schedule can have a few more followup emails as well. 
 
-If the lead respond backs to the followup emails then Assistant will process it as a response. Assistant will make sure to NOT put the lead back on same schedule if the next response is classified as Enquiry too. 
+If the lead respond backs to the followup emails then Assistant will invoke this schedule as a response. To avoid circular emailing, Assistant ensures that the same lead is NOT added to the same schedule if the lead responds back again.  
 
 ![image](../../images/preference-for-schedule-for-enquiry.png)
 
-## Step-4
-Below flow explains how does it work. And if the response is classified as something else than Enquiry (Seeking more info) then what happens.
+## Step-5
+What happens is the response is not an enquiry? How the assistant classifies the flow in such cases? This is explained in below flow diagram. If the response is classified as something other than a Enquiry (Seeking more info) then what happens.
 
 ![image](../../images/how-does-campaign-response-lead-works.jpg)
 
-If you have any further doubts, you can directly mail us at support@7targets.com.
+If you have any further doubts, feel free to mail us at support@7targets.com.
 
