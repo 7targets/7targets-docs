@@ -1,6 +1,6 @@
 ---
 date: 2022-04-12
-title: Why do we seeing less link clicks in 7Targets email and more in google analytics
+title: Why do we see less link clicks in 7Targets email and more in google analytics
 # video_id: 6xyI5NNCCmc
 description: There are several reasons why we see inconsistencies in 7Targets link click report and google analytics reports.
 type: How-to
