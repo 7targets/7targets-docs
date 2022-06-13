@@ -38,7 +38,12 @@ Clicking on the link will open the upload history page.
 If the data is indeed mismatched then you would Cancel this upload, correct the data and upload the excel file again.
 
 If you think that the data is correct, then you can "Proceed as is".
-
 ![image](../../images/cancel-or-proceed-as-is.jpg)
+
+On click of the "Proceed as is" it opens below page.  
+Which allows you to change inputs. Click on the "Add Leads" button to proceed as is.  
+
+![image](../../images/proceed-as-is.jpg)
+
 
 If you have any further doubts, you can directly mail us at info@7targets.com.
