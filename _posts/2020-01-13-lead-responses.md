@@ -38,7 +38,7 @@ Some examples are mentioned below:
 | We are busy in some other priorities right now. Lets talk sometime in Jan. | Warm Lead | Set future communication in Jan. |
 | Unsubscribe me from your mailing list | Unsubscribed | Lead would be marked as unsubscribed. |
 
-## [Lead State](#lead-state)
+## [What is Engaged, Warm and HOT leads?](#lead-state)
 Assistant will categorize the leads in various states based on the followups and responses. Various possible state are:   
 `New` conveys that the lead added cannot be processed as you have used up your leads limit as per the plan. You can Restart these leads in the next period or upgrade your plan and then restart these leads now.  
 `Cold` the followup is under progress.   
@@ -47,7 +47,7 @@ Assistant will categorize the leads in various states based on the followups and
 `Engaged` lead is someone who has opened 1 or more emails.  
 `Processed` followup is completed as per the schedule and there was no response from the lead.    
 `Out of office` received an out of office from the lead. Assistant will restart the followup after lead returns back to office. [What if the next email for the lead is going beyond the out of office date for the lead ?](./#out-of-office-date-usage)   
-`Deactivated` lead responded back asking to stop sending emails. Lead email id is invalid as verified by the assistant. Email sent to the lead bounced. 
+`Deactivated` lead responded back asking to stop sending emails. Lead email id is invalid as verified by the assistant. Email sent to the lead bounced.  
 `Unsubscribed` lead used the unsubscribed link in the email or responded asking to unsubscribe. You wont be able to send any more emails to this lead.  
 `Responded` state for the lead conveys that there is some response from the lead and Assistant was not able to categorize it to one of the above.  
 `Pending` means Assistant is still validating the email address of the lead.  
