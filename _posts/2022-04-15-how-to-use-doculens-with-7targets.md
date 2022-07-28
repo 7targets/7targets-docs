@@ -7,7 +7,8 @@ description: Doculens provides insights into when a document was read, pagewise 
 type: How-to
 sidebar:
   - {id: step-1, text: Upload the document in Doculens}
-  - {id: step-2, text: Use the link in 7Targetrs}
+  - {id: step-2, text: Use the link in 7Targets}
+  - {id: step-3, text: See Doculens Insights}
 
 categories:
   - How-To
@@ -17,10 +18,10 @@ categories:
 When you send documents to your contacts today, they go into a blackhole. You know nothing about what happens to them. 
 The insight of amount of time spent by the lead on the shared document will help with the decisions. 
 
-Combination of Doculens and 7Targets solves this for you. 
+Combination of [Doculens](https://doculens.io/){:target="_blank" rel="noopener"}  and 7Targets solves this for you. 
 
 ## Step-1
-After login to Doculens, you can upload the document. Once the document is uploaded successfully. You can then copy the link to be shared in the emails sent by your 7Targets Assistant.
+After [Login to Doculens](https://app.doculens.io/){:target="_blank" rel="noopener"}, you can upload the document. Once the document is uploaded successfully. You can then copy the link to be shared in the emails sent by your 7Targets Assistant.
 
 ![image](../../images/doculens-upload-copy-link.jpg)
 
