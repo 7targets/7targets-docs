@@ -25,7 +25,7 @@ One important behavior of the assistant is to stop sending more emails on receiv
 
 Assistant has a default recommended schedule of 7 follow-ups with increasing duration between the follow-ups. User has an option to use custom schedule and change the default schedule too.
 
-Assistant optimizes the email send time for individual lead so that the chances of lead reading the email increases. This is `Send Time Optimization`.  
+Assistant optimizes the email send time for scheduled emails of individual lead, this is done based on when(time) that specific lead opened already sent emails. Each person has different for checking their emails, some do in morning, some while lunch and all. Assistant does this hyper-personalization so that the chances of lead reading the email increases. This is `Send Time Optimization`.  
 
 ## Assistant Profile
 Name, Avatar, Email, Phone Number and Signature represents the Assistant identity. 
