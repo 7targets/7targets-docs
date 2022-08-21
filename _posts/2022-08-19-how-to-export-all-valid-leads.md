@@ -6,10 +6,10 @@ description: How to know and export the valid leds or email ids.
 
 type: How-to
 sidebar:
-  - {id: step-1, text: LeadList }
-  - {id: step-2, text: Export List}
-  - {id: step-3, text: Valid Leads}
-  - {id: step-4, text: Active Leads }
+  - {id: lead-list, text: Lead List }
+  - {id: export-leads, text: Export Leads}
+  - {id: valid-leads, text: Valid Leads}
+  - {id: active-leads, text: Active Leads }
 
 categories:
   - How-To
@@ -20,21 +20,20 @@ To export the Valid leads email address. It is better to just export all into a 
 
 Below are the steps for the same.
 
-## Step-1
+## Lead List
 On click of the Total Leads and Total Valid Leads count in the Dashboard, you would be shown total leads in the lead list for the filtered period. Default period is last 90 days. 
 
 Select all the leads and then click on the Export icon. Provide the name and you will be informed on email when the export is complete. 
 ![image](../../images/export-leads.jpg)
 
-## Step-2
+## Export Leads
 You can also click on the More and Exports to get to the page which shows the exported leads. 
 ![image](../../images/export-list.jpg)
 
 And then Download the exported file. 
 ![image](../../images/export-list-download.jpg)
 
-## Step-3
-
+## Valid Leads
 You can open the downloaded CSV in microsoft excel and apply the specific filters to get to your data. 
 
 ![image](../../images/export-csv.jpg)
@@ -48,7 +47,7 @@ Note below is the list of Sub-States which are considered as Invalid leads. You 
 - **SpamTrap** (Is a Spam Trap so not a valid email)
 - **Disposable** (Is a disposable email, so not considered valid)
 
-## Step-4
+## Active Leads
 A quick note about **Active Leads**.  
 What are Active Leads?  
 Why do at times the count on the dashboard and lead list count do not match for Active Leads ?  
