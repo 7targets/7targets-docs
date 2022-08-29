@@ -50,7 +50,7 @@ Assistant will categorize the leads in various states based on the followups and
 `Deactivated` lead responded back asking to stop sending emails. Lead email id is invalid as verified by the assistant. Email sent to the lead bounced.  
 `Unsubscribed` lead used the unsubscribed link in the email or responded asking to unsubscribe. You wont be able to send any more emails to this lead.  
 `Responded` state for the lead conveys that there is some response from the lead and Assistant was not able to categorize it to one of the above.  
-`Pending` means Assistant is still validating the email address of the lead.  
+`Pending` means the email id was certain to be valid (Un-verifiable), so Assistant will process these leads at a slower rate to avoid getting into Bounce issues.  
 
 ## Teach your Assistant
 Some of the responses may over fit or under fit the out-of-the-box ML model and the response received from the lead may get identified in a State which may not be most correct.  
