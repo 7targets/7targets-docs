@@ -7,9 +7,8 @@ description: Assistant notifies the user on receiving a favourable response from
 type: How-to
 sidebar:
   - {id: lead-list, text: Lead List }
-  - {id: export-leads, text: Export Leads}
-  - {id: valid-leads, text: Valid Leads}
-  - {id: accidental-mistake, text: Accidental Mistake }
+  - {id: introduce-self, text: Introduce Self}
+  - {id: email-as-assistant, text: Email as Assistant}
 
 categories:
   - How-To
@@ -24,47 +23,19 @@ User has multiple ways of handling this situation.
 
 If user do not take care of the response in 24 hrs then lead is marked at risk and Assistant follows up with the lead owner, which the user can disable if the action is taken outside of the system.
 
-## Lead List
-On click of the Total Leads and Total Valid Leads count in the Dashboard, you would be shown total leads in the lead list for the filtered period. Default period is last 90 days. 
+## Introduce Self
+On clicking the link receive in the notification email, you will be taken to the specific lead.
 
-Select all the leads and then click on the Export icon. Provide the name and you will be informed on email when the export is complete. 
-![image](../../images/export-leads.jpg)
+You can then click on `More->Introduce Me`, which gets you some sample message which you can eit as require. Add more emailids in CC as require. Then click on Send email or Schedule the email to be sent.
 
-## Export Leads
-You can also click on the More and Exports to get to the page which shows the exported leads. 
-![image](../../images/export-list.jpg)
+![image](../../images/Introduce-me-6.jpg)
 
-And then Download the exported file. 
-![image](../../images/export-list-download.jpg)
+## Email as Assistant
+On clicking the link receive in the notification email, you will be taken to the specific lead.
 
-## Valid Leads
-You can open the downloaded CSV in microsoft excel and apply the specific filters to get to your data. 
+You can then click on `Reply` button. This will open a sample message, which you can edit and make it personal and then send the email. 
 
-![image](../../images/export-csv.jpg)
-
-Note below is the list of Sub-States which are considered as Invalid leads. You can filter out on those Sub-States in the file and get the list of valid leads.  
-- **InvalidEmail** (Email was identified as Invalid when checked against the email validation solutions like debounce, zerobounce)
-- **BounceDeactivated** (We received a bounce notification after an email was sent)
-- **BounceRisk** (Email was identified as risky to send when checked against the email validation solutions like debounce, zerobounce)
-- **CannotDetermine** (We received a bounce notification  after an email was sent, it did not contain enough information to know the reason)
-- **ServerUnReachable** (Email validation solutions like debounce, zerobounce, was not able to reach the email server for the provided email)
-- **SpamTrap** (Is a Spam Trap so not a valid email)
-- **Disposable** (Is a disposable email, so not considered valid)
-
-## Active Leads
-A quick note about **Active Leads**.  
-What are Active Leads?  
-Why do at times the count on the dashboard and lead list count do not match for Active Leads ?  
-
-Active Leads are leads, which are scheduled to receive an email in future. 
-To get the active leads in the lead list, one has to use the **Scheduled** by date filter. And provide the future date in **to**. 
-Based on the time period it will show the leads in the list. 
-
-Dashboard is for past data, the default time period for Dashboard is past 90 days (Quarter).  
-But, Active Leads are for future date, so when clicked on the Active Leads count in dashboard, by default we pick 180 days in future. 
-If some leads are schedule beyond the **To** date, then the count may not match. You can simply increase the **To** date in the filter to get leads beyond the default time.
-
-![image](../../images/schedule-date-filter.jpg)
+![image](../../images/send-email-as-assistant.jpg)
 
 If you have any further doubts, you can directly mail us at support@7targets.com.
 
