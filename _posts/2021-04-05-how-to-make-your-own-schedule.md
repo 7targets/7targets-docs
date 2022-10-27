@@ -103,7 +103,7 @@ Note that the sequence can be identified as EmailCC Type of sequence.
 
 EmailCC is a special type, which conveys that the first message is to be skipped and followup starts from 2nd message. As first message is representative of the original message from the user.
 
-[How to assign lead using EmailCC](../how-to/how-to-assign-a-lead-to-AI-assistant-using-EmailCC-feature/).
+[How to assign lead using EmailCC](../how-to-assign-a-lead-to-AI-assistant-using-EmailCC-feature/).
 
 ## Step 9
 
