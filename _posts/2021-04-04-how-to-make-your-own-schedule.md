@@ -13,6 +13,7 @@ sidebar:
   - {id: step-6, text: Change the After Days}
   - {id: step-7, text: View Message}
   - {id: step-8, text: Save schedule}
+  - {id: emailcc-type, text: EmailCC Type}
   - {id: step-9, text: May make it Default}
 # categories:
 #   - How-To
@@ -95,6 +96,13 @@ On the right side, you can click on the add and delete icons on any of the rows 
 Click on the 'Save' button at the left bottom corner after you have made all the changes to the schedule. 
 
 ![image](../images/mail-schedule-10.png)
+
+## EmailCC Type
+Note that the sequence can be identified as EmailCC Type of sequence. 
+
+EmailCC is a special type, which conveys that the first message is to be skipped and followup starts from 2nd message. As first message is representative of the original message from the user.
+
+[How to assign lead using EmailCC](../how-to/how-to-assign-a-lead-to-AI-assistant-using-EmailCC-feature/).
 
 ## Step 9
 
