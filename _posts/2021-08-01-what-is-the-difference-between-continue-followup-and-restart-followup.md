@@ -16,6 +16,7 @@ sidebar:
   - {id: step-7, text: Select the leads}
   - {id: step-8, text: Restart Followup}
   - {id: step-9, text: Confirm Restart}
+  - {id: skipped-to-restart, text: Skipped to Restart}
 
 categories:
   - How-To
@@ -125,5 +126,17 @@ Click on 'Restart'.
 ![image](../../images/Different-followup-15.jpg)
 
 As you will click on restart all of them will start receiving new messages as per the given schedule.
+
+## Skipped to Restart
+Some leads even if they are part of the restart leads list are skipped or not restarted because they may have beem UnSubscribed or Deactivated(Invalid leads) with below sub-states:
+
+List of Sub-States which are considered as Invalid leads for the DeActivated leads: 
+- **InvalidEmail** (Email was identified as Invalid when checked against the email validation solutions like debounce, zerobounce)
+- **BounceDeactivated** (We received a bounce notification after an email was sent)
+- **BounceRisk** (Email was identified as risky to send when checked against the email validation solutions like debounce, zerobounce)
+- **CannotDetermine** (We received a bounce notification after an email was sent, it did not contain enough information to know the reason)
+- **ServerUnReachable** (Email validation solutions like debounce, zerobounce, was not able to reach the email server for the provided email)
+- **SpamTrap** (Is a Spam Trap so not a valid email)
+- **Disposable** (Is a disposable email, so not considered valid)
 
 If you have any further doubts you can directly mail us at info@7targets.com.
