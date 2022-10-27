@@ -128,7 +128,7 @@ Click on 'Restart'.
 As you will click on restart all of them will start receiving new messages as per the given schedule.
 
 ## Skipped to Restart
-Some leads even if they are part of the restart leads list are skipped or not restarted because they may have beem UnSubscribed or Deactivated(Invalid leads) with below sub-states:
+Some leads even if they are part of the restart leads list are skipped or not restarted because they may have been UnSubscribed or Deactivated(Invalid leads) with below sub-states:
 
 List of Sub-States which are considered as Invalid leads for the DeActivated leads: 
 - **InvalidEmail** (Email was identified as Invalid when checked against the email validation solutions like debounce, zerobounce)
@@ -138,5 +138,8 @@ List of Sub-States which are considered as Invalid leads for the DeActivated lea
 - **ServerUnReachable** (Email validation solutions like debounce, zerobounce, was not able to reach the email server for the provided email)
 - **SpamTrap** (Is a Spam Trap so not a valid email)
 - **Disposable** (Is a disposable email, so not considered valid)
-
+- **Retired** (Received a notificaiton that the person has retired)
+- **MovedOut** (Received a notificaiton that the person has moved out of the company)
+- **ReferredSomeone** (Received a notificaiton that the person possibly retired and then referred someone else)
+ 
 If you have any further doubts you can directly mail us at info@7targets.com.
