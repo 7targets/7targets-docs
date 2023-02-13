@@ -1,8 +1,8 @@
 ---
 date: 2023-02-08
-title: How to stop repeat WARM notification for the same lead
+title: What is the best practice to handle WARM leads?
 # video_id: 6xyI5NNCCmc
-# description: Some of the leads may respond back agree to meet or interested to proceed further and you may want to send a reply immeditely with your shared calender. So the lead can book the meeting.
+description: Best practices to handle Warm leads.
 type: How-to
 # sidebar:
 

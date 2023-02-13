@@ -1,8 +1,8 @@
 ---
 date: 2023-02-08
-title: How to learn more about warm leads?  OR How to find more information about warm leads?
+title: How to know which contacts are opening which links ?
 # video_id: 6xyI5NNCCmc
-# description: Some of the leads may respond back agree to meet or interested to proceed further and you may want to send a reply immeditely with your shared calender. So the lead can book the meeting.
+description: If you have links in your emails which are sent to your leads and if you want to know which contacts have clicked on the links.
 type: How-to
 # sidebar:
 

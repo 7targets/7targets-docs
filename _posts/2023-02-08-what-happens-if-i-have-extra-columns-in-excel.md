@@ -2,7 +2,7 @@
 date: 2023-02-08
 title: What happens if I have extra columns in the excel being uploaded
 # video_id: 6xyI5NNCCmc
-# description: Some of the leads may respond back agree to meet or interested to proceed further and you may want to send a reply immeditely with your shared calender. So the lead can book the meeting.
+description: During uploading of Excel file while adding Leads,the extra columns wwill get ignored.
 type: How-to
 # sidebar:
 

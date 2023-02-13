@@ -2,7 +2,7 @@
 date: 2023-02-08
 title: What is the best practice when a lead is hot
 # video_id: 6xyI5NNCCmc
-# description: Some of the leads may respond back agree to meet or interested to proceed further and you may want to send a reply immeditely with your shared calender. So the lead can book the meeting.
+description: Best practiceS when a lead is hot
 type: How-to
 # sidebar:
 

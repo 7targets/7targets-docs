@@ -2,7 +2,7 @@
 date: 2023-02-08
 title: How to learn more about warm leads?  OR How to find more information about warm leads?
 # video_id: 6xyI5NNCCmc
-# description: Some of the leads may respond back agree to meet or interested to proceed further and you may want to send a reply immeditely with your shared calender. So the lead can book the meeting.
+description: WARM leads are potential Hot Leads.So writing a personalized email will double the chance of response.
 type: How-to
 # sidebar:
 

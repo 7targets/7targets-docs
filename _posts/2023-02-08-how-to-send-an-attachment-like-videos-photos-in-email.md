@@ -2,7 +2,7 @@
 date: 2023-02-08
 title: How to send an attachment, videos or photos in the email?
 # video_id: 6xyI5NNCCmc
-description: How to stop sending off further messages other than Unsubscribe
+description: How to send an attachment, videos or photos in the email
 type: How-to
 # sidebar:
 

@@ -2,7 +2,7 @@
 date: 2023-02-08
 title: How do I decide on the context to be used when adding a lead ? 
 # video_id: 6xyI5NNCCmc
-description: How do I decide on the context to be used when adding a lead ? 
+description: How do I decide on the context to be used when adding a lead 
 type: How-to
 # sidebar:
 

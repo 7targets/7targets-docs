@@ -2,7 +2,7 @@
 date: 2023-02-08
 title: How to stop repeat WARM notification for the same lead
 # video_id: 6xyI5NNCCmc
-# description: Some of the leads may respond back agree to meet or interested to proceed further and you may want to send a reply immeditely with your shared calender. So the lead can book the meeting.
+description: You get notified when a lead is WARM,but if you want to stop repeat WARM notifications for the lead then you can disable them.
 type: How-to
 # sidebar:
 

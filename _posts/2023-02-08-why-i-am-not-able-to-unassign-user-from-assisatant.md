@@ -2,7 +2,7 @@
 date: 2023-02-08
 title: Why I am not able to unassign the user from assistant?
 # video_id: 6xyI5NNCCmc
-# description: Some of the leads may respond back agree to meet or interested to proceed further and you may want to send a reply immeditely with your shared calender. So the lead can book the meeting.
+description: If you are trying to unassign the user from a default assistant then it wont be possible,beacuse at least one default assistant is required for the User.
 type: How-to
 # sidebar:
 

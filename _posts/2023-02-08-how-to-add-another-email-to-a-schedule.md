@@ -2,7 +2,7 @@
 date: 2023-02-08
 title: How to add another email to a schedule which was already sent or processed
 # video_id: 6xyI5NNCCmc
-# description: Some of the leads may respond back agree to meet or interested to proceed further and you may want to send a reply immeditely with your shared calender. So the lead can book the meeting.
+description: How to add another email to a schedule which was already sent or processed
 type: How-to
 # sidebar:
 

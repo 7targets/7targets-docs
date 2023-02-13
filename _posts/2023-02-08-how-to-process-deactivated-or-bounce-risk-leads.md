@@ -2,7 +2,7 @@
 date: 2023-02-08
 title: How to process the Deactivated -> Bounce Risk Leads ?
 # video_id: 6xyI5NNCCmc
-description:  How to process the Deactivated -> Bounce Risk Leads ?
+description:  How to process the Deactivated -> Bounce Risk Leads 
 type: How-to
 # sidebar:
 
