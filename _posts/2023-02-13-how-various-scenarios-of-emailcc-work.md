@@ -69,9 +69,9 @@ After user replied back to lead from his email address, this reply email from th
 ![image](../../images/existing-lead-restart-preference.png)
 
 ## No response from Lead
-Lead does not reply back and all followups are done. Then the Lead create from EmailCC is marked as LAR. And LAR notification to the user activates. This is done especially for leads created via EmailCC. 
+Lead does not reply back and all followups are done. Then the Lead created via EmailCC is marked as LAR. And LAR notification to the user activates. This is done especially for leads created via EmailCC. 
 
-If assistant preferences are set to change lead to 'Long term nurturing' after all followups are done. Then the leads goes to long term nurturing sequence. And is user made aware that this.
+If assistant preferences are set to change lead to 'Long term nurturing' after all followups are done. Then the leads goes to long term nurturing sequence and user is made aware of this.
 
 ![image](../../images/long-term-nurturing-preference.png)
 
