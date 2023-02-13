@@ -39,7 +39,7 @@ Enable EmailCC using these steps. And then cc the assistant again. Contact Org a
 Someone is not a user in 7Targets has cc'ed an assistant then she/he would not get any reply.
 
 ## Actions from Acknowledgment email
-One important purpose of the Acknowledgment email from the Assistant is to inform the user about name, schedule, etc. Uaer would be able to easily take below actions.
+One important purpose of the Acknowledgment email from the Assistant is to inform the user about name, schedule, etc. User would be able to easily take below actions.
 ![image](../../images/emailcc-ack-email.jpg)
 
 1. Change the Lead Name
