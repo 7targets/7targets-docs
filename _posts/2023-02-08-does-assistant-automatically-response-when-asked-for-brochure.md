@@ -1,4 +1,4 @@
- ---
+---
 date: 2023-02-08
 title: Does the AI based assistant automatically responds when a lead asks for brochure
 # video_id: 6xyI5NNCCmc
@@ -14,3 +14,4 @@ categories:
 If a lead asks for a brochure, the assistant will send the brochure within 5 minutes.  
 You need to make sure the Brochure URL in the assistant **(Edit Assistant->Defaults)** is not blank.  
 If brochure URL in assistant is blank, then the assistant does not send the brochure.
+![image](../../images/assistant-preference-brochure-link.png)

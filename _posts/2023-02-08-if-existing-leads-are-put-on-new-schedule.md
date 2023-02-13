@@ -11,4 +11,4 @@ categories:
 # set: getting-started
 # set_order: 3
 ---
-If I put existing leads on a new schedule, do the leads get counted twice
+No. Existing leads can be sent any number of emails. They will be counted only once. You can pass leads through any number of schedules.

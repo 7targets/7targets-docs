@@ -14,3 +14,4 @@ categories:
 Yes it is possible to not have Unique number in the email subject. Though we recommend to keep the number as it helps in avoiding landing the email in spam. 
 
 If you still want to do this, then go to assistant preferences and save your preference for `Don't use unique number in the email subject`.
+![image](../../images/asistant-preference-dont-use-unique-number.png)

@@ -4,8 +4,8 @@ title: How to create HTML e-mails ?
 # video_id: 6xyI5NNCCmc
 description: How to create HTML e-mails
 type: How-to
-# sidebar:
-
+sidebar:
+  - {id: Reason, text: Reason}
 categories:
   - How-To
 # set: getting-started

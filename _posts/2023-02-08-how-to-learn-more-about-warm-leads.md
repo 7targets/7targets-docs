@@ -4,15 +4,16 @@ title: How to learn more about warm leads?  OR How to find more information abou
 # video_id: 6xyI5NNCCmc
 description: WARM leads are potential Hot Leads.So writing a personalized email will double the chance of response.
 type: How-to
-# sidebar:
-
+sidebar:
+  - {id: Hints, text: Hints}
 categories:
   - How-To
 # set: getting-started
 # set_order: 3
 ---
 There are 3 buttons available for each lead. `Website of the lead, LinkedIn connect search, jobs open at that company`.  
-These are just hints to quickly learn more about the lead.  
+These are just hints to quickly learn more about the lead. 
+## Hints : 
 - From the website, you get basic idea of what the company does. 
 - From LinkedIn connect, you know what that person does in that company, 
 - From open jobs, you know where that company has committed to spend there budget.  

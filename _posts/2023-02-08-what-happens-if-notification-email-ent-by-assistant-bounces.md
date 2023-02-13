@@ -1,4 +1,4 @@
- ---
+---
 date: 2023-02-08
 title: What happens if the notification email sent by the Assistant bounces
 # video_id: 6xyI5NNCCmc

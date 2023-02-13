@@ -1,4 +1,4 @@
- ---
+---
 date: 2023-02-08
 title: Why some leads are marked Deactivated and Bounce Risk ? OR Why do I see a note like Bounce rate beyond limit and the email is not sent for the lead?
 # video_id: 6xyI5NNCCmc
