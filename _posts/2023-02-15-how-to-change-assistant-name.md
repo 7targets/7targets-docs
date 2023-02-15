@@ -1,5 +1,5 @@
 ---
-date: 2021-04-30
+date: 2023-02-15
 title: How to change assistant name
 video_id: JC2yJnBXzLM
 description: How to change assistant name
