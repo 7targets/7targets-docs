@@ -5,8 +5,8 @@ title: How to add another email to a sequence which was already sent or processe
 description: How to add another email to a sequence which was already sent or processed
 type: How-to
 sidebar:
-  - {id: Scenario-1, text: Scenario 1 }
-  - {id: Scenario-2, text: Scenario 2 }
+  - {id: scenario-1, text: Scenario 1 }
+  - {id: scenario-2, text: Scenario 2 }
 
 categories:
   - How-To
