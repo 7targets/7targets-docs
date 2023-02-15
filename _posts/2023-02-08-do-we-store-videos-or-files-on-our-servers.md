@@ -11,5 +11,5 @@ categories:
 # set: getting-started
 # set_order: 3
 ---
-No. We just take links to the documents that you want to share with your users. Data, videos remain on your server.
+No. We just take links to the documents that you want to share with your users. Data, Videos remain on your server.
 Only the image which is part of the email or Signature is uploaded on our server.
