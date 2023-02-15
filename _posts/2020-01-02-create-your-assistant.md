@@ -42,7 +42,8 @@ If you want to use your own domain+email as Assistants email address then we sup
 ## Use Exchange Server
 Here are the steps to use Exchange Server. 
 
-1. Create Assistant using `I want to use my own domain`. 
+1. Create Assistant using `I want to use my own domain`. Dont worry about writing the name of the assistant. The display name from your exchange servers email id is used to replace the name of the assistant. 
+1. Select Exchange Server. 
 1. On clicking it, you would be asked to authorize the email/account you want to use for the Assistant being created. This will be Assistant's email id. 
 
 Assistant will send emails from using this authorized account. As well, Assistant will read the email responses received on this email address. 
