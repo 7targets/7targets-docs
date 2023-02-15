@@ -5,7 +5,7 @@ title: How to just change the first line of the default email ?
 description: Generally assistant drafts an email for sending it to the lead.Suppose you may want to change the first line of the email,then you can do that by creating custom sequence and custom message.
 type: How-to
 sidebar:
-  - {id: Steps, text: Steps}
+  - {id: steps, text: Steps }
 
 categories:
   - How-To

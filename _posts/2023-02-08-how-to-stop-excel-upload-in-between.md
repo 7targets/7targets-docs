@@ -11,6 +11,6 @@ categories:
 # set: getting-started
 # set_order: 3
 ---
-In the `Multiple Leads Upload` page for the row which has status **ADDING|VALIDATED|VALIDATING** there would be a Cancel action. 
+In the `Multiple Leads Upload` page for the row which has status **ADDING or VALIDATED or VALIDATING** there would be a Cancel action. 
 
 As the leads are added in batch of 50. The cancel will be applicable from next batch onwards when in ADDING status.

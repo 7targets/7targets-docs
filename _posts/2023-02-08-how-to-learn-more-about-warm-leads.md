@@ -5,7 +5,7 @@ title: How to learn more about warm leads?  OR How to find more information abou
 description: WARM leads are potential Hot Leads.So writing a personalized email will double the chance of response.
 type: How-to
 sidebar:
-  - {id: Hints, text: Hints}
+  - {id: hints, text: Hints }
 categories:
   - How-To
 # set: getting-started
