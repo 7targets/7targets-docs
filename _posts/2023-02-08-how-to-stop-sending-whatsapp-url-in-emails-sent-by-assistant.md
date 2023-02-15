@@ -12,4 +12,3 @@ categories:
 # set_order: 3
 ---
  Go to edit assistant and tick the box appropriately for adding or not adding the direct WhatsApp URL in the email.
- ![image](../../images/asistant-preference-dont-use-unique-number.png)

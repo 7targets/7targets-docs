@@ -13,4 +13,5 @@ categories:
 ---
 In Assistant preference there is `Assistant Off Days`. You can tick the days of the week when you do not want the assistant to send any email. Assistant will skip sending emails on those days.
 Timezone is important too for this setting. As based on the timezone the day is calculated.
-![image](../../images/assistant-preferencee-off-days.png)
+
+![image](../../images/assistant-preference-off-days.png)
