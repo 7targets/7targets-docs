@@ -42,18 +42,8 @@ If you want to use your own domain+email as Assistants email address then we sup
 ## Use Exchange Server
 Here are the steps to use Exchange Server. 
 
-1. Create Assistant using `I want to use my own domain`. Dont worry about writing the name of the assistant. The display name from your exchange servers email id is used to replace the name of the assistant. 
-1. Select Exchange Server. 
-1. On clicking it, you would be asked to authorize the email/account you want to use for the Assistant being created. This will be Assistant's email id. 
+https://7targets.ai/help/how-to/how-to-add-assistant-in-Exchange-Server-Outlook/
 
-Assistant will send emails from using this authorized account. As well, Assistant will read the email responses received on this email address. 
-
-Create a specific email id for your assistant in your Exchange account and use that to authorize while creating an Assistant. 
-
-**Important**
-Microsoft has some automatic detector and blocks the accounts at time and you will receive an email like below. Please unblock the account for the Assistant to function correctly.
-
-![image](../../images/microsoft-block-account.png)
 
 ## Use Gmail
 If you want your Assistant to send email from your company domain instead of `<yourcompany>.7ts-e.com` and your company domain email is on GMAIL for Business, then you can use this feature.  

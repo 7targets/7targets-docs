@@ -43,5 +43,17 @@ Provide those permissions.
 Go to Custom Messages, select a custom message, and send test email. 
 Make sure you see the Emma Assistant in the top icon's. This ensures that Emma assistant is selected while sending the email. 
 
+## Issues that happen 
+**Important**
+You are giving access of one of the email boxes (Emma in this case), to 7Targets. 
+You are authorizing 7Targets to access this email box for reading and writing emails. 
+You will have to REAUTHORIZE this every 90 days. 
+It's not a good practice to allow another company to use a email box forever. Hence Microsoft enforces this REAUTHORIZATION every 90 days. 
+The Assistant Emma will remind you via email whenever she is unable to send emails because she was not allowed to send emails after 90 days. 
+
+![image](../../images/microsoft-block-account.png)
+
+Here is the microsoft link on this: https://learn.microsoft.com/en-us/azure/active-directory/develop/refresh-tokens#refresh-token-expiration 
+
 If you have any further doubts, you can directly mail us at support@7targets.com.
 
