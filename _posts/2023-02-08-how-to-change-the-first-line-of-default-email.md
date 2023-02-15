@@ -5,7 +5,7 @@ title: How to just change the first line of the default email ?
 description: Generally assistant drafts an email for sending it to the lead.Suppose you may want to change the first line of the email,then you can do that by creating custom sequence and custom message.
 type: How-to
 sidebar:
-  - {id: Steps:, text: Steps}
+  - {id: Steps, text: Steps}
 
 categories:
   - How-To
@@ -13,7 +13,7 @@ categories:
 # set_order: 3
 ---
 Yes it is possible. You would have to create a custom sequence and custom message for it.
-## Steps:
+## Steps
 1. On Assistant page, click on sequence button.
 2. Clone the Recommend sequence. Give a name and description to it.
 3. In this cloned sequence, change the first row by selecting Message Type as "Custom MEssage" and for the Message Column, select "Create New".
