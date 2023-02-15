@@ -5,7 +5,7 @@ title: How to create HTML e-mails ?
 description: How to create HTML e-mails
 type: How-to
 sidebar:
-  - {id: Reason, text: Reason}
+  - {id: reason, text: Reason }
 categories:
   - How-To
 # set: getting-started

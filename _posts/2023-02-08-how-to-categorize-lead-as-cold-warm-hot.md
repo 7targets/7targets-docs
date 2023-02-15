@@ -5,18 +5,18 @@ title: How to categorize leads as Cold, Warm, and HOT ?
 description: Based on what criteria are the leads categorized as cold, warm, and HOT
 type: How-to
 sidebar:
-  - {id: Cold-leads, text: Cold-leads}
-  - {id: Warm-leads, text: Warm-leads}
-  - {id: Hot-leads, text: Hot-leads}
+  - {id: cold-leads, text: Cold leads}
+  - {id: warm-leads, text: Warm leads}
+  - {id: hot-leads, text: Hot leads}
 categories:
   - How-To
 # set: getting-started
 # set_order: 3
 ---
-## Cold-leads
+## Cold leads
  Those leads who opened less than 3 emails are categorized as cold leads.
 
-## Warm-leads 
+## Warm leads 
 Those leads who
 - have opened 3 or more emails or clicked on link in the email
 - asked for brochure or company profile
@@ -24,5 +24,5 @@ Those leads who
 
 are categorized as warm leads.
 
-## Hot-leads
+## Hot leads
  Leads who respond positively asking for meeting are marked as HOT leads.
