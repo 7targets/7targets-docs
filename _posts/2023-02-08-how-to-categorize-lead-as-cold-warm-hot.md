@@ -5,9 +5,9 @@ title: How to categorize leads as Cold, Warm, and HOT ?
 description: Based on what criteria are the leads categorized as cold, warm, and HOT
 type: How-to
 sidebar:
-  - {id: Cold-leads, text: Cold leads}
-  - {id: Warm-leads, text: Warm leads}
-  - {id: Hot-leads, text: Hot leads}
+  - {id: cold-leads, text: Cold leads}
+  - {id: warm-leads, text: Warm leads}
+  - {id: hot-leads, text: Hot leads}
 categories:
   - How-To
 # set: getting-started
