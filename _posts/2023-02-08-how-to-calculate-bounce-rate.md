@@ -20,3 +20,6 @@ Number of leads actually bounced in last 7 days.
 Bounce Rate = (Bounced Leads * 100) / TVL
 
 If the Bounce rate is 4% or more then the leads identified as Bounce Risk will be put in status Deactivated->Bounce Risk.
+
+You can check Bounce Rate by clicking on `Org Messages` > `Org Details`.The page will look like the below image.
+![image](../../images/check-bounce-rate.png)

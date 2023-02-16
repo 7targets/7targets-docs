@@ -2,7 +2,7 @@
 date: 2023-02-08
 title: How to stop sending off further messages other than Unsubscribe ?
 # video_id: 6xyI5NNCCmc
-description: How to stop sending off further messages other than Unsubscribe
+description: Deactivate is the right option to stop sending emails. 
 type: How-to
 # sidebar:
 

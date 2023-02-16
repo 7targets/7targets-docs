@@ -2,7 +2,7 @@
 date: 2023-02-08
 title: How to categorize leads as Cold, Warm, and HOT ?
 # video_id: 6xyI5NNCCmc
-description: Based on what criteria are the leads categorized as cold, warm, and HOT
+description: Based on what criteria are the leads categorized as Cold, Warm, and HOT
 type: How-to
 sidebar:
   - {id: cold-leads, text: Cold leads}

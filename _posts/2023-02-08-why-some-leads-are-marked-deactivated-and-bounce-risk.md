@@ -2,7 +2,7 @@
 date: 2023-02-08
 title: Why some leads are marked Deactivated and Bounce Risk ? OR Why do I see a note like Bounce rate beyond limit and the email is not sent for the lead ?
 # video_id: 6xyI5NNCCmc
-description:  Why some leads are marked Deactivated and Bounce Risk
+description:  Bounced emails impacts the credibility of the email servers and reduces the deliverability of your emails.
 type: How-to
 # sidebar:
 
@@ -25,3 +25,5 @@ Bounce rate is calculated based on the number of Bounce Deactivated leads in the
 Even after trying for 15 days    
 `IF` your Org level bounce rate is beyond the limit  
 `THEN` those leads are marked Deactivated and Bounce Risk.
+You can check Bounce Rate by clicking on `Org Messages` > `Org Details`.The page will look like the below image.
+![image](../../images/check-bounce-rate.png)

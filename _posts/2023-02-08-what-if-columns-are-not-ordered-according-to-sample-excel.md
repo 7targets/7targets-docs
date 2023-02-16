@@ -12,3 +12,6 @@ categories:
 # set_order: 3
 ---
 The column order in the Excel File is not important. But the column names are important.
+Following Image shows the required columns an exce file should have.
+`First_Name` and `Email_ID` are mandatory columns for adding Leads via Excel Sheet.
+![image](../../images/excel-columns.png)
