@@ -2,7 +2,7 @@
 date: 2023-02-08
 title: How to pause the sending of emails ?
 # video_id: 6xyI5NNCCmc
-description: How to pause the sending of emails
+description: Sending of emails can be paused by Deactivating the lead.
 type: How-to
 # sidebar:
 

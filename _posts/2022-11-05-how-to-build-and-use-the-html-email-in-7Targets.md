@@ -5,47 +5,27 @@ title: How to build and use the HTML email in 7Targets ?
 description: How to build HTML email using drag and drop and use that in 7Targets. 
 type: How-to
 sidebar:
-  - {id: context, text: Context }
-  - {id: more-info, text: More Info}
+  - {id: steps, text: Steps }
 
 categories:
   - How-To
 # set: getting-started
 # set_order: 3
 ---
-Context is your offering. More info is your marketing line.
+7Targets supports basic HTML, same level of gmail.com.If you have an HTML email template, you can copy-paste or import it from your local PC and create a custom HTML message in 7Targets.Similar to a simple gmail like editor, you can create a custom message containing pictures and relevant links. 
+Following are the steps that you need to follow.
+## Steps
+1. Go to Org Messages->Custom Messages and click on Create button
 
-If you are using custom subject lines and custom emails, then these are not used. Only when assistant generates the subject and email content it uses it.
+![image](../../images/action-create-custommessage.jpg)
 
-You can provide the value for Context and More Info while adding the leads and if not provided then the default for that assistant is used. So the default value for these at Assistant are required and important.
-
-![image](../../images/context-and-more-info.jpg)
-
-## Context
-If you havent created a subject line for your custom email message, then context is used to create different subject lines. 
-
-Actually, all 3 variables are used to create subject lines: assistant name, company name, context. 
-eg. if Ishita is your assistant selling CyberSecurity (context), subject lines can be: 
-
-1. Ishita: About CyberSecurity
-1. Ishita from RiskSek: About CyberSecurity 
-1. About CyberSecurity 
-1. CyberSecurity from RiskSek
-1. ...
-
-And there are many other subject lines suggested by many Hubspot, salesforce blogs that are good subject lines. 
-
-Any of them are used at run time. 
-
-## More Info
-About More information.  
-It is used in followup emails if you are not using custom emails for followups.
- 
-Its a line added before the 'Call to Action' line. 
-
-Eg. 
-[More information] We have helped Ather, Bajaj, TVS and many more EVs in CyberSecurity to prevent vehicles getting controlled remotely.  
-[CTA line] Would you like to get on a call to learn more?
-
-If you have any further doubts, you can directly mail us at support@7targets.com.
-
+1. Type the name of your choice
+1. Write the introduce me message you want to have
+1. Save this custom message 
+2. Click on the `View/Edit` Icon highlighted in the image.
+![image](../../images/custom-message-edit.png)
+3. The following page will open up where you will have an option to `Upload your HTML`.
+![image](../../images/upload-html.png)
+4. Click on `Save` 
+5. You an use this newly created custom message in a Sequence by cloning it.Once you clone existing Sequence add the newly created custom message in the list of meesages to be sent to the lead.Make sure to click on `Make Default` to make this sequence default for your Assistant while sending emails to the leads.
+![image](../../images/create-sequnce-custom-message.png)

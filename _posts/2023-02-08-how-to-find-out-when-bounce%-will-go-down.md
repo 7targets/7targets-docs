@@ -12,3 +12,5 @@ categories:
 # set_order: 3
 ---
 Calculate the Bounced Leads in last 6 days instead of 7. To know the possible Bounce Rate starting from that 6 days earlier date. If it is still 4% or above then go to last 5 days and like wise. 
+You can check Bounce Rate by clicking on `Org Messages` > `Org Details`.The page will look like the below image.
+![image](../../images/check-bounce-rate.png)

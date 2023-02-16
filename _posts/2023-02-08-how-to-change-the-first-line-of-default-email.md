@@ -16,6 +16,6 @@ Yes it is possible. You would have to create a custom sequence and custom messag
 ## Steps
 1. On Assistant page, click on sequence button.
 2. Clone the Recommend sequence. Give a name and description to it.
-3. In this cloned sequence, change the first row by selecting Message Type as "Custom MEssage" and for the Message Column, select "Create New".
+3. In this cloned sequence, change the first row by selecting Message Type as "Custom Message" and for the Message Column, select "Create New".
 4. After creating the custom message, save this sequence. Also mark it Default too.
 5. Now you can add leads and it will use this sequence by default. So your custom message will be the first message.

@@ -2,7 +2,7 @@
 date: 2023-02-08
 title: How to send an attachment, videos or photos in the email ?
 # video_id: 6xyI5NNCCmc
-description: How to send an attachment, videos or photos in the email
+description: Users can add some customized documents, videos or photos in the email sent to the Leads.
 type: How-to
 sidebar:
   - {id: Steps, text: Steps}

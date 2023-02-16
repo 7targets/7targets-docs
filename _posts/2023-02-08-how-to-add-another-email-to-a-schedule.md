@@ -2,7 +2,7 @@
 date: 2023-02-08
 title: How to add another email to a sequence which was already sent or processed ?
 # video_id: 6xyI5NNCCmc
-description: How to add another email to a sequence which was already sent or processed
+description: Sometimes you may want to send a new Email to the leads who hve been receivibg emails based on a Sequence selected at the time of addidtion of leads.
 type: How-to
 sidebar:
   - {id: scenario-1, text: Scenario 1 }
