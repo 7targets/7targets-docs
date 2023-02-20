@@ -35,7 +35,7 @@ Following are the steps that you need to follow.
 3. The following page will open up where you will have an option to `Upload your HTML`.
 ![image](../../images/upload-html.png)
 ## Save
-4. Click on `Save` 
+4. Click on `Save`. 
 ## Use custom message
 5. You an use this newly created custom message in a Sequence by cloning it.Once you clone existing Sequence add the newly created custom message in the list of meesages to be sent to the lead.Make sure to click on `Make Default` to make this sequence default for your Assistant while sending emails to the leads.
 ![image](../../images/create-sequnce-custom-message.png)
