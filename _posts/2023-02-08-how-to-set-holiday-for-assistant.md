@@ -2,7 +2,7 @@
 date: 2023-02-08
 title: How to set Holiday for Assistant ?
 # video_id: 6xyI5NNCCmc
-description: How to set Holiday for Assistant
+description: Users can set up Off Days for the Assistant from preferences. On the Off days selected by User, the Assistant will not send emails to the leads.
 type: How-to
 # sidebar:
 

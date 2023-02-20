@@ -2,7 +2,7 @@
 date: 2023-02-08
 title: What names should I use for the AI Assistant to get a good response rate ?
 # video_id: 6xyI5NNCCmc
-description: What names should I use for the AI Assistant to get a good response rate
+description: Naming an Assistant is a decision which needs to be taken considering Geographical locations and using names prevalent in those locations. This will ensure that the Leads feel a human like connection when an email is sent by the Assistant.
 type: How-to
 # sidebar:
 

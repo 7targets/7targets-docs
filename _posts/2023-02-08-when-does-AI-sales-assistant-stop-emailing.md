@@ -2,7 +2,7 @@
 date: 2023-02-08
 title: When does AI Sales Assistant stop emailing ?
 # video_id: 6xyI5NNCCmc
-description: When does AI Sales Assistant stop emailing
+description: AI Sales Assistant stops emialing under 3 conditions which are if the lead responds,or lead unsubscibes, or the leads is disinterested in your offering.
 type: How-to
 # sidebar:
 

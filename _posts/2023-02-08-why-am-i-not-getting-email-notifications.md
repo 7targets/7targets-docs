@@ -2,7 +2,7 @@
 date: 2023-02-08
 title: Why am I not getting email notifications for response received ?
 # video_id: 6xyI5NNCCmc
-description: Why am I not getting email notifications for response received 
+description: When a response is received from the Lead, Users get an email notification.There may be many reasons if the email notification is stopped. 
 type: How-to
 # sidebar:
 
