@@ -2,7 +2,7 @@
 date: 2023-02-08
 title: How to avoid having the number in the subject of the email sent by the assistant ?
 # video_id: 6xyI5NNCCmc
-description: Sometimes you may want to remove the Unique number in the subject of the email sent by the assistant.
+description: Sometimes you may want to remove the Unique number in the subject of the email sent by the assistant.The followng article shows how to remove unique number from subject of the email.
 type: How-to
 # sidebar:
 
