@@ -5,10 +5,10 @@ title: How to use AI Generated messages ?
 description:  AI-generated messages offer an opportunity to engage with potential leads, establish and nurture relationships, and ultimately convert them into customers.Here are the steps on how to use AI-Generated Messages in 7Targets.
 type: How-to
 sidebar:
-  - {id: step-1, text: What are AI-generated messages ?}
-  - {id: step-2, text: How AI-generated messages are used in 7Targets ?}
-  - {id: step-3, text: What are Credits in 7Targets ?}
-  - {id: step-4, text:  How to use AI-generated messages in 7Targets ?}
+  - {id: step-1, text: What are AI-generated messages}
+  - {id: step-2, text: How AI-generated messages are used in 7Targets}
+  - {id: step-3, text: What are Credits in 7Targets}
+  - {id: step-4, text: How to use AI-generated messages in 7Targets}
 
 categories:
   - How-To
