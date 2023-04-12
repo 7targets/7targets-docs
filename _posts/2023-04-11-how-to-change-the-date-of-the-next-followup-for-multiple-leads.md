@@ -19,5 +19,9 @@ Login with assigned email ids in 7Targets.
 Go to the Leads page and select the leads for whom you want to change the date of the next followup.
 ![image](../../images/step_process2.PNG)
 ## Step 3:
-Clck on Restart Followup option above the list of leads. The following side pae will open up and you can select your desired date of next followup. Click on `Restart` option and the leads will be sent the followups o the selected date.
-![image](../../images/step_process-3.PNG)
+Clck on `More Actions` option above the list of leads. The list will open up and select `Edit Leads` option.
+![image](../../images/step_process3.PNG)
+## Step 4:
+The side page will open up and here you can specify
+your desired date of next followup. Click on `Save` option and the leads will be sent the followups on the selected date.
+![image](../../images/step_process4.PNG)
