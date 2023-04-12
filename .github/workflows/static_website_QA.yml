@@ -37,17 +37,3 @@ jobs:
         
         - name: Invalidate Cloudfront CDN
           run: aws cloudfront create-invalidation --distribution-id ${{ secrets.AWS_CLOUDFRONT_DISTRIBUTION_ID }} --paths '/help/*'
-
-  trigger-wa-chatbot:  
-    runs-on: ubuntu-latest
-    steps:
-      - name: Trigger GitLab wa-chatbot QA pipeline
-      - uses: actions/checkout@v2
-      with:
-        username: GG
-        password: ${{ secrets.GITLAB_HELP_BOT_TRIGGER_TOKEN }}
-        script: |
-          curl -X POST \
-            -F token=${{ secrets.GITLAB_HELP_BOT_TRIGGER_TOKEN }} \
-            -F ref='develop' \
-            https://gitlab.com/api/v4/projects/43259677/trigger/pipeline
