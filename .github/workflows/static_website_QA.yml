@@ -47,7 +47,9 @@ jobs:
           # username: GG
           # password: ${{ secrets.GITLAB_HELP_BOT_TRIGGER_TOKEN }}
         run: |
-          curl --request POST \
-            --form token=${{ secrets.GITLAB_HELP_BOT_TRIGGER_TOKEN }} \
-            --form ref="develop" \
-            "https://gitlab.com/api/v4/projects/43259677/trigger/pipeline"
+          # curl --request POST \
+          #   --form token=${{ secrets.GITLAB_HELP_BOT_TRIGGER_TOKEN }} \
+          #   --form ref="develop" \
+          #   "https://gitlab.com/api/v4/projects/43259677/trigger/pipeline"
+
+            curl --request POST "https://gitlab.example.com/api/v4/projects/43259677/trigger/pipeline?token=${{ secrets.GITLAB_HELP_BOT_TRIGGER_TOKEN }}&ref=develop"
