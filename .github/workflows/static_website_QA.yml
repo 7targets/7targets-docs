@@ -42,7 +42,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Trigger GitLab wa-chatbot QA pipeline
-        uses: actions/checkout@v2
+        # uses: actions/checkout@v2
         # with:
           # username: GG
           # password: ${{ secrets.GITLAB_HELP_BOT_TRIGGER_TOKEN }}
