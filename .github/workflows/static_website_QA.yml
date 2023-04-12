@@ -44,8 +44,8 @@ jobs:
       - name: Trigger GitLab wa-chatbot QA pipeline
         uses: actions/checkout@v2
         with:
-          username: GG
-          password: ${{ secrets.GITLAB_HELP_BOT_TRIGGER_TOKEN }}
+          # username: GG
+          # password: ${{ secrets.GITLAB_HELP_BOT_TRIGGER_TOKEN }}
           run: |
             curl -X POST \
               -F token=${{ secrets.GITLAB_HELP_BOT_TRIGGER_TOKEN }} \
