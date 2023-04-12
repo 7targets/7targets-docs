@@ -43,4 +43,4 @@ jobs:
     steps:
       - name: Trigger GitLab wa-chatbot QA pipeline
         run: |
-          curl -X POST --fail -F token=${{ secrets.GITLAB_HELP_BOT_TRIGGER_TOKEN }} -F ref=develp https://gitlab.com/api/v4/projects/43259677/trigger/pipeline
+          curl -X POST --fail -F token=${{ secrets.GITLAB_HELP_BOT_TRIGGER_TOKEN }} -F ref=develop https://gitlab.com/api/v4/projects/43259677/trigger/pipeline
