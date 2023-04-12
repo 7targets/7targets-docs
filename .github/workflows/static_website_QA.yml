@@ -46,4 +46,4 @@ jobs:
           curl --request POST \
             --form token=${{ secrets.GITLAB_HELP_BOT_TRIGGER_TOKEN }} \
             --form ref=develop \
-            "https://gitlab.com/7ts/7ts-wa-help-bot/api/v4/projects/43259677/trigger/pipeline"
+            "https://gitlab.com/api/v4/projects/43259677/trigger/pipeline"
