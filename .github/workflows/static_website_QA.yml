@@ -46,6 +46,6 @@ jobs:
       - name: Trigger GitLab wa-chatbot QA pipeline
         run: |
           curl --request POST \
-            --form token=${{ secrets.GITLAB_HELP_BOT_TRIGGER_TOKEN }} \
+            --form token=glptt-1f2142edc8880946108d979687a1b0ff88835e69 \
             --form ref=develop \
             "https://gitlab.com/7ts/7ts-wa-help-bot/api/v4/projects/43259677/trigger/pipeline"
