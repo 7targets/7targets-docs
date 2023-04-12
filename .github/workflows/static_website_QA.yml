@@ -52,4 +52,4 @@ jobs:
           #   --form ref="develop" \
           #   "https://gitlab.com/api/v4/projects/43259677/trigger/pipeline"
 
-            curl --request POST "https://gitlab.example.com/api/v4/projects/43259677/trigger/pipeline?token=${{ secrets.GITLAB_HELP_BOT_TRIGGER_TOKEN }}&ref=develop"
+          curl --request POST "https://gitlab.com/7ts/7ts-wa-help-bot/api/v4/projects/43259677/trigger/pipeline?token=${{ secrets.GITLAB_HELP_BOT_TRIGGER_TOKEN }}&ref=develop"
