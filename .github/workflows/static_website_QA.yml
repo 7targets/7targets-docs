@@ -41,8 +41,9 @@ jobs:
   trigger-wa-chatbot:  
     runs-on: ubuntu-latest
     steps:
-      - name: Checking token
-        run: echo "test" "${{ secrets.GITLAB_HELP_BOT_TRIGGER_TOKEN }}"
       - name: Trigger GitLab wa-chatbot QA pipeline
         run: |
-         curl --request POST "https://gitlab.com/7ts/7ts-wa-help-bot/api/v4/projects/43259677/trigger/pipeline?token=glptt-1f2142edc8880946108d979687a1b0ff88835e69&ref=develop"
+          curl --request POST \
+            --form token=${{ secrets.GITLAB_HELP_BOT_TRIGGER_TOKEN }} \
+            --form ref=develop \
+            "https://gitlab.com/7ts/7ts-wa-help-bot/api/v4/projects/43259677/trigger/pipeline"
