@@ -42,12 +42,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Trigger GitLab wa-chatbot QA pipeline
-        # uses: actions/checkout@v2
-        # with:
-          # username: GG
-          # password: ${{ secrets.GITLAB_HELP_BOT_TRIGGER_TOKEN }}
         run: |
           curl --request POST \
             --form token=${{ secrets.GITLAB_HELP_BOT_TRIGGER_TOKEN }} \
             --form ref=develop \
-            "https://gitlab.com/7ts/7ts-wa-help-bot/api/v4/projects/43259677/trigger/pipeline" -v
+            "https://gitlab.com/7ts/7ts-wa-help-bot/api/v4/projects/43259677/trigger/pipeline"
