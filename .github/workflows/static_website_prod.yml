@@ -1,7 +1,7 @@
 name: To deploy static website in S3 bucket for production.
 
 on:
-  push_request:
+  push:
     branches:
        - master
 
