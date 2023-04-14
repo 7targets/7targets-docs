@@ -1,7 +1,7 @@
 name: To deploy static website in S3 bucket for production.
 
 on:
-  push_request:
+  push:
     branches:
        - master
 
@@ -48,4 +48,5 @@ jobs:
       steps:
         - name: Trigger GitLab wa-help-bot PROD pipeline
           run: |
+            curl -X POST --fail -F token=${{ secrets.GITLAB_HELP_BOT_TRIGGER_TOKEN }} -F ref=develop https://gitlab.com/api/v4/projects/43259677/trigger/pipeline
             curl -X POST --fail -F token=${{ secrets.GITLAB_HELP_BOT_TRIGGER_TOKEN }} -F ref=main https://gitlab.com/api/v4/projects/43259677/trigger/pipeline
