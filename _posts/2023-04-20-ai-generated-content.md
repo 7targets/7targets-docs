@@ -5,7 +5,7 @@ description:   AI-generated messages offer an opportunity to engage with potenti
 type: Document
 sitemap: false
 categories:
-  - ai-content
+ - ai-content
 ---
 ## What are AI-generated messages ?
 AI-generated messages offer an opportunity to engage with potential leads, establish and nurture relationships, and ultimately convert them into customers. The implementation of AI-generated messages can provide a personalized experience to each prospect while saving time and resources. With artificial intelligence and natural language processing, creating personalized and targeted messages becomes feasible, resulting in a higher likelihood of converting leads into customers.
