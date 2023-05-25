@@ -41,14 +41,14 @@ On clicking it, you would be asked to authorize the OUTLOOK account you want to 
 ![Outlook 1](../../images/outlook_image1.png)
 ![Outlook 2](../../images/outlook_image2.png)
 ![Outlook 3](../../images/outlook_image3.png)
-![Outlook 4](../../images/outlook_image4.png)
-![Outlook 5](../../images/outlook_image5.png)
-![Outlook 6](../../images/outlook_image6.png)
+![Outlook 4](../../images/outlook_image4.jpg)
+![Outlook 5](../../images/outlook_image5.jpg)
+![Outlook 6](../../images/outlook_image6.jpg)
 
 Once Authorization is done,the following screen will be shown
 ![Outlook 7](../../images/outlook_image7.png)
 We can verify the Assistant Deepali is created in Assistant’s Page.
-![Outlook 8](../../images/outlook_image8.png)
+![Outlook 8](../../images/outlook_image8.jpg)
 ## Step 3:
 To start work on leads, you need to assign them to Deepali Assistant. To check status of leads, you can check it in Deepali Assistant. You can ignore John Assistant for all everyday usability purposes.  
   
