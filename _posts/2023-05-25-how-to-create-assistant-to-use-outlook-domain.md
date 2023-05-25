@@ -5,12 +5,12 @@ title: How to create assistant to use OUTLOOK domain.
 description:  If you want your Assistant to send email from your company domain instead of `<yourcompany>.7ts-e.com `and your company domain email is on OUTLOOK for Business, then you can use this feature.
 type: How-to
 sidebar:
-  - {id: step-1, text: Overview}
-  - {id: step-2, text: Usage}
-  - {id: step-3, text: Step 1}
-  - {id: step-4, text: Step 2}
-  - {id: step-5, text: Step 3}
-  - {id: step-6, text: Setting Spam Filter for Deepali}
+  - {id: overview, text: Overview}
+  - {id: usaage, text: Usage}
+  - {id: step-1, text: Step 1}
+  - {id: step-2, text: Step 2}
+  - {id: step-3, text: Step 3}
+  - {id: setting-spam-filter-for-deepali, text: Setting Spam Filter for Deepali}
 
 categories:
   - How-To
