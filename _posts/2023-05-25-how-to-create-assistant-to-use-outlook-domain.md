@@ -5,8 +5,8 @@ title: How to create assistant to use OUTLOOK domain.
 description:  If you want your Assistant to send email from your company domain instead of `<yourcompany>.7ts-e.com `and your company domain email is on OUTLOOK for Business, then you can use this feature.
 type: How-to
 sidebar:
-  - {id: overview, text: Overview}
-  - {id: usaage, text: Usage}
+  - {id: overview-of-assistants, text: Overview of Assistants}
+  - {id: usage-of-assistants, text: Usage of Assistants}
   - {id: step-1, text: Step 1}
   - {id: step-2, text: Step 2}
   - {id: step-3, text: Step 3}
@@ -22,11 +22,11 @@ As of now, you need 2 assistants in 7Targets to get this feature working.
 Before you start, make sure that you have the email address for your assistant ready on your domain.
 For e.g. If you want to use Deepali, make sure `Deepali@<yourcompany>`.com is already created. If such an email id does not exist, create it before moving to next steps. If you don’t have the rights to create email in your organization, please get in touch with your IT administrator to take his help to create the required email id.
 
-## Overview :
+## Overview of Assistants:
 1st Assistant will have an email address that is on your domain. This assistant will be used for sending and receiving emails. Let me call her Deepali. `Deepali@<yourcompany>.com `
 2nd Assistant will be used for composing messages, remembering the dates to send, processing the email responses, etc. Let me call this second assistant - John `John@<yourcompany>.7ts-e.com`. (Forwarder email address)
 
-## Usage :
+## Usage of Assistants :
 You never have to worry about doing any specific settings for John (Forwarder email address). You have to work with Deepali Assistant only. John is used ONLY once in the entire process configuration, and that is for setting auto forwarding email address.
 We will be setting an auto forwarding rule in Deepali’s OUTLOOK box to forward all incoming emails to John (Forwarder email address) .
 
@@ -46,7 +46,6 @@ On clicking it, you would be asked to authorize the OUTLOOK account you want to 
 ![Outlook 6](../../images/outlook_image6.jpg)
 
 Once Authorization is done,the following screen will be shown
-![Outlook 7](../../images/outlook_image7.png)
 We can verify the Assistant Deepali is created in Assistant’s Page.
 ![Outlook 8](../../images/outlook_image8.jpg)
 ## Step 3:
