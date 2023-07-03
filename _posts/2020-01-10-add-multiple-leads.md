@@ -7,7 +7,7 @@ type: Video
 sidebar:
   - {id: add-multiple-leads, text: Add Multiple Leads}
   - {id: additional-information, text: Additional Information}
-  - {id: schedule-sequence, text: Schedule Sequence}
+  - {id: sequence, text: Sequence}
   - {id: add-multiple-leads, text: Add Multiple Leads}
   - {id: custom-email-subject, text: Custom Email Subject}
   - {id: ways-to-assign-lead, text: Ways to Assign Lead}
@@ -25,7 +25,7 @@ To add multiple leads, provide an excel sheet in the format specified in sample 
 
 `Intelli Import` is a feature where Assistant will try and read the excel in your existing format, to save you the hassle of converting it to the expected format. 
 
-Once you provide the Lead Source, Context and More information, review the emails written by the assistant and the email sequence. Change the schedule, if required. 
+Once you provide the Lead Source, Context and More information, review the emails written by the assistant and the email sequence. Change the sequence, if required. 
 
 Click on Add Lead. Assistant will start validating each row, and will add the valid leads. Finally Assistant will notify you of the status on email. 
 
@@ -40,21 +40,21 @@ Lead once added can not be deleted.
 ## Additional Information
 Additional information is intended to provide more context and details to the lead about your company offerings. Assistant will use this information in emails. 
 
-<a name="schedule-sequence"/>
-## [Schedule Sequence](#schedule-sequence)
-While adding leads,the sequence of emails can be seen in the email preview. These sequence are as per the selected Schedule. 
+<a name="sequence"/>
+## [Sequence](#ssequence)
+While adding leads,the emails can be seen in the email preview. These emails are as per the selected Sequence. 
 
-Default schedule for the Assistant is selected, while you can change the Schedule before adding leads. Change of schedule will also change the email sequence for you to review. 
+Default sequence for the Assistant is selected, while you can change the sequence before adding leads. Change of sequence will also change the emails for you to review. 
 
 <a name="custom-email-subject"/>
 ## [Custom Email Subject](#custom-email-subject)
 Assistant will generate the relevant email subject. This can be overwritten too, though we recommend to use the AI generated Subjects. 
 
-You can edit the Subject while adding the leads from the 7Targets UI. Click the `More button` in the email preview to see the `To, Cc and Subject` fields for you to type your own values. If you are using a custom message in a custom schedule, we recommend to have your Custom subject in the Custom message itself.
+You can edit the Subject while adding the leads from the 7Targets UI. Click the `More button` in the email preview to see the `To, Cc and Subject` fields for you to type your own values. If you are using a custom message in a custom sequence, we recommend to have your Custom subject in the Custom message itself.
 
-Assistant will use the same Subject line for each followup email, so that the all the emails are grouped together for the viewer. If you intend to have different subjects for each followup email then you will have to use custom message and each custom message in the schedule can have different custom subject too. 
+Assistant will use the same Subject line for each followup email, so that the all the emails are grouped together for the viewer. If you intend to have different subjects for each followup email then you will have to use custom message and each custom message in the sequence can have different custom subject too. 
 
-Like Subject, the email body can be changed too. We recommend to create a custom message in a custom schedule if you intend to write your own message instead of editing the message at the time of adding leads. One important best practice to follow while creating your own custom message is to have small 5 seconds reading emails on hand-held devices. 
+Like Subject, the email body can be changed too. We recommend to create a custom message in a custom sequence if you intend to write your own message instead of editing the message at the time of adding leads. One important best practice to follow while creating your own custom message is to have small 5 seconds reading emails on hand-held devices. 
 
 With the intention to keep the emails light, attachments are not possible. While you can add an image to your emails, it is recommended to avoid adding multiple images to keep it small and quick read. 
 
@@ -71,12 +71,12 @@ Leads can be added or assigned to the Assistant in multiple ways:
 ## Questions answered
 - Can I add multiple leads ? 
 - What are the various different ways of assigning leads to the Assistant ?
-- How can I assign a schedule to the lead or leads ?
+- How can I assign a sequence to the lead or leads ?
 - How can I change the subject for the emails being sent by the Assistant ?
 - Will assistant maintain the first email in the followup emails ? 
 - Will all the emails have the same Subjects ? 
 - Can I have different Subjects for each email ?  
-- Can I write my own message and sequence ? i.e. custom schedule and custom message ?
+- Can I write my own message and sequence ? i.e. custom sequence and custom message ?
 - Can I add attachment to the email ?
 - Can I add image to the email ? 
 - Is there a possibility to delete the existing data ?

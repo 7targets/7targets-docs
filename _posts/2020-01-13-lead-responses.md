@@ -51,7 +51,7 @@ Assistant will categorize the leads in various states based on the followups and
 `Hot` if the lead has accepted to meet.   
 `Warm` lead is someone who has opened 3 or more emails or has clicked on a link from the email. A good list for your calling team to call.  
 `Engaged` lead is someone who has opened 1 or more emails.  
-`Processed` followup is completed as per the schedule and there was no response from the lead.    
+`Processed` followup is completed as per the sequence and there was no response from the lead.    
 `Out of office` received an out of office from the lead. Assistant will restart the followup after lead returns back to office. [What if the next email for the lead is going beyond the out of office date for the lead ?]({{ site.baseurl }}/how-to/what-if-the-next-email-for-lead-is-going-beyond-out-of-office-date-for-lead/)
 `Deactivated` lead responded back asking to stop sending emails. Lead email id is invalid as verified by the assistant. Email sent to the lead bounced.  
 `Unsubscribed` lead used the unsubscribed link in the email or responded asking to unsubscribe. You wont be able to send any more emails to this lead.  

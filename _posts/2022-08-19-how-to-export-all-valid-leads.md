@@ -58,7 +58,7 @@ Based on the time period it will show the leads in the list.
 
 Dashboard is for past data, the default time period for Dashboard is past 90 days (Quarter).  
 But, Active Leads are for future date, so when clicked on the Active Leads count in dashboard, by default we pick 180 days in future. 
-If some leads are schedule beyond the **To** date, then the count may not match. You can simply increase the **To** date in the filter to get leads beyond the default time.
+If some leads are sequence beyond the **To** date, then the count may not match. You can simply increase the **To** date in the filter to get leads beyond the default time.
 
 ![image](../../images/schedule-date-filter.jpg)
 

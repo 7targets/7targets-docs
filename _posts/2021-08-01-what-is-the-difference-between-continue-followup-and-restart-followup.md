@@ -36,9 +36,9 @@ Look at the video below which explains the difference between continue follow-up
 
 Assistant stops sending any further messages to the lead after one of the below happens:
 1. a response is received from the lead
-1. all the messages are sent out as per the schedule for the lead
+1. all the messages are sent out as per the sequence for the lead
 
-You may need to continue follow-up for situation 1 above. Or may have added more followup messages to the schedule and in that case may need to send the remaining messages from the schedule to the lead.
+You may need to continue follow-up for situation 1 above. Or may have added more followup messages to the sequence and in that case may need to send the remaining messages from the sequence to the lead.
 
 **Continue Followup** action helps you to let the follow-ups be continued from where it stopped.
 
@@ -77,11 +77,11 @@ Write the note to save, select the date and time for the messages to continue. T
 
 ![image](../../images/Different-followup-7.jpg)
 
-Note: All the selected leads will be continued as per the schedule and the next message in the schedule for that lead.
+Note: All the selected leads will be continued as per the sequence and the next message in the sequence for that lead.
  
 ## Restart Followup
 
-**Restart Followup** will start sending the messages for the restarted leads from the first message in the schedule sequence. This action is useful if you want to restart followup for certain leads on a different schedule.
+**Restart Followup** will start sending the messages for the restarted leads from the first message in the sequence. This action is useful if you want to restart followup for certain leads on a different sequence.
 
 ## Step-5
 
@@ -115,7 +115,7 @@ A message for Restart follow-up will show up.
 
 ![image](../../images/Different-followup-13.jpg)
 
-You can also edit the schedule or assign leads to other assistants.
+You can also edit the sequence or assign leads to other assistants.
 
 ![image](../../images/Different-followup-14.jpg)
 
@@ -125,7 +125,7 @@ Click on 'Restart'.
 
 ![image](../../images/Different-followup-15.jpg)
 
-As you will click on restart all of them will start receiving new messages as per the given schedule.
+As you will click on restart all of them will start receiving new messages as per the given sequence.
 
 ## Skipped to Restart
 Some leads even if they are part of the restart leads list are skipped or not restarted because they may have been UnSubscribed or Deactivated(Invalid leads) with below sub-states:

@@ -111,6 +111,6 @@ It shows the count of duplicate leads. If you click on that count, it shows all 
 
 These duplicate leads could have been added from different files.
 
-Listing all of them together and taking some action like send a broadcast or restart on a particular schedule would be difficult. Thus we have a one-click way of getting to all those duplicate leads for the user.
+Listing all of them together and taking some action like send a broadcast or restart on a particular sequence would be difficult. Thus we have a one-click way of getting to all those duplicate leads for the user.
 
 If you have any further doubts, you can directly mail us at info@7targets.com.

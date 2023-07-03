@@ -11,7 +11,7 @@ sidebar:
   - {id: step-3, text: Select the lead source}
   - {id: step-4, text: Add more context}
   - {id: step-5, text: Upload the leads}
-  - {id: step-6, text: Select schedule}
+  - {id: step-6, text: Select sequence}
   - {id: step-7, text: Click on the Add leads}
   - {id: step-8, text: Upload history}
 categories:
@@ -80,11 +80,11 @@ Else as shown below, click on 'Select Excel File'. Select the excel sheet you wa
 
 ## Step 6
 
-You can assign schedule to these leads. Click on the 'Schedule' button. Select the desired 'Schedule' by clicking on the drop-down arrow. Then set the 'Start At' date and time.
+You can assign sequence to these leads. Click on the 'Sequence' button. Select the desired 'Sequence' by clicking on the drop-down arrow. Then set the 'Start At' date and time.
 
 ![image](../../images/Step-8.png)
 
-Further, you can even create your own schedule to assign to these leads. Follow the steps under [how to make your own schedule](../how-to-make-your-own-schedule/).
+Further, you can even create your own sequence to assign to these leads. Follow the steps under [how to make your own sequence](../how-to-make-your-own-schedule/).
 
 ## Step 7
 

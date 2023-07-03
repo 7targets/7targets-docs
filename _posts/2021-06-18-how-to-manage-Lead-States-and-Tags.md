@@ -44,7 +44,7 @@ If you want to send some other messages to a processed lead then click on 'Resta
 
 ![image](../../images/Lead-Tags-5.png)
 
-You'll be directed to this page. Where you can select a new Schedule, Assistant and other details and then Restart. 
+You'll be directed to this page. Where you can select a new Sequence, Assistant and other details and then Restart. 
 
 ![image](../../images/Lead-Tags-6.png) 
 
