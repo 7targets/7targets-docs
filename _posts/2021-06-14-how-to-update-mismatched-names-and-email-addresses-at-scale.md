@@ -97,17 +97,17 @@ Go to Leads and select 'Multiple Leads'.
 
 ![image](../../images/Mismatched-11.png) 
 
-Scroll down and drag the corrected file in the 'Drag and Drop OR Select Excel File' section and click schedule.
+Scroll down and drag the corrected file in the 'Drag and Drop OR Select Excel File' section and click sequence.
 
 ![image](../../images/Mismatched-12.png)
 
 Here you'll see two options.
 
-If leads are in motion or anyway the first email is gone out then you can restart the process by clicking on 'Restart lead even if they are actively nurtured by some other schedule'.
+If leads are in motion or anyway the first email is gone out then you can restart the process by clicking on 'Restart lead even if they are actively nurtured by some other sequence'.
 
 ![image](../../images/Mismatched-13.png)
 
-If leads are not actively nurtured then click on 'Restart leads that are not actively nurtured by some other schedule'.
+If leads are not actively nurtured then click on 'Restart leads that are not actively nurtured by some other sequence'.
 
 ![image](../../images/Mismatched-14.png) 
 

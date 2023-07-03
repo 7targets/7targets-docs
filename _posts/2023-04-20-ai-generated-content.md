@@ -3,7 +3,7 @@ date: 2023-04-21
 title: AI Generated messages
 description:   AI-generated messages offer an opportunity to engage with potential leads, establish and nurture relationships, and ultimately convert them into customers.Here are the steps on how to use AI-Generated Messages in 7Targets.
 type: Document
-sitemap: false
+sitemap: true
 categories:
   - ai-content
 ---

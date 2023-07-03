@@ -46,9 +46,9 @@ Today, this is supported for Assistants that have Google Suite email ids. Refer 
 ![image](../../images/preference-for-emails-used-for-campaign.png)
 
 ## Step-4
-Create a specific schedule where the first email is a quick 'Thank you' note with a link to book a meeting. Schedule can have a few more followup emails as well. 
+Create a specific sequence where the first email is a quick 'Thank you' note with a link to book a meeting. Sequence can have a few more followup emails as well. 
 
-If the lead respond backs to the followup emails then Assistant will invoke this schedule as a response. To avoid circular emailing, Assistant ensures that the same lead is NOT added to the same schedule if the lead responds back again.  
+If the lead respond backs to the followup emails then Assistant will invoke this sequence as a response. To avoid circular emailing, Assistant ensures that the same lead is NOT added to the same sequence if the lead responds back again.  
 
 ![image](../../images/preference-for-schedule-for-enquiry.png)
 

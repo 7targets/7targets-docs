@@ -15,7 +15,7 @@ categories:
 ## Out of office date usage
 According to Out of Office classification, the Assistant should have sent the next email after the Out of office date, say 8th Nov, but why did Assistant still scheduled it for 16th Nov?
 
-In the above scenario, the next scheduled date for the next email to be sent was already at 16th. The Lead was out of the office. Lead was returning on 8th of the same month. So no change of schedule date is done by the Assistant.
+In the above scenario, the next scheduled date for the next email to be sent was already at 16th. The Lead was out of the office. Lead was returning on 8th of the same month. So no change of sequence date is done by the Assistant.
 
 What happens if Out Of Office date is before the date when next email is scheduled?
 

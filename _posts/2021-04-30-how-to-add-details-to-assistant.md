@@ -2,7 +2,7 @@
 date: 2021-04-30
 title: How to add more details to your assistant
 video_id: JC2yJnBXzLM
-description: How to add details to the assistant such as signature, context, default schedule, brochure url, etc.
+description: How to add details to the assistant such as signature, context, default sequence, brochure url, etc.
 type: How-to
 sidebar:
   - {id: step-1, text: Sign in to your account}
@@ -12,10 +12,10 @@ sidebar:
   - {id: step-5, text: Edit email address}
   - {id: step-6, text: Get WhatsApp notification}
   - {id: step-7, text: Add more context}
-  - {id: step-8, text: Select schedule}
+  - {id: step-8, text: Select sequence}
   - {id: step-9, text: Edit signature}
   - {id: step-10, text: Click on Defaults option}
-  - {id: step-11, text: Default EmailCC Schedule}
+  - {id: step-11, text: Default EmailCC Sequence}
   - {id: step-12, text: Add brochure link}
   - {id: step-13, text: Add calendar link}
   - {id: step-14, text: Add BCC Email Id}
@@ -28,7 +28,7 @@ categories:
 # set_order: 3
 ---
 
-After you have setup the AI assistant, you can add further details to her such as signature, context, default schedule, brochure URL, etc.
+After you have setup the AI assistant, you can add further details to her such as signature, context, default sequence, brochure URL, etc.
 
 
 If you haven't yet setup an assistant, do follow the steps under [how to setup an AI sales assistant](../how-to-setup-ai-sales-assistant/).
@@ -101,11 +101,11 @@ This is a very IMPORTANT setting. This is used in outgoing emails, hence be very
 
 ## Step 8
 
-You can assign the default schedule to the assistant. Click on the drop-down arrow and select the desired schedule. If you assign leads to the assistant and do not mention which schedule to use, the assistant will use this default schedule to email the leads. 
+You can assign the default sequence to the assistant. Click on the drop-down arrow and select the desired sequence. If you assign leads to the assistant and do not mention which sequence to use, the assistant will use this default sequence to email the leads. 
 
 ![image](../../images/details-of-assistant-8.png)
 
-You can even create your own schedule. Follow the steps under [how to make your own schedule](../how-to-make-your-own-schedule/).
+You can even create your own sequence. Follow the steps under [how to make your own sequence](../how-to-make-your-own-schedule/).
 
 ## Step 9
 
@@ -121,7 +121,7 @@ Now, click on the 'Defaults' option.
 
 ## Step 11
 
-Default EmailCC Schedule is used by the assistant when the assistant is copied in the email by the user with the lead. For EmailCC schedule, the  assistant will start the with the second message in the sequence. Your email where you Cc’ed/Copied the assistant is considered as the first email.
+Default EmailCC Sequence is used by the assistant when the assistant is copied in the email by the user with the lead. For EmailCC sequence, the  assistant will start the with the second message in the sequence. Your email where you Cc’ed/Copied the assistant is considered as the first email.
 
 ![image](../../images/details-of-assistant-11.png)
 

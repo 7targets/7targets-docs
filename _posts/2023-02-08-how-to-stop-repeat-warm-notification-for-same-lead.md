@@ -10,7 +10,7 @@ categories:
 # set: getting-started
 # set_order: 3
 ---
-Yes you can stop repeat WARM notification for the same lead and same schedule. This is configurable at Assistant->Notifications->Warm Lead Notification.
+Yes you can stop repeat WARM notification for the same lead and same sequence. This is configurable at Assistant->Notifications->Warm Lead Notification.
 
 ![image](../../images/do-not-repeat-warm-notification.png)
 

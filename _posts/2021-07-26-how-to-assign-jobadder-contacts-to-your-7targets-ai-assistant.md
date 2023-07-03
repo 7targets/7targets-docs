@@ -29,7 +29,7 @@ Login to JobAdder, select one or more Contacts and click on Actions->Change Stat
 
 ## Step-2 
 
-Select the correct "Assign to `<Assistant>` in 7Targets" value from the popup and click on "Save". Pick the right assistant from the list, as that Assistant's default schedule will be used for emails. (Schedule is nothing but a sequence of emails that is to be sent to a certain client segment).
+Select the correct "Assign to `<Assistant>` in 7Targets" value from the popup and click on "Save". Pick the right assistant from the list, as that Assistant's default sequence will be used for emails.
 
 ![image](../../images/jobadder-select-assistant.jpg)
 
