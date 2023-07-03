@@ -37,7 +37,7 @@ To prevent formatting issues, best practice is to type the email directly in the
 
 ![image](../../images/flexible-message-editor.jpg)
 
-The saved message is not sent unless it is used in a schedule. So you can get the saved custom message reviewed from someone else in your team by sharing the name of the message.  
+The saved message is not sent unless it is used in a sequence. So you can get the saved custom message reviewed from someone else in your team by sharing the name of the message.  
 If the email reviewer is a Org Admin, they can edit the message as part of the review. 
 
 ## Step-3

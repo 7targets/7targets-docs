@@ -2,7 +2,7 @@
 date: 2023-02-08
 title: How to set a new sequence on Processed leads ?
 # video_id: 6xyI5NNCCmc
-description:  Processed leads are those whose followup is completed as per the schedule and there was no response from the lead. Sometimes you may want to set a new sequence on processed leads to restart the followup for these leads.
+description:  Processed leads are those whose followup is completed as per the sequence and there was no response from the lead. Sometimes you may want to set a new sequence on processed leads to restart the followup for these leads.
 type: How-to
 sidebar:
   - {id: step-1, text: Step 1}
@@ -16,7 +16,7 @@ categories:
 # set: getting-started
 # set_order: 3
 ---
-Processed leads are those whose followup is completed as per the schedule and there was no response from the lead. Sometimes you may want to set a new sequence on processed leads to restart the followup for these leads.
+Processed leads are those whose followup is completed as per the sequence and there was no response from the lead. Sometimes you may want to set a new sequence on processed leads to restart the followup for these leads.
 ## Step 1
 You can filter all the leads who are in 'processed state'.
 ![Processed Lead Filter](../../images/processed-lead-filter.PNG)

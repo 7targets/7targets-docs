@@ -43,14 +43,14 @@ Go to Multiple leads and provide values for 'Got leads from', 'Assistant', 'More
 
 1. Tick the check-box for 'Only Upload'
 1. Drag and drop the excel file to be uploaded
-1. Select the schedule and start date
+1. Select the sequence and start date
 1. If you want to copy [someone else in the upload notification](#notify-approver-on-upload), click on 'copy upload notification' and it will take you to the Notification configuration.
 
 ![image](../../images/page-upload-only.jpg)
 
 ## Step-3
 
-On successful excel upload, an email is sent by the AI Sales Assistant. Forward this email to any other approver if required. Approver can verified the leads, the selected Assistant, the Schedule, and the date-time - change them as needed, and then proceed with adding the leads.
+On successful excel upload, an email is sent by the AI Sales Assistant. Forward this email to any other approver if required. Approver can verified the leads, the selected Assistant, the Sequence, and the date-time - change them as needed, and then proceed with adding the leads.
 
 ![image](../../images/upload-only-email.jpg)
 
@@ -66,11 +66,11 @@ Click on "Add Leads" button in the email.
 
 ## Step-5
 
-Verify action brings up the below screen. Verify other details like schedule, etc. change if required. Then click on Add Leads.
+Verify action brings up the below screen. Verify other details like sequence, etc. change if required. Then click on Add Leads.
 
 ![image](../../images/page-verify-upload.jpg)
 1. Check the right Assistant and user is selected along with context, more information and tags
-1. Make sure that Schedule and Start At is correct
+1. Make sure that Sequence and Start At is correct
 1. Click on Add Lead for one final confirmation
 
 ## Step-6

@@ -1,7 +1,7 @@
 ---
 date: 2020-02-13
 title: Custom Message 
-description: Custom Message for Custom Schedule
+description: Custom Message for Custom Sequence
 type: Document
 sidebar:
   - {id: custom-messages, text: Custom Messages}
@@ -14,7 +14,7 @@ categories:
 
 <a name="custom-messages"/>
 ## [Custom Messages](#custom-messages)
-Custom Message give you the ability to write your own message and make it part of a schedule, so that Assistant can use that instead of generating or writing.  
+Custom Message give you the ability to write your own message and make it part of a sequence, so that Assistant can use that instead of generating or writing.  
 We recommend to let the Assistant write or generate the followup messages at-least, if not the first message. As Assistant will write different message for each lead.
 
 There are some out of the box custom messages (e.g. `post proposal msg`) which you can use but not change. One can edit only those custom messages which are created by him/her. If you want to change something from a message which cannot be edited by you, then clone that message and create your own.

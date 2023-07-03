@@ -23,7 +23,7 @@ Assistant has the responsibility of communicating with the lead with an intent o
 
 One important behavior of the assistant is to stop sending more emails on receiving a response from the lead.
 
-Assistant has a default recommended schedule of 7 follow-ups with increasing duration between the follow-ups. User has an option to use custom schedule and change the default schedule too.
+Assistant has a default recommended sequence of 7 follow-ups with increasing duration between the follow-ups. User has an option to use custom sequence and change the default sequence too.
 
 Assistant optimizes the email send time for scheduled emails of individual lead, this is done based on when(time) that specific lead opened already sent emails. Each person email checking habits are different, some do in morning, some while lunch and all. Assistant does this hyper-personalization so that the chances of lead reading the email increases. This is `Send Time Optimization`.  
 
@@ -67,8 +67,8 @@ Assistant has many defaults which are self explanatory. Some of the important on
 - `More Context` and `More Information` are the defaults to be used when not provided while adding the leads
 - `Shared Calendar URL` If the value for this is provided while Edit Assistant then Assistant will add it in the signature with `Book a Meeting` link. One can create a shared calendar using some service like [Calendly](https://calendly.com/){:target="_blank" rel="noopener"}  
 - `Lead at Risk Reminder` Assistant will remind you after every 2 days(can be changed) for 5 times if you forget to reach out to responded leads. Period between each reminder is configurable from `Edit Assistant->Defaults`  
-- `Default Schedule` Assistant uses this schedule by default for the added leads. While you can provide the schedule when adding leads from the 7Targets UI. Providing the schedule when adding leads from CRM or by copying Assistant in the email sent by you to your lead is not possible, so in these scenarios the default schedule is used by the assistant. Value of default schedule can be changed by going to Assistant->Edit Assistant.
-- `Default EmailCC Schedule` is used by the assistant when assistant is copied in the email by the user with the lead. For EmailCC schedule, Assistant will start the with second message in the sequence. Your email where you Cc'ed/Copied the assistant is considered as the first email. More details about how the name of the lead works is here [Lead name for Email CC](#lead-name-for-emailcc)
+- `Default Sequence` Assistant uses this sequence by default for the added leads. While you can provide the sequence when adding leads from the 7Targets UI. Providing the sequence when adding leads from CRM or by copying Assistant in the email sent by you to your lead is not possible, so in these scenarios the default sequence is used by the assistant. Value of default sequence can be changed by going to Assistant->Edit Assistant.
+- `Default EmailCC Sequence` is used by the assistant when assistant is copied in the email by the user with the lead. For EmailCC sequence, Assistant will start the with second message in the sequence. Your email where you Cc'ed/Copied the assistant is considered as the first email. More details about how the name of the lead works is here [Lead name for Email CC](#lead-name-for-emailcc)
 
 ## Multiple Assistants
 You can create multiple assistants for yourself. Assistants cannot be shared or assigned to other users in the Org. 
@@ -81,7 +81,7 @@ There are various Preferences you can set for the assistant and are self explana
 ## Auto Activate New leads when plan capacity becomes available
 If this preference is on (Which is the default) then Assistant will automatically activate the leads with New status, if the capacity becomes available as per the Plan. 
 
-Assistant checks for any New leads every day at 10:00 AM GMT and if there is capacity available then these New leads are activated, i.e. restarted, so that emails starts going to these leads as per the schedule. 
+Assistant checks for any New leads every day at 10:00 AM GMT and if there is capacity available then these New leads are activated, i.e. restarted, so that emails starts going to these leads as per the sequence. 
 To know what is New lead or lead with state New, refer [Lead States](../../assigning-leads/lead-responses/#lead-state)
 
 ## Lead name for EmailCC

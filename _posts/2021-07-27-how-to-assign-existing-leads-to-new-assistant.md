@@ -2,7 +2,7 @@
 date: 2021-07-28
 title: How to assign existing leads to another AI assistant
 #video_id: JC2yJnBXzLM
-description: Assign some of the existing leads to another AI assistant and put on a new nurturing schedule.
+description: Assign some of the existing leads to another AI assistant and put on a new nurturing sequence.
 type: How-to
 sidebar:
   - {id: step-1, text: Go to Leads}
@@ -15,7 +15,7 @@ sidebar:
   - {id: step-8, text: Change users}
   - {id: step-9, text: Select the context}
   - {id: step-10, text: Write down the additional information}
-  - {id: step-11, text: Select a schedule}
+  - {id: step-11, text: Select a sequence}
   - {id: step-12, text: Click on 'Restart'}
 
 categories:
@@ -31,7 +31,7 @@ categories:
     </iframe>
 </div>
 
-Sometimes you might want to assign some of the existing leads to another assistant with a different nurturing schedule for a different offering.
+Sometimes you might want to assign some of the existing leads to another assistant with a different nurturing sequence for a different offering.
 
 In 7Targets, you can easily assign existing leads to new assistants. It involves filtering and getting those leads which needs to be assigned to another Assistant, selecting all of them and then using the Restart Followup action.
 
@@ -107,7 +107,7 @@ Write down the additional information if you want to provide any.
 
 ## Step-11
 
-Select the appropriate schedule.
+Select the appropriate sequence.
 
 ![image](../../images/Existing-leads-12.jpg)
 

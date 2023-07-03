@@ -23,12 +23,12 @@ The "Todays Followup" widget on dashboard shows the count and details of the lea
 Completed or emails already sent today is also available with a toggle. 
 
 On click of the Count, you will be taken to the lead list in case you want to make some changes. 
-Clicking on one lead will open that specific lead for you to view or make changes to schedule email.
+Clicking on one lead will open that specific lead for you to view or make changes to sequence email.
 
 ![image](../../images/todays-followup.jpg)
 
 ## Step-2
-To get a list of leads scheduled to receive email on a specific day, filter with Schedule can be used. 
+To get a list of leads scheduled to receive email on a specific day, filter with Sequence can be used. 
 
 Click on `All Filters` from the lead list and then follow as per the below screen shot.
 
@@ -38,7 +38,7 @@ Click on `All Filters` from the lead list and then follow as per the below scree
 Assistant continues to work to better the email deliverability. So the count shown here and the actual may change. 
 
 For e.g. 
-- if Assistant gets to know a better time to send an email when the leads is more likely to open the email, then Assistant will change the schedule date and time.
+- if Assistant gets to know a better time to send an email when the leads is more likely to open the email, then Assistant will change the sequence date and time.
 - If a bounce notification is received then the email sending will be stopped.
 - ...
 

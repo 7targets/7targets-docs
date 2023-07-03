@@ -15,7 +15,7 @@ categories:
 # set_order: 3
 ---
 
-There are many scenarios where you may not want to send emails to certain people or domains. If one of your leads is converted to a customer, and you want to start a different schedule for the rest of the leads, then you would like to exclude that converted lead.
+There are many scenarios where you may not want to send emails to certain people or domains. If one of your leads is converted to a customer, and you want to start a different sequence for the rest of the leads, then you would like to exclude that converted lead.
 
 Also, there are chances that on your lead list, few leads are already your customers and you don’t want to send them all the initial emails.
 

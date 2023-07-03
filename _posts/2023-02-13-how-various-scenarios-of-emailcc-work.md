@@ -28,7 +28,7 @@ Lead would be created by EmailCC when the user sends an email to someone and cop
 1. Lead would be created if the user who is cc'ing is an org admin in 7Targets. Irrespective of whether he was assigned to the assistant being copied or not.
 
 ## Acknowledgment
-On creation of the lead from EmailCC, Assistant would send an email to the user with details of the schedule that the assistant will use, as well the name identified by the lead. 
+On creation of the lead from EmailCC, Assistant would send an email to the user with details of the sequence that the assistant will use, as well the name identified by the lead. 
 
 How does the Assistant decide the name for this lead ? [Read here](../../getting-responses/assistant-details/#lead-name-for-emailcc)
 ![image](../../images/default-name.jpg)
@@ -39,7 +39,7 @@ Enable EmailCC using these steps. And then cc the assistant again. Contact Org a
 Someone is not a user in 7Targets has cc'ed an assistant then she/he would not get any reply.
 
 ## Actions from Acknowledgment email
-One important purpose of the Acknowledgment email from the Assistant is to inform the user about name, schedule, etc. User would be able to easily take below actions.
+One important purpose of the Acknowledgment email from the Assistant is to inform the user about name, sequence, etc. User would be able to easily take below actions.
 ![image](../../images/emailcc-ack-email.jpg)
 
 1. Change the Lead Name
