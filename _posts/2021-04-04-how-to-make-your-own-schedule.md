@@ -15,17 +15,17 @@ sidebar:
   - {id: step-8, text: Save sequence}
   - {id: emailcc-type, text: EmailCC Type}
   - {id: step-9, text: May make it Default}
-categories:
-  - How-To
+# categories:
+#   - How-To
 # set: getting-started
 # set_order: 3
 ---
 Sequence helps you decide how you want the assistant to followup. i.e.
 
-**-** how many followups
-**-** days between each followup
-**-** what should be the email content
-**-** what should be the email subject
+**-** how many followups  
+**-** days between each followup  
+**-** what should be the email content  
+**-** what should be the email subject  
 
 
 System comes with two default sequences **Recommended** and **Recommended for Email CC**. 
@@ -76,7 +76,7 @@ Now, in the table, click on the drop down-arrow as shown and select the type of 
 
 From the Message column, you can create a new or select from an existing custom message.
 
-![image](../../images/mail-schedule-6.png)
+![image](../images/mail-schedule-6.png)
 
 ## Step 6
 
