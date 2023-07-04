@@ -59,7 +59,7 @@ Click on 'Apply'
 
 If you want to apply more filters.
 
-Click on 'Schedules' and select the filter you want to apply. You can apply more such filters to get the list of leads which needs to be assigned to another Assistant.
+Click on 'Sequences' and select the filter you want to apply. You can apply more such filters to get the list of leads which needs to be assigned to another Assistant.
 
 ![image](../../images/Existing-leads-4.jpg)
 

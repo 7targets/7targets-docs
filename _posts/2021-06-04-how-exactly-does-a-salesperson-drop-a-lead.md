@@ -93,7 +93,7 @@ You’ll be directed to this page.
 
 Scroll down and you’ll see the option “If no reply, followup using Reply follow-up sequence”
 
-Tick that checkbox and then follow ups will be activated. The Assistant will automatically followup this thread based on the sequence in 'Reply followup sequence'. You can create your own 'Reply followup schedules' for different types of follow-ups. 
+Tick that checkbox and then follow ups will be activated. The Assistant will automatically followup this thread based on the sequence in 'Reply followup sequence'. You can create your own 'Reply followup sequences' for different types of follow-ups. 
 
 ![image](../../images/Dropped-lead-9.png)
 

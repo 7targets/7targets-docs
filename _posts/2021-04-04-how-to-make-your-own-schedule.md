@@ -15,22 +15,25 @@ sidebar:
   - {id: step-8, text: Save sequence}
   - {id: emailcc-type, text: EmailCC Type}
   - {id: step-9, text: May make it Default}
-# categories:
-#   - How-To
+categories:
+  - How-To
 # set: getting-started
 # set_order: 3
 ---
 Sequence helps you decide how you want the assistant to followup. i.e.
 
 **-** how many followups
-
 **-** days between each followup
+**-** what should be the email content
+**-** what should be the email subject
 
-Assistant comes with two default schedules **Recommended** and **Recommended for Email CC**. You can clone from one of these schedules and create a new one, providing an appropriate name and description.
+
+System comes with two default sequences **Recommended** and **Recommended for Email CC**. 
+You can clone from one of these sequences and create a new one, providing an appropriate name and description. 
 
 To know more about scheduling please visit this page.
 
-[![image](../images/schedule-sequence-btn.png)](../manage-org/organization-schedule/)
+[![image](../images/schedule-schedule-btn.png)](../manage-org/organization-schedule/)
 
 
 Follow these simple steps to create a new sequence.
@@ -45,7 +48,7 @@ Click on the 'Organisation' Tab. The Sequence sub-tab is selected.
 
 ## Step 2
 
-You can select from one of the already available schedules that you can clone.
+You can select from one of the already available sequences that you can clone.
 After cloning you can make all the desired changes to it.
 
 To select the sequence, click on the 'Name' field. Type "Recommended" to select that sequence. 
