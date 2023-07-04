@@ -16,8 +16,8 @@ categories:
 - how many followups
 - days between each followups
 
-Assistant comes with two default schedules `Recommended` and `Recommended for Email CC`. 
-You can clone from one of these schedules and create a new one, providing an appropriate name and description. 
+Assistant comes with two default sequences `Recommended` and `Recommended for Email CC`. 
+You can clone from one of these sequences and create a new one, providing an appropriate name and description. 
 
 Leads from different geographies would need different followups. for e.g. it may be OK to followup 7 times for leads in Americas but for Europe we recommend not more than 4 times. Custom sequence gives you the ability to pick the number of followups and the days between each appropriately, along with the messages to be sent on each followup.   
 
@@ -31,11 +31,11 @@ Please note that any change the existing sequence would take effect for the lead
 
 Sequence is accessible to other users in the org to use, they cannot edit it though. 
 
-If you want to delete a specific sequence, you have to click on the delete icon which comes up on hover of the specific sequence in the sequence drop down list. System provided schedules cannot be deleted, so the delete icon will not come in front of them.
+If you want to delete a specific sequence, you have to click on the delete icon which comes up on hover of the specific sequence in the sequence drop down list. System provided sequences cannot be deleted, so the delete icon will not come in front of them.
 
 ## Questions answered
 - How do I add my custom sequence with custom message ?
 - How many follow ups should I use ?
-- How can we delete schedules ?
+- How can we delete sequences ?
 - If I change a in use sequence for number of followups or custom messages will it effect existing leads?
 - Can I use sequence created by my team member ? 
