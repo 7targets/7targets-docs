@@ -33,7 +33,7 @@ You can clone from one of these sequences and create a new one, providing an app
 
 To know more about scheduling please visit this page.
 
-[![image](../images/schedule-schedule-btn.png)](../manage-org/organization-schedule/)
+[![image](../images/schedule-sequence-btn.png)](../manage-org/organization-schedule/)
 
 
 Follow these simple steps to create a new sequence.
