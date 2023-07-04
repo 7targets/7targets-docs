@@ -87,7 +87,7 @@ If an email goes into spam, the auto-forwarding rule is NOT triggered. Hence we 
 
 *Let's test it now*
 1. Go to add a lead screen in 7Targets, and try adding one lead abc@xyz.com(this is just example, provide a valid email) to Ashley. 
-1. Make sure you select the schedule to ‘Now’, to ensure you can test the email has gone out immediately. 
+1. Make sure you select ‘Now’, to ensure you can test the email has gone out immediately. 
 1. Check if the abc got the email. 
 1. Have abc reply to the email “I am interested. Call me”. 
 1. Give it a couple of minutes and check if Ashleys lead list shows abc as a HOT lead. 
