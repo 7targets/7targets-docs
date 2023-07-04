@@ -6,7 +6,7 @@ description:  How the assistant should followup i.e. what message to send, after
 # type: How-to
 sidebar:
   - {id: step-1, text: Sign in to your account}
-  - {id: step-2, text: Select sequence}
+  - {id: step-2, text: Select the sequence}
   - {id: step-3, text: Give a new name}
   - {id: step-4, text: Change the After Days}
   - {id: step-5, text: Select or Create Custom Message}
@@ -33,7 +33,7 @@ You can clone from one of these sequences and create a new one, providing an app
 
 To know more about scheduling please visit this page.
 
-[![image](../../images/schedule-sequence-btn.png)](../manage-org/organization-schedule/)
+[![image](../../images/schedule-sequence-btn.png)](../../manage-org/organization-schedule/)
 
 
 Follow these simple steps to create a new sequence.
