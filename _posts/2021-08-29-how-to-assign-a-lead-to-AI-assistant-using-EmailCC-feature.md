@@ -25,7 +25,7 @@ Follow these simple steps to exclude domains and email addresses.
 
 ## Step1
 Create sequence for EmailCC. You can clone `Recommended for Email CC` sequence already existing in Org Messages under Sequence.
-`Note, For Email-CC schedules, follow-up will start with the SECOND message. Your email, where you cc the assistant is considered as the first email, hence the first email in the E-mail CC sequence is ignored.`
+`Note, For Email-CC sequences, follow-up will start with the SECOND message. Your email, where you cc the assistant is considered as the first email, hence the first email in the E-mail CC sequence is ignored.`
 
 ## Step2
 Go to assistant and click on `Edit Assistant` or you can create a new Assistant too.
