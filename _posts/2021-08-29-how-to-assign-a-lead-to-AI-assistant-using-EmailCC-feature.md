@@ -5,9 +5,9 @@ title: How to assign a lead to AI assistant using Email CC feature
 description: CC the appropriate assistant when sending the quotation or proposal email to your prospect/lead for the assistant to followup. 5% of the lead capacity is reserved for EmailCC to make sure that leads from EmailCC is given priority over others. 
 type: How-to
 sidebar:
-  - {id: step1, text: Create EmailCC schedule}
+  - {id: step1, text: Create EmailCC sequence}
   - {id: step2, text: Create or Edit Assistant}
-  - {id: step4, text: Set Default Schedule for EmailCC}
+  - {id: step4, text: Set Default Sequence for EmailCC}
   - {id: step6, text: Set Options for EmailCC}
   - {id: step8, text: Copy AI Assistant Email}
   - {id: step9, text: Test by sending Email}
@@ -24,8 +24,8 @@ Apart from new lead follow-up, customers use AI Assistants for Quotation followu
 Follow these simple steps to exclude domains and email addresses.
 
 ## Step1
-Create schedule for EmailCC. You can clone `Recommended for Email CC` schedule already existing in Org Messages under Schedule.
-`Note, For Email-CC schedules, follow-up will start with the SECOND message. Your email, where you cc the assistant is considered as the first email, hence the first email in the E-mail CC schedule is ignored.`
+Create sequence for EmailCC. You can clone `Recommended for Email CC` sequence already existing in Org Messages under Sequence.
+`Note, For Email-CC sequences, follow-up will start with the SECOND message. Your email, where you cc the assistant is considered as the first email, hence the first email in the E-mail CC sequence is ignored.`
 
 ## Step2
 Go to assistant and click on `Edit Assistant` or you can create a new Assistant too.
@@ -34,7 +34,7 @@ Go to assistant and click on `Edit Assistant` or you can create a new Assistant 
 Scroll down and click on `Defaults` to expand
 
 ## Step4
-For Default Email-CC Schedule, choose the schedule you created for e-mail CC in step1 from the drop-down list.
+For Default Email-CC Sequence, choose the sequence you created for e-mail CC in step1 from the drop-down list.
 
 ## Step5
 Scroll down and click on `Options` to expand it

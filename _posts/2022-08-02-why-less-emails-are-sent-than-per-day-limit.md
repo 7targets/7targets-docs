@@ -21,9 +21,9 @@ Though this may seem like a problem, soon (just after all the first emails of le
 So nothing to worry actually.
 
 ## Step-1
-When the excel file with leads are uploaded. Assistant distributes the leads (i.e. schedule the first email) as per the Assistant per day email sending capacity. 
+When the excel file with leads are uploaded. Assistant distributes the leads (i.e. sequence the first email) as per the Assistant per day email sending capacity. 
 
-So if the email sending capacity per day is 50 and 200 leads are uploaded, then assistant will schedule 100 leads for 2 different days. Assistant does double the capacity per day, because some email ids may not be valid. 
+So if the email sending capacity per day is 50 and 200 leads are uploaded, then assistant will sequence 100 leads for 2 different days. Assistant does double the capacity per day, because some email ids may not be valid. 
 
 If invalid email ids are much more and the emails sent on that day are less than the limit, no problem within few days when the 2nd emails goes the capacity will be properly used. 
 
@@ -34,7 +34,7 @@ On the Day1 when the emails are to be sent, the email ids are validated and then
 
 If more email ids are valid than the capacity then rest of the leads would be moved to the next available date. 
 
-On Day 2, when the next set of leads are to be sent and if that is the first email then the email id is validated. If less than the capacity emails are valids then emails to those will go but it is balance out soon to use the complete capacity based on the schedule and the available capacity for the next day as per schedule. 
+On Day 2, when the next set of leads are to be sent and if that is the first email then the email id is validated. If less than the capacity emails are valids then emails to those will go but it is balance out soon to use the complete capacity based on the sequence and the available capacity for the next day as per sequence. 
 
 If you have any further doubts, you can directly mail us at support@7targets.com.
 

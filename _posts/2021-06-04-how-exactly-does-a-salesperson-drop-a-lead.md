@@ -91,9 +91,9 @@ You’ll be directed to this page.
 
 ![image](../../images/Dropped-lead-8.png)
 
-Scroll down and you’ll see the option “If no reply, followup using Reply follow-up schedule”
+Scroll down and you’ll see the option “If no reply, followup using Reply follow-up sequence”
 
-Tick that checkbox and then follow ups will be activated. The Assistant will automatically followup this thread based on the schedule in 'Reply followup schedule'. You can create your own 'Reply followup schedules' for different types of follow-ups. 
+Tick that checkbox and then follow ups will be activated. The Assistant will automatically followup this thread based on the sequence in 'Reply followup sequence'. You can create your own 'Reply followup sequences' for different types of follow-ups. 
 
 ![image](../../images/Dropped-lead-9.png)
 
@@ -109,7 +109,7 @@ Here’s the follow up message
 
 ## Step 9
 
-Reply Followup is on by default and uses the ReplyFollowup schedule. 
+Reply Followup is on by default and uses the ReplyFollowup sequence. 
 If you want to change the defaults you can go that specific Assistant's preference, make changes and save.
 
 ![image](../../images/reply-followup-preference.jpg)

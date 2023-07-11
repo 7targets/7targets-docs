@@ -23,7 +23,7 @@ You will have to click view icon of the message which you want to use. ALERT: Pu
 
 This will be saved as a Custom Message and you will be able to see it in your Custom Message. 
 
-Add these messages, like any other custom messages, in your email sequence Schedule. 
+Add these messages, like any other custom messages, in your email Sequence. 
 
 ## Questions answered
 - Do you guys provide some working Out of the box message templates?

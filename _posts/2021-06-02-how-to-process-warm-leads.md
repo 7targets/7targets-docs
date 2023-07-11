@@ -12,7 +12,7 @@ sidebar:
   - {id: step-5, text: Background of the lead}
   - {id: step-6, text: Message for the lead}
   - {id: step-7, text: Optimized send time}
-  - {id: step-8, text: Schedule email}
+  - {id: step-8, text: Sequence email}
   - {id: step-9, text: Check scheduled email}
   - {id: step-10, text: Write personalized message}
 categories:
@@ -123,7 +123,7 @@ If the 'optimum time of the day' has already passed, then the date suggested wil
 
 ## Step 8
 
-To schedule the email on the suggested optimized time, click on the 'Drop Down' arrow.
+To sequence the email on the suggested optimized time, click on the 'Drop Down' arrow.
 
 ![image](../../images/warm-leads-11.png)
 
