@@ -2,6 +2,7 @@
 date: 2020-02-13
 title: Custom Message 
 description: Custom Message for Custom Sequence
+# video_id: TcibhmCn9gM
 type: Document
 sidebar:
   - {id: custom-messages, text: Custom Messages}
@@ -39,8 +40,10 @@ While creating or editing the custom message, click on the image icon in the too
 
 We recommend to keep the image size small (like less than 200 KB). As well, the dimensions of the image to not more than 700X400, so that the image when visible to the lead does not take the whole screen.
 
-**How to put download button in email body?**  
-Sometimes you may want to add a call to action (CTA) type image and link it to the url it want. This is possible too. Make sure to create the image which looks like a button with proper text.
+**How to put download button in email body? OR How to add buttons in your email?  OR How to add hyperlink to image buttons?**  
+
+Sometimes, you might want to include a call-to-action (CTA) image in your email and link it to a specific URL. This is indeed possible. 
+[Please refer this link.]({{ site.baseurl }}/how-to/how-to-add-hyperlink-to-images/)
 
 ## Questions answered
 - I am unable to edit `post proposal msg`. Kindly advice.
