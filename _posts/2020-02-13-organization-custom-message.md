@@ -42,9 +42,8 @@ We recommend to keep the image size small (like less than 200 KB). As well, the 
 
 **How to put download button in email body? OR How to add buttons in your email?  OR How to add hyperlink to image buttons?**  
 
-Sometimes, you might want to include a call-to-action (CTA) image in your email and link it to a specific URL. This is indeed possible. Please refer the below link.
-
- [https://7targets.ai/help/how-to/how-to-add-hyperlink-to-images/](https://7targets.ai/help/how-to/how-to-add-hyperlink-to-images/)
+Sometimes, you might want to include a call-to-action (CTA) image in your email and link it to a specific URL. This is indeed possible. 
+[Please refer this link.]({{ site.baseurl }}/how-to/how-to-add-hyperlink-to-images/)
 
 ## Questions answered
 - I am unable to edit `post proposal msg`. Kindly advice.

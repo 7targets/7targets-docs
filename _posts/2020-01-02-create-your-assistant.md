@@ -42,15 +42,16 @@ If you want to use your own domain+email as Assistants email address then we sup
 
 ## Use Exchange Server
 Here are the steps to use Exchange Server. 
- [https://7targets.ai/help/how-to/how-to-add-assistant-in-Exchange-Server-Outlook/](https://7targets.ai/help/how-to/how-to-add-assistant-in-Exchange-Server-Outlook/)
+
+[Please refer this link.]({{ site.baseurl }}/how-to/how-to-add-assistant-in-Exchange-Server-Outlook/)
 
 ## Use Gmail
 Here are the steps to use Gmail. 
- [https://7targets.ai/help/how-to/how-to-create-assistant-to-use-gmail-domain/](https://7targets.ai/help/how-to/how-to-create-assistant-to-use-gmail-domain/)
+[Please refer this link.]({{ site.baseurl }}/how-to/how-to-create-assistant-to-use-gmail-domain/)
 
 ## Use Outlook
 Here are the steps to use Outlook. 
- [https://7targets.ai/help/how-to/how-to-create-assistant-to-use-outlook-domain/](https://7targets.ai/help/how-to/how-to-create-assistant-to-use-outlook-domain/)
+[Please refer this link.]({{ site.baseurl }}/how-to//how-to-create-assistant-to-use-outlook-domain/)
 
 *Let's test it now*
 1. Go to add a lead screen in 7Targets, and try adding one lead abc@xyz.com(this is just example, provide a valid email) to Ashley. 
