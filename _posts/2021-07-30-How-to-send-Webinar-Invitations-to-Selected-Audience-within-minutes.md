@@ -1,8 +1,8 @@
 ---
 date: 2021-07-30
-title: How to send Webinar Invitations to Selected Audience within minutes
+title: How to send Webinar Invitations to Selected Audience within minutes. Or How to Broadcast a message
 #video_id: JC2yJnBXzLM
-description: How to send Webinar invitations to Selected Audience within minutes, such as to engaged leads or warm leads.
+description: How to send Webinar invitations to Selected Audience within minutes, such as to engaged leads or warm leads. This is also about how to broadcast a message to one or more leads.
 type: How-to
 sidebar:
   - {id: step-1, text: Dashboard}
