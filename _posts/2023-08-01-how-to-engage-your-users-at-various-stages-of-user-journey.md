@@ -57,7 +57,7 @@ When the lead moves to next stage, then edit the tags. Remove the earlier stage 
 And this will put this person on next sequence as per the stage. 
 
 ## Automation 
-Instead of manually putting the person on a sequence as per stage, you will have to use ![APIs](../../integrate/api/) from within your sytem. You can identify the stage in your system/software and make the right POST or PUT APU call. 
+Instead of manually putting the person on a sequence as per stage, you will have to use [APIs](../../integrate/api/) from within your sytem. You can identify the stage in your system/software and make the right POST or PUT REST API calls. 
 
 You already have the sequence in 7Targets as per the stage, which you can use in the API call. 
 
