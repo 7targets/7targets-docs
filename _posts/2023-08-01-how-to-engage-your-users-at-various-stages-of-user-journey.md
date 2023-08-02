@@ -15,13 +15,13 @@ categories:
 # set: getting-started
 # set_order: 3
 ---
-Your product, service or solution (SaaS or otherwise) would have users. These users would need to be engaged with to help them help them use your product well. 7Targets AI Assistant can be used for this. 
+Your product, service or solution (SaaS or otherwise) would have users. These users would need to be engaged with, to help them use your product/service well. 7Targets AI Assistant can be used for engaging with your user at each stage of your user journey.  
 7Targets itself uses it for our own customers. 
 
 ## Decide the user stages
-First thing to do is to decide the right user stages and write it down. 
-For e.g. for 7Targets, we have below stages.
+One of the first important step in this, is to decide the different stages of your user journey.
 
+For e.g. for 7Targets, we have below stages.
 | Sequence Name | Stage |
 | -------- | ------- |
 | SignedUpAssistantNotCreated | Signed up and Assistant not yet created |
