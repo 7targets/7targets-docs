@@ -1,27 +1,28 @@
 ---
 date: 2023-08-01
 title: How to engage product users at various stages of user journey
-description:  Your product, service or solution (SaaS or otherwise) would have users. These users would need to be engaged with to help them help them use your product well. 7Targets AI Assistant can be used for this. 
+description:  Engaging with users at different stages of their journey is crucial to ensure they get the most out of your product or service. Whether you have a SaaS solution or any other offering, leveraging 7Targets AI Assistant can greatly enhance user engagement.
 #video_id: TcibhmCn9gM
 type: How-to
 
 sidebar:
-  - {id: decide-the-user-stages, text: Decide the user stages}
-  - {id: two-ways, text: Two ways}
-  - {id: manual, text: Manual}
-  - {id: automation, text: Automation}
+  - {id: step-1-define-user-journey-stages, text: Define user journey}
+  - {id: step-2-choose-an-approach---manual-or-automated, text: Choose an approach}
+  - {id: manual-approach, text: Manual approach}
+  - {id: automation-approach, text: Automation approach}
+  - {id: conclusion, text: Conclusion}
+
 categories:
   - How-To
 # set: getting-started
 # set_order: 3
 ---
-Your product, service or solution (SaaS or otherwise) would have users. These users would need to be engaged with, to help them use your product/service well. 7Targets AI Assistant can be used for engaging with your user at each stage of your user journey.  
-7Targets itself uses it for our own customers. 
+Engaging with users at different stages of their journey is crucial to ensure they get the most out of your product or service. Whether you have a SaaS solution or any other offering, leveraging 7Targets AI Assistant can greatly enhance user engagement. We, at 7Targets, use this approach for our own customers and find it highly effective. Here's how you can do it:
 
-## Decide the user stages
-One of the first important step in this, is to decide the different stages of your user journey.
+## Step 1: Define User Journey Stages
+The first step is to identify the various stages of your user journey. These stages represent different milestones or interactions that users go through while using your product or service. 
 
-For e.g. for 7Targets, we have below stages. 
+For instance, at 7Targets, we have the following stages:
 
 | Sequence Name | Stage | 
 |:--------|:-------|
@@ -38,28 +39,25 @@ For e.g. for 7Targets, we have below stages.
 
 Once you have defined the user journey stages, then you can follow the details below to do it. 
 
-## Two ways
-First thing is to create a new Assistant specific for this purpose. With right title and signature, as well specific Nurturing table with right references and links. 
-
-There are 2 ways to implement this using different 7Targets sequences: 
-1. Manual
-2. Automated 
+## Step 2: Choose an Approach - Manual or Automated
+Now, you have two options for implementing user engagement based on the defined stages: manual and automated.
 
 Both approaches are useful. And have different costs. 
 
-## Manual
-Manally, it can be achived using lead `tags and sequences` in 7Targets.
-Create tag for each of the stage already decided. Tag all leads in a given stage with that tag. Eg. User signed up stage can be represented with SignedUpAssistantNotCreated tag. 
-- Putting right tags and removing the earlier stage tags will give a simple mechanism for you to filter the leads from the lead list
+## Manual Approach:
+In the manual approach, you use lead tags and sequences in 7Targets to organize and engage users. Create a unique tag for each stage you defined earlier. For example, the "User signed up" stage can be represented by the "SignedUpAssistantNotCreated" tag.
 
-Now, you can filter the leads and put them on corresponding sequence as per tags.
+* Tagging Leads: Tag all leads in a specific stage with the corresponding tag. This will help you easily filter and categorize leads in your lead list.
+* Assigning Sequences: Assign leads to the relevant sequences based on their tags. Each sequence represents a specific stage of the user journey.
+* Transitioning Leads: As a lead progresses to the next stage, edit their tags accordingly. Remove the previous stage's tag and add the tag corresponding to the new stage. Then put the lead on the next sequence, ensuring they receive targeted engagement messages.
 
-When the lead moves to next stage, then edit the tags. Remove the earlier stage tag and add the new tag. Then put that lead (one or multiple) on the new sequence. 
-And this will put this person on next sequence as per the stage. 
+## Automation Approach:
+In the automated approach, you can leverage APIs to seamlessly integrate with your system or software. Identify the user's stage in your system and use POST or PUT REST API calls to trigger the appropriate sequence in 7Targets.
 
-## Automation 
-Instead of manually putting the person on a sequence as per stage, you will have to use [APIs](../../integrate/api/) from within your sytem. You can identify the stage in your system/software and make the right POST or PUT REST API calls. 
+* API Integration: Utilize the 7Targets [APIs](../../integrate/api/) to trigger the relevant sequence in response to the user's journey stage identified by your system.
+* Utilizing Existing Sequences: Since you have predefined sequences in 7Targets for each stage, simply use the API to associate leads with the appropriate sequences.
 
-You already have the sequence in 7Targets as per the stage, which you can use in the API call. 
+## Conclusion:
+Engaging users at different stages of their journey is essential for driving adoption and satisfaction. By using 7Targets AI Assistant and following the manual or automated approach, you can effectively engage users and provide a personalized experience based on their progression through the user journey.
 
-Feel free to reach out to us at support@7targets.com in case you need more details or any help.
+For further assistance or more details, don't hesitate to contact our support team at support@7targets.com. We are here to help you make the most of your user engagement efforts.
