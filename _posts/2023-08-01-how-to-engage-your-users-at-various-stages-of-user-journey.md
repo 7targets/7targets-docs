@@ -6,10 +6,11 @@ description:  Engaging with users at different stages of their journey is crucia
 type: How-to
 
 sidebar:
-  - {id: decide-the-user-stages, text: Decide the user stages}
-  - {id: two-ways, text: Two ways}
-  - {id: manual, text: Manual}
-  - {id: automation, text: Automation}
+  - {id: step-1-define-user-journey-stages, text: Define user journey}
+  - {id: step-2-choose-an-approach---manual-or-automated, text: Choose an approach}
+  - {id: manual-approach, text: Manual approach}
+  - {id: automation-approach, text: Automation approach}
+    - {id: conclusion, text: Conclusion}
 categories:
   - How-To
 # set: getting-started
@@ -49,13 +50,13 @@ In the manual approach, you use lead tags and sequences in 7Targets to organize 
 * Assigning Sequences: Assign leads to the relevant sequences based on their tags. Each sequence represents a specific stage of the user journey.
 * Transitioning Leads: As a lead progresses to the next stage, edit their tags accordingly. Remove the previous stage's tag and add the tag corresponding to the new stage. Then put the lead on the next sequence, ensuring they receive targeted engagement messages.
 
-## Automation 
+## Automation Approach:
 In the automated approach, you can leverage APIs to seamlessly integrate with your system or software. Identify the user's stage in your system and use POST or PUT REST API calls to trigger the appropriate sequence in 7Targets.
 
 * API Integration: Utilize the 7Targets [APIs](../../integrate/api/) to trigger the relevant sequence in response to the user's journey stage identified by your system.
 * Utilizing Existing Sequences: Since you have predefined sequences in 7Targets for each stage, simply use the API to associate leads with the appropriate sequences.
 
-## Conclusion
+## Conclusion:
 Engaging users at different stages of their journey is essential for driving adoption and satisfaction. By using 7Targets AI Assistant and following the manual or automated approach, you can effectively engage users and provide a personalized experience based on their progression through the user journey.
 
 For further assistance or more details, don't hesitate to contact our support team at support@7targets.com. We are here to help you make the most of your user engagement efforts.
