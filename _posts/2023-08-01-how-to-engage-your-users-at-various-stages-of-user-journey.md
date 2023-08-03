@@ -10,7 +10,8 @@ sidebar:
   - {id: step-2-choose-an-approach---manual-or-automated, text: Choose an approach}
   - {id: manual-approach, text: Manual approach}
   - {id: automation-approach, text: Automation approach}
-    - {id: conclusion, text: Conclusion}
+  - {id: conclusion, text: Conclusion}
+
 categories:
   - How-To
 # set: getting-started
