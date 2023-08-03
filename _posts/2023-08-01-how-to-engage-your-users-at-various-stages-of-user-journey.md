@@ -21,9 +21,10 @@ Your product, service or solution (SaaS or otherwise) would have users. These us
 ## Decide the user stages
 One of the first important step in this, is to decide the different stages of your user journey.
 
-For e.g. for 7Targets, we have below stages.
-| Sequence Name | Stage |
-| -------- | ------- |
+For e.g. for 7Targets, we have below stages. 
+
+| Sequence Name | Stage | 
+|:--------|:-------|
 | SignedUpAssistantNotCreated | Signed up and Assistant not yet created |
 | AssistantCreated | User created Assistant successfully |
 | LessThan10LeadsAdded | Less than 10 leads Added |
