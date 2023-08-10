@@ -7,7 +7,7 @@ type: How-to
 
 sidebar:
   - {id: understanding-pending-leads, text: Understanding Pending Leads}
-  - {id: a-sophisticated-algorithm-for-processing:, text: A Sophisticated Algorithm for Processing}
+  - {id: a-sophisticated-algorithm-for-processing, text: A Sophisticated Algorithm for Processing}
   - {id: the-enigma-of-timing, text: The Enigma of Timing}
   - {id: slowest-case-scenario, text: Slowest Case Scenario}
   - {id: fastest-case-scenario, text: Fastest Case Scenario}
