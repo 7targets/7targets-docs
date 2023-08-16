@@ -5,7 +5,6 @@ title: What is the reason behind recommending to have 2000 leads per assistant?
 # video_id: 6xyI5NNCCmc
 description: Explore the rationale behind the recommendation to have 2000 leads per assistant and how it enhances communication efficiency. Learn why this strategy aligns with email sending limits and improves lead handling.
 type: How-to
- - {id: understanding-the-power-of-assistants, text: Understanding the Power of Assistants}
 sidebar:
   - {id: the-basis-email-sending-limits, text: Email Sending Limits and Recommendations}
   - {id: efficient-workload-handling, text: Efficient Workload Handling}
