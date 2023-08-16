@@ -10,9 +10,6 @@ categories:
 # set: getting-started
 # set_order: 3
 ---
-
-## What is Send Time Optimization?
-
 Send time optimization is a strategic approach designed to enhance email engagement by delivering messages to recipients at the most opportune times, based on their historical behavior. By analyzing recipients' past interactions, such as open and click rates, send time optimization algorithms determine the optimal moments to dispatch emails. This increases the likelihood of emails being opened and acted upon.
 
 Imagine a recipient habitually checking emails at 10:00 AM. If an email is scheduled to be sent at 3:00 PM, a send time optimization system will intelligently reschedule it for around 10:00 AM the next day. This ensures the email lands in the recipient's inbox when they're most likely to engage with it.
