@@ -61,7 +61,7 @@ From the list, search and select your message.
 
 ## Step 5
 
-Name the Broadcast message. Select the date and time and then click on 'Create' button. 
+Name the Broadcast message. Select the date and time and then click on 'Okay' button. 
 
 ![image](../../images/webinar-50.png)
 
