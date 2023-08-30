@@ -48,5 +48,5 @@ jobs:
       steps:
         - name: Trigger GitLab gpt-bot PROD pipeline
           run: |
-            curl -X POST --fail -F token=${{ secrets.GITLAB_HELP_BOT_TRIGGER_TOKEN }} -F ref=develop https://gitlab.com/api/v4/projects/45962425/trigger/pipeline
+            curl -X POST --fail -F token=${{ secrets.GITLAB_HELP_BOT_TRIGGER_TOKEN }} -F ref=develop -F "variables[EMBEDDING_ORG]=7Targets" https://gitlab.com/api/v4/projects/45962425/trigger/pipeline
             curl -X POST --fail -F token=${{ secrets.GITLAB_HELP_BOT_TRIGGER_TOKEN }} -F ref=main https://gitlab.com/api/v4/projects/45962425/trigger/pipeline
