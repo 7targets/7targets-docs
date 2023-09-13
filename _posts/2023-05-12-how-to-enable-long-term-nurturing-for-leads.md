@@ -1,6 +1,6 @@
 ---
 date: 2023-05-21
-title: how to enable Long Term Nurturing of leads? 
+title: How to enable Long Term Nurturing of leads? 
 video_id: fb2Qt_VXp3M
 description:  Long-term lead nurturing in sales is vital for building relationships, understanding needs, and establishing trust. It enables timely pitches, educates leads, addresses objections, and outperforms competitors. It boosts customer loyalty, repeat business, and referrals by fostering personalized engagement and consistent communication.
 type: How-to

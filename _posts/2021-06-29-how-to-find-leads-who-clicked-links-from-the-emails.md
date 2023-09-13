@@ -1,7 +1,7 @@
 ---
 date: 2021-06-26
 title: How to find leads who clicked links from the emails
-video_id: JC2yJnBXzLM
+# video_id: JC2yJnBXzLM
 description: Filter the leads by their click on particular links.
 type: How-to
 sidebar:
