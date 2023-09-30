@@ -42,4 +42,4 @@ Now when the actual emails goes out you could see that the actual value was used
 Note the screen shot of the email sent as well as scheduled. Schedule email will use the value of the parameter and show the message. 
 
 ![Sent Email from timeline](../../images/sent-email-from-timeline.png)
-![Scheduled Email from timeline](../../images/sent-email-from-timeline.png)
+![Scheduled Email from timeline](../../images/scheduled-email-from-timeline.png)
