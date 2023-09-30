@@ -6,7 +6,7 @@ description: Need to use custom fields or parameters for each lead in the upload
 type: How-to
 
 sidebar:
-  - {id: create-message-with-parameters text: Create message with parameters}
+  - {id: create-message-with-parameters, text: Create message with parameters}
   - {id: upload-excel-with-columns, text: Upload Excel with columns}
   - {id: actual-email, text: Actual Email}
 categories:
