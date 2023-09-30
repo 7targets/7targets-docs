@@ -31,6 +31,7 @@ Note below conditions, it is for each lead from the excel :
 - **IF** no default value is provided and the parameter is not uploaded via the excel; **THEN** the value for the parameter while sending the actual email will be `empty`
 
 ![Personalize Custom Parameters](../../images/personalize-custom-parameters.png)
+![Personalize Custom Parameters](../../images/personalize-custom-parameters-used.png)
 
 ## Upload Excel with columns
 Below is the screen show depicting the excel which is uploading the leads with the custom parameters used while creating the message. Note the value is different for each lead in the excel.
