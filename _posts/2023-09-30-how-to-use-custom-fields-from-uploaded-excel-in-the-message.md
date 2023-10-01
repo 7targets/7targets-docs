@@ -22,9 +22,10 @@ e.g. such parameters could be Phone, Project, Investment, Business Problem, Iceb
 You can pass value for these parameters or fields from the uploaded excel. While sending the actual message the value for the excel will be used to replace the Personalize variable/parameter name in the message. 
 
 ## Create message with parameters
-Simply click on `Personalize` while creating or editing the message. If you want to use a custom field which will come later from the uploaded excel. Type the parameter name (column name of the custom field from excel). Make sure to put the default value.  
+Simply click on `Personalize` while creating or editing the message. Type the **exact parameter** name as the column name of the custom field from excel. Make sure to put the default value.   
+This is only for the custom parameters, the default ones are available from the drop down and those should be used and not typed. 
 
-Note below conditions, it is for each lead from the excel :  
+Note below conditions:  
 - **IF** default value is provided and the parameter is uploaded via the excel; **THEN** the value from the excel will be used. Even if the value from excel is `empty`
 - **IF** default value is provided and the parameter is not uploaded via the excel; **THEN** the default value will be used
 - **IF** no default value is provided and the parameter is uploaded via the excel; **THEN** the value from the excel will be used. Even if the value from excel is `empty`
