@@ -4,11 +4,11 @@ title: How to Use AI-Generated Messages in 7Targets
 description: AI-generated messages offer an opportunity to engage with potential leads, establish and nurture relationships, and ultimately convert them into customers. Here are the steps on how to use AI-Generated Messages in 7Targets.
 type: Document
 sidebar:
-  - {id: step-1, text: What are AI-generated messages}
-  - {id: step-2, text: How AI-generated messages are used in 7Targets}
-  - {id: step-3, text: How to use AI-generated messages in 7Targets}
-  - {id: step-4, text: What are Credits in 7Targets}
-  - {id: step-5, text: How to Generate Blog, Elevator Pitch, and Executive Brief in 7Targets}
+  - {id: what-are-ai-generated-messages, text: What are AI-generated messages}
+  - {id: how-ai-generated-messages-are-used-in-7targets, text: How AI-generated messages are used in 7Targets}
+  - {id: how-to-use-ai-generated-messages-in-7targets, text: How to use AI-generated messages in 7Targets}
+  - {id: what-are-credits-in-7targets, text: What are Credits in 7Targets}
+  - {id: how-to-generate-blog-elevator-pitch-and-executive-brief-in-7targets, text: How to Generate Blog, Elevator Pitch, and Executive Brief in 7Targets}
 
 sitemap: true
 categories:
