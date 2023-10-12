@@ -5,17 +5,17 @@ video_id: WXGO0Ghh8nM
 description: Assistant Dashboard
 sidebar:
   - {id: filters, text: Filters}
-  - {id: tabs, text: Tabs}
+  - {id: widgets, text: Widgets}
 type: Video
 categories:
-  - Getting Responses
+  - getting-responses
 ---
 
 **Overview of the Dashboard**:
 
 The dashboard is designed to provide a comprehensive view of the work done by your Assistant. It features various components, including filters and tabs, which allow you to analyze and monitor different aspects of your work. Here's a detailed breakdown of each component:
 
-**Filters**:
+## Filters
 
 1. **Time Filters**:
    - The dashboard offers multiple time filtering options to help you focus on specific time frames, including "day," "month," "quarter," "year," and the flexibility to set a "custom range." These filters are essential for tracking your work's progress over time.
@@ -29,15 +29,14 @@ The dashboard is designed to provide a comprehensive view of the work done by yo
 4. **Tags Filter**:
    - You can filter data based on tags associated with leads or other elements, aiding in the organization and categorization of your work for more targeted analysis.
 
-**Tabs**:
-
-The dashboard comprises several tabs, each of which represents a specific metric or set of data related to your work. Here's a closer look at some of the essential tabs:
+## Widgets
+The dashboard comprises several widgets, each of which represents a specific metric or set of data related to your work. Here's a closer look at some of the essential ones:
 
 1. **Lead Responses**:
-- This tile tracks the responses received from leads, providing insights into lead engagement.
+- This tracks the responses received from leads, providing insights into lead engagement.
 
 2. **Engaged Leads**:
-- It displays the number of leads who have shown engagement with your content or outreach emails.
+- It displays the number of leads who have shown engagement with your emails.
 
 3. **Today's Follow-Ups**:
 - This tile helps you stay organized by showing the follow-up tasks scheduled for the current day.
@@ -46,13 +45,13 @@ The dashboard comprises several tabs, each of which represents a specific metric
 - A pie chart visualizes lead statuses, making it easier to identify the distribution of leads in various stages.
 
 5. **Total Leads**:
-   - This tile shows the total number of leads in your system, giving you an overview of your lead database's size.
+- This tile shows the total number of leads in your system, giving you an overview of your lead database's size.
 
 6. **Active Leads**:
 - Leads actively undergoing nurturing are referred to as "active leads."
 
 7. **Link Clicked**:
-- Tracks how often links in your messages or content have been clicked, providing insights into lead interest.
+- Tracks leads who clicked some links in emails, providing insights into lead interest.
 
 8. **Hot Leads**:
 - Highly affirmative responses, such as accepting a meeting, are categorized as "HOT."
@@ -79,7 +78,7 @@ The dashboard comprises several tabs, each of which represents a specific metric
 - Failing to respond to a lead within 24 hours of their response results in marking the lead as 'Lead At Risk' (LAR).
 
 16. **Processed**:
-- Processed leads are those whose follow-up is completed according to the sequence, and no response was received from the lead.
+- Processed leads are those whose follow-up is completed according to the sequence. These leads are most likely to be put on Long term nurturing sequence.
 
 By using the available filters in combination with these tabs, you can tailor your analysis to specific timeframes, assistant performance, sequences, and tags, making the dashboard a powerful tool for monitoring and optimizing your work.
 
