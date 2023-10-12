@@ -15,7 +15,7 @@ categories:
  - ai-content
 ---
 
-## What are AI-generated messages?
+## What are AI-generated messages
 
 AI-generated messages offer an opportunity to engage with potential leads, establish and nurture relationships, and ultimately convert them into customers. The implementation of AI-generated messages can provide a personalized experience to each prospect while saving time and resources. With artificial intelligence and natural language processing, creating personalized and targeted messages becomes feasible, resulting in a higher likelihood of converting leads into customers.
 
@@ -25,7 +25,7 @@ Possible use-cases of AI-generated messages can be
 
 **2.** AI-generated messages are also beneficial for senior management and busy individuals who may not have the time or resources to create and send personalized messages themselves. By automating the message creation process, AI-generated messages can help streamline communication and save valuable time for busy professionals.
 
-## How AI-generated messages are used in 7Targets?
+## How AI-generated messages are used in 7Targets
 
 7Targets offers a Market Segment level personalization of the messages. In 7Targets we have enabled certain prompts to cater to each individual lead. The prompts can include Lead's Title, Company, Company Description, Tone & Style, Features to cover and Keywords to be included. You can personalize the messages to be sent to the lead based on these prompts.
 
@@ -35,7 +35,7 @@ There are two types of AI-generated messages:
 
 **2.** AI Personalized message generation - It can be used for sending messages to HOT/WARM Leads based on the Leads's Company or Lead's designation etc. These messages are personalized only for an individual lead which cannot be used to cater to any other Lead or Company.
 
-## How to use AI-generated messages in 7Targets ?
+## How to use AI-generated messages in 7Targets
 **Method 1: Creating Custom Messages**
 
 ## Step 1 
@@ -71,7 +71,7 @@ This method allows you to customize messages based on your unique requirements, 
 
 This method is particularly useful when you need to send highly individualized messages to specific leads. It streamlines the process of creating and sending messages tailored to each lead's preferences and needs.
 
-## What are Credits in 7Targets?
+## What are Credits in 7Targets
 
 If you want to write a personalized message using OpenAI, these are charged features. For each personalized message you require 1 Credit Coin. 25 Credit Coins are available for you to explore this feature. For 1000 Credit Coins, you will have to pay $100.
 ![AI generated Message 1](../../images/ai-generated-message1.png)
