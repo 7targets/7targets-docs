@@ -26,7 +26,7 @@ The Zapier 7Targets Integration is still private and is not yet on the Zapier pu
 
 ## Directly use 7Targets API
 If you want to avoid going via Zapier, you can call the 7Targets API to create or update the lead directly from Salesforce. Refere Salesforce documents on how to call some external API from within Salesforce.   
-Details on 7Targets API are ![here](../api)
+Details on 7Targets API are [here](../api)
 
 One **important** point to note, as soon as the AI Assistant receives a response from the lead and detects it to be a Hot or Responded the assistant assigns the lead back to the original owner.
 
