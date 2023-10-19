@@ -14,7 +14,7 @@ sidebar:
 categories:
   - getting-started
 set: getting-started
-set_order: 2
+set_order: 3
 ---
 
 ## Add Assistant
