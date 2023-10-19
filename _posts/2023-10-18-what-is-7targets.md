@@ -39,4 +39,3 @@ What we did is nothing new. We have tried to replicate what large companies do i
 - Allow the assistant to remember opening times of when someone opens an email, so the next email is sent around that time, increasing the chances of opening the email.
 - Allow the assistant to follow up after meetings, after sending proposals. Do not drop a lead even by mistake. Follow up, follow up, follow up.
 - Allow the assistant to follow up with you and your team if your team does not answer a lead's question within 24 hours. Do not allow your team to drop a lead.
-- 
