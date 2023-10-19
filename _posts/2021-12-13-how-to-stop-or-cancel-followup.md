@@ -15,12 +15,11 @@ categories:
 # set_order: 3
 ---
 
-There are many scenarios where you may not want to just stop the followup for some leads. You may have used Deactivate action for this before. With Deactivate action, you lose the existing lead status like Warm, Responded, etc.  
-So we have come up a new action called "Stop Followup" for the selected leads. This action will not do anything else than just stopping the Followup.  
-You can come continue followup for these leads later if that need arises.
+There are many scenarios where you may not want to just stop the followup for some leads. 
+Use ther action called "Stop Followup" for the selected leads. This action will not do anything else than just stopping the Followup.  
+You can Continue Followup for these leads later if that need arises and it will continue from the followup where it was stopped.
 
 Follow these simple steps to Stop Followup for leads.
-
 
 ## Step-1 
 
