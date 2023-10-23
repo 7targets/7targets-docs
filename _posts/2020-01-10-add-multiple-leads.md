@@ -11,6 +11,7 @@ sidebar:
   - {id: add-multiple-leads, text: Add Multiple Leads}
   - {id: custom-email-subject, text: Custom Email Subject}
   - {id: ways-to-assign-lead, text: Ways to Assign Lead}
+  - {id: upload-status, text: Upload Status}
   - {id: questions-answered, text: Questions answered}
 categories:
   - assigning-leads
@@ -67,6 +68,21 @@ Leads can be added or assigned to the Assistant in multiple ways:
 - Add multiple leads from 7Targets UI by uploading an excel file
 - Copy or Cc your Assistant in the email you are sending to a lead. Have to enable this feature in Edit Assistant
 - If you are integrated with CRM, then assign the Lead/Contact from CRM to the Assistant User in CRM
+
+## Upload Status
+Meaning of different status values for the uploaded file is as below
+
+UPLOADED : File is uploaded successfully.  
+VALIDATING : File is being validated.    
+VALIDATED : Validation is complete. Leads will/can be added.  
+ADDING : Leads are being added.   
+COMPLETED : Uploaded file processing is completed.  
+CANCELLED : Uploaded file processing is cancelled. 
+FAILED : : Uploaded file processing failed.  NAME_EMAIL_MATCH_FAILED : Found more than 50% name email mismatched. [**Name email mismatched details**](./how-to/how-and-why-assistant-check-for-name-email-mismatch/)  
+FULL_NAMES_FOUND : Found column with full name instead of first and last name separate columns in the file.  
+QUEUED : Uploaded file processing is in Queue.  
+NO_VALID_LEADS_FOUND : Uploaded file does not contains any valid leads.
+
 
 ## Questions answered
 - Can I add multiple leads ? 
