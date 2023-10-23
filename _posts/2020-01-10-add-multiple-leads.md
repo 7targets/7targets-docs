@@ -78,7 +78,7 @@ VALIDATED : Validation is complete. Leads will/can be added.
 ADDING : Leads are being added.   
 COMPLETED : Uploaded file processing is completed.  
 CANCELLED : Uploaded file processing is cancelled. 
-FAILED : : Uploaded file processing failed.  NAME_EMAIL_MATCH_FAILED : Found more than 50% name email mismatched. [**Name email mismatched details**](./how-to/how-and-why-assistant-check-for-name-email-mismatch/)  
+FAILED : : Uploaded file processing failed.  NAME_EMAIL_MATCH_FAILED : Found more than 50% name email mismatched. [**Name email mismatched details**](../../how-to/how-and-why-assistant-check-for-name-email-mismatch/)  
 FULL_NAMES_FOUND : Found column with full name instead of first and last name separate columns in the file.  
 QUEUED : Uploaded file processing is in Queue.  
 NO_VALID_LEADS_FOUND : Uploaded file does not contains any valid leads.
