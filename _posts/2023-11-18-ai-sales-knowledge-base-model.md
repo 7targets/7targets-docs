@@ -17,6 +17,7 @@ categories:
 
 The AI Sales Knowledge Base Model is designed to provide immediate and accurate information to both your sales team and potential leads. 
 
+![7Targets AI Sales KB Model](../../images/7targets-ai-sales-knowledge-base-model.jpeg)
 This model is created from your website link provided while onboarding. 
 
 This model is a part of our AI-driven solutions and is utilized in two key areas:
@@ -31,8 +32,8 @@ The same AI Sales Knowledge Base Model powers the Sales Chatbot on your website.
 
 ### Efficiency in Response: 
 By automating initial responses and providing a basis for personalized follow-up, the model saves significant time for your sales team.
-### Retention in Information:
-Ensures that the information provided as old as 20 years is part of the KB and will help generate accurate, and up-to-date, reflecting well on your company's professionalism and reliability.
+### Retention of Information:
+Ensures that the information provided as old as 20 years or earlier is part of the KB and will help generate accurate, and up-to-date, reflecting well on your company's professionalism and reliability. Which Sales team member will remember this old information or case study.
 ### Enhanced Lead Engagement: 
 By providing prompt and relevant responses, the model significantly improves the engagement with potential customers.
 ### Seamless Integration: 
