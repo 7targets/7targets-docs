@@ -7,7 +7,7 @@ sidebar:
   - {id: ai-sales-knowledge-base-model-explained, text: AI Sales Knowledge Base Model Explained}
   - {id: key-benefits, text: Key Benefits}  
   - {id: how-is-it-used, text: How is it used}
-  - {id: can-i-update-it, text: Can I update it}
+  - {id: can-i-update-the-sales-knowledge-base, text: Can I update the Sales Knowledge Base}
 sitemap: true
 categories:
  - ai-content
@@ -46,7 +46,7 @@ One has to enable the preferences for that assistant and then it will be active 
 
 For chatbot, ask for the details from the support team. 
 
-## Can I update it
+## Can I update the Sales Knowledge Base
 Yes, the KB can be updated using PDF, youtube links and more urls which are publically accesible. Please reach out to support team for this.
 
 In summary, the AI Sales Knowledge Base Model is a dynamic and intelligent tool, designed to streamline communication between your sales team and potential customers, whether through email or via your website's chatbot. It represents a significant advancement in how sales teams interact with and nurture leads, ultimately contributing to improved sales performance and customer satisfaction.
