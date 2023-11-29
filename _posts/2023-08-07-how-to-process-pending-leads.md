@@ -12,6 +12,7 @@ sidebar:
   - {id: slowest-case-scenario, text: Slowest Case Scenario}
   - {id: fastest-case-scenario, text: Fastest Case Scenario}
   - {id: the-wisdom-in-waiting, text: The Wisdom in Waiting}
+  - {id: can-i-stop-automatic-processing-of-pending-leads, text: Can I stop automatic processing of Pending leads}
 
 categories:
   - How-To
@@ -23,7 +24,7 @@ In the world of email marketing, managing pending leads is a critical task that 
 
 ## Understanding Pending Leads:
 
-Pending leads refer to email addresses that are currently unverifiable due to various reasons. These leads are handled with meticulous care to prevent them from triggering bounce issues, which can adversely affect your email sender reputation. At its core, processing pending leads involves a nuanced algorithm that strikes a balance between verifying email authenticity and avoiding potential pitfalls.
+Pending leads refer to email addresses that are currently unverifiable due to various reasons. These leads are handled with meticulous care to prevent them from triggering bounce issues, which can adversely affect your email sender reputation. At its core, processing pending leads involves a nuanced algorithm that strikes a balance between verifying email authenticity and avoiding potential pitfalls. 
 
 ## A Sophisticated Algorithm for Processing:
 
@@ -44,4 +45,7 @@ On the other end of the spectrum, a swift and successful processing of valid pen
 ## The Wisdom in Waiting:
 
 Why do we wait for a few hours before sending the next batch? The answer lies in the intricate dynamics of email bounces. Research indicates that 25% of emails may take up to 48 hours to bounce, while another 25% exhibit delayed bounces within a few hours. By integrating this nuanced understanding into our algorithm, we emulate a human-like approach to email processing, preventing account locks and ensuring the long-term success of your campaigns.
+
+## Can I stop automatic processing of Pending leads
+Yes, if you take `Stop Followup` action on Pending leads then Assistant will not pick them for processing. You can ForceSend or restart if required. 
 
