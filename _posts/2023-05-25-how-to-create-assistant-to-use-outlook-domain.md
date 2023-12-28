@@ -17,7 +17,7 @@ categories:
 # set: getting-started
 # set_order: 3
 ---
-If you want your Assistant to send email from your company domain instead of `<yourcompany>.7ts-e.com `and your company domain email is on OUTLOOK for Business, then you can use this feature.
+If you want your Assistant to send email from your company domain instead of `<yourcompany>.7ts-e.com` and your company domain email is on OUTLOOK for Business, then you can use this feature.
 As of now, you need 2 assistants in 7Targets to get this feature working.
 Before you start, make sure that you have the email address for your assistant ready on your domain.
 For e.g. If you want to use Deepali, make sure `Deepali@<yourcompany>`.com is already created. If such an email id does not exist, create it before moving to next steps. If you don’t have the rights to create email in your organization, please get in touch with your IT administrator to take his help to create the required email id.
