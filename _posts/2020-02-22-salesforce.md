@@ -17,7 +17,8 @@ AI Assistant will then own the lead and nurture to try and get the meeting. Assi
 
 ## Configure Salesforce
 ### Add custom fields in the Lead Object in Salesforce
-Below three custom fields are to be added to the Lead Object.
+Below three custom fields are to be added to the Lead Object.   
+
 | Field Label  | Field Name | Data Type |
 | -------- | ------- | ------- |
 | 7Targets Assistant Email  | sts_assistant_email | Picklist |
