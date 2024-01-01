@@ -53,11 +53,12 @@ Get 7Targets API Client Id & Client Secret from support@7targets.com.
 
 ## Configure 7Targets
 1. In 7targets go to the _CRM_ page using menu bar from left side.
-1. Add username(in the form of email), consumer key and private key(base64 Encoded). This will be used while connecting with Salesforce via API.
+1. Add username(in the form of email), consumer key and private key(base64 Encoded [How?](#how-to-get-the-base64-encoded-string-for-private-key)). 
 1. Use the Test button to verify that the provided credentials are working. 
+1. Get the Assistant email and the sequence names by clicking on the respective buttons. Copy and Paste them in the relevant fields in the custom fields created for the Lead Object in Salesforce.
 
-### How to get the Base64 encoded string for private key.
-Private key create while creating the connected app, mostly is in the form of a file named **server.key**  
-Copy the content of that file and use https://www.base64encode.org/ to encoded that file content to Base64. Use that when creating/configuring 7Targets.
+### How to get the Base64 encoded string for private key
+> Private key create while creating the connected app, mostly is in the form of a file named **server.key**  
+> Copy the content of that file and use https://www.base64encode.org/ to encoded that file content to Base64. Use that when creating/configuring 7Targets.
 
 For any help fell free to drop us an email at support@7targets.com
