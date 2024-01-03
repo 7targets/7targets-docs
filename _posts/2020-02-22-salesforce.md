@@ -4,6 +4,7 @@ title: Integrate Salesforce with 7Targets AI Assistants
 description: Assign Leads from Salesforce to 7Targets AI Assistant. Assistant will followup and log the emails in Salesforce. 
 type: Document
 sidebar:
+  - {id: tl-dr, text: TL;DR} 
   - {id: what-you-get, text: What you get}
   - {id: configure-salesforce, text: Configure Salesforce}
   - {id: configure-7targets, text: Configure 7Targets }
@@ -11,6 +12,26 @@ categories:
   - integrate
 ---
 
+## TL;DR 
+Simplified Configuration steps for 7Targets AI Sales Assistant Integration with Salesforce
+### 1. Salesforce Setup:
+  * Add custom fields to the Lead Object: Assistant Email, Lead State, Sequence Name.
+  * Create a new Trigger named LeadTriggerFor7Targets.
+  * Create an Apex class SevenTargetsLeadIntegration.
+  * Configure 7Targets API credentials in Salesforce Custom Metadata.
+
+### 2. Connected App in Salesforce:
+  * Generate a Certificate & Private Key if not available.
+  * Create a Connected App in Salesforce and note the Consumer Key.
+
+### 3. 7Targets Configuration:
+  * Access the CRM page in 7Targets.
+  * Add Salesforce username, Consumer Key, and Base64-encoded (can use use base64encode.org) Private Key.
+  * Verify credentials using the Test button.
+
+--------------------------------------------------------
+
+# Details Steps with screen shots
 ## What you get
 Leads from **Salesforce** CRM can be assigned to 7Targets AI Sales Assistant directly within the Salesforce UI. 
 AI Assistant will then own the lead and nurture to try and get the meeting. Assistant will also update Salesforce putting notes for the emails being sent as well as status of the lead in salesforce. 
