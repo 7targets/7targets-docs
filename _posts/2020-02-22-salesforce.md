@@ -4,7 +4,7 @@ title: Integrate Salesforce with 7Targets AI Assistants
 description: Assign Leads from Salesforce to 7Targets AI Assistant. Assistant will followup and log the emails in Salesforce. 
 type: Document
 sidebar:
-  - {id: tl-dr, text: TL;DR} 
+  - {id: tldr, text: TL;DR} 
   - {id: what-you-get, text: What you get}
   - {id: configure-salesforce, text: Configure Salesforce}
   - {id: configure-7targets, text: Configure 7Targets }
@@ -51,10 +51,12 @@ Below three custom fields are to be added to the Lead Object.
 a. Goto _Setup_ > _Object Manager_ > search _Lead_ in Quick Find Box.  
 b. In _Lead_ Object go to _Fields & Relationships_ > Click on _New_ button to create three new fields as in screen shots below.   
 **7Targets Assistant Email**  
+You will copy your assistants email ids from 7Targets and update the values in this field later. 
 ![Assistant Email](../../images/salesforce_assistant_email.png)   
 **7Targets Lead State**   
 ![Seven Targets State](../../images/salesforce_seven_targets_state.png)   
 **7Targets Sequence Name**   
+You will copy the sequence names from 7Targets and update the values in this field later. 
 ![Seven Targets Sequence](../../images/salesforce_seven_targets_sequence.png)   
 
 ### 2. Add trigger to the Lead Object in Salesforce
@@ -84,7 +86,7 @@ c. Add below fields in this Custom metadata.
 1. In 7targets go to the _CRM_ page using menu bar from left side.
 1. Add username(in the form of email), consumer key and private key(base64 Encoded [How?](#how-to-get-the-base64-encoded-string-for-private-key)). 
 1. Use the Test button to verify that the provided credentials are working. 
-1. Get the Assistant email and the sequence names by clicking on the respective buttons. Copy and Paste them in the relevant fields in the custom fields created for the Lead Object in Salesforce.
+1. Get the Assistants email ids and the sequence names by clicking on the respective buttons. Copy and Paste them in the relevant fields in the custom fields created for the Lead Object in Salesforce.
 
 ### How to get the Base64 encoded string for private key
 > Private key create while creating the connected app, mostly is in the form of a file named **server.key**  
