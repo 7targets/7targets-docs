@@ -8,11 +8,11 @@ sidebar:
   - {id: tldr, text: TL;DR}
   - {id: overview-of-assistants, text: Overview of Assistants}
   - {id: usage-of-assistants, text: Usage of Assistants}
-  - {id: step-1-areate-forwarder-assistant, text: Create Forwarder Assistant}
-  - {id: step-2-create-mia-assistant, text: Create Mia Assistant}
-  - {id: step-3-authorization-and-configuration, text: Authorization and Configuration}
-  - {id: step-4-auto-forwarding-setup, text: Auto Forwarding Setup}
-  - {id: step-5-setting-spam-filter-for-mia, text: Setting Spam Filter for Mia}
+  - {id: 1-create-forwarder-assistant, text: 1. Create Forwarder Assistant}
+  - {id: 2-create-mia-assistant, text: 2. Create Mia Assistant}
+  - {id: 3-authorization-and-configuration, text: 3. Authorization and Configuration}
+  - {id: 4-auto-forwarding-setup, text: 4. Auto Forwarding Setup}
+  - {id: 5-setting-spam-filter-for-mia, text: 5. Setting Spam Filter for Mia}
 
 categories:
   - How-To
@@ -64,13 +64,13 @@ If you don’t have the rights to create email in your organization, please get 
 You never have to worry about doing any specific settings for Forwarder. You have to work with Mia Assistant only. Forwarder is used ONLY once in the entire process configuration, and that is for setting auto forwarding email address.  
 We will be setting an auto forwarding rule in Mia’s GMAIL box to forward all incoming emails to Forwarder.
 
-## Step 1: Create Forwarder Assistant
+## 1: Create Forwarder Assistant
 Login into 7Targets.  
 Create an Assistant named Forwarder. **Do NOT select the option I want to use my own domain**.  
 Go with the default settings and hit ‘Save’ assistant. 
 
 Make sure you see Forwarder Assistant in your list of Assistants.
-## Step 2: Create Mia Assistant
+## 2: Create Mia Assistant
 This step is where we will create the actual assistant which will use your domain.  
 In 7Targets, Click on Create a new Assistant.  
 This time, make sure to select the option `I want to use my own domain`.  
@@ -79,13 +79,13 @@ From the popup, select Mia’s account in your existing company email accounts.
 ![Outlook 1](../../images/outlook_image1.png)
 ![Outlook 2](../../images/outlook_image2.png)
 
-## Step 3: Authorization and Configuration
+## 3: Authorization and Configuration
 Once Authorization is done,the following screen will be shown  
 ![Gmail 1](../../images/gmail_image3.png)  
 We can verify the Assistant Mia is created in Assistant’s Page.  
 ![Gmail 2](../../images/gmail_image4.png)  
 After authorizing, you have to configure below mentioned steps  
-## Step 4: Auto Forwarding Setup
+## 4: Auto Forwarding Setup
 1.	Log into to Mia’s Gmail account.
 ![Gmail 5](../../images/gmail_image5.png)
 ![Gmail 6](../../images/gmail_image6.png)
@@ -104,7 +104,7 @@ After authorizing, you have to configure below mentioned steps
 ![Gmail 13](../../images/gmail_image13.png)
 
 To start work on leads, you need to assign them to Mia Assistant. To check status of leads, you can check it in Mia Assistant. You can ignore Forwarder Assistant for all everyday usability purposes.  
-## Step 5: Setting Spam Filter for Mia
+## 5: Setting Spam Filter for Mia
 If you see that valid responses to Mia are landing into Mia’s spam, we recommend you to set up the below email filter in Mia’s GMail box.
 1.	Go to GMail Settings
 2.	Go to “Filters and Blocked Addresses”
