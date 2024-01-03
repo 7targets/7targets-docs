@@ -27,15 +27,18 @@ Below three custom fields are to be added to the Lead Object.
 
 1. Goto _Setup_ > _Object Manager_ > search _Lead_ in Quick Find Box.
 1. In _Lead_ Object go to _Fields & Relationships_ > Click on _New_ button to create three new fields as in screen shots below.
+**7Targets Assistant Email**
 ![Assistant Email](../../images/salesforce_assistant_email.png)
+**7Targets Lead State**
 ![Seven Targets State](../../images/salesforce_seven_targets_state.png)
+**7Targets Sequence Name**
 ![Seven Targets Sequence](../../images/salesforce_seven_targets_sequence.png)
 
 ### Add trigger to the Lead Object in Salesforce
-1. In _Lead_ Object go to _Triggers_ > Click on _New_ button to create new Trigger called LeadTriggerFor7Targets. Copy the code from [here](https://github.com/7targets/Salesforce-Integration/blob/main/LeadTrigger.tgr) to create a new trigger and then save the trigger. 
+1. In _Lead_ Object go to _Triggers_ > Click on _New_ button to create new Trigger called LeadTriggerFor7Targets. Copy the code from [here](https://github.com/7targets/Salesforce-Integration/blob/main/LeadTriggerFor7Targets.tgr) to create a new trigger and then save the trigger. 
 
 ### Create Apex class to communicate with 7Targets
-1. In _Setup_ search for _Apex Classes_ & create a new Apex Class called SevenTargetsLeadIntegration. You can find the code [here](https://github.com/7targets/Salesforce-Integration/blob/main/SevenTargetsLeadIntegration.cls). Copy and paste this code for this Apex class. 
+1. In _Setup_ search for _Apex Classes_ & create a new Apex Class called SevenTargetsLeadIntegration. You can find the code [here](https://github.com/7targets/Salesforce-Integration/blob/main/SevenTargetsLeadIntegration.cls). Copy and paste this code for this Apex class.
 
 #### Below details are required for the Apex class code to call the 7Targets APIs.
 Get 7Targets API Client Id & Client Secret from support@7targets.com.  
