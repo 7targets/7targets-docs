@@ -70,7 +70,8 @@ Get 7Targets API Client Id & Client Secret from support@7targets.com.
 a. Goto _Setup_ > search _custom metadata_ in Quick Find Box.  
 b. In _Custom Metadata_ create a new metadata named **7Targets API Credential** as shown below.  
 ![7Targets API Credential](../../images/salesforce_seven_targets_api.png)  
-c. Add below fields in this Custom metadata.  
+c. Add below fields in this Custom metadata and use the values given by 7Targets support for Client Id and Client Secret. 
+d. For 7Targets User ID field. Get the value from 7Targets->Settings->User Identifier.
 
 | Field Label  | Field Name | Data Type |
 | -------- | ------- | ------- |
@@ -78,15 +79,23 @@ c. Add below fields in this Custom metadata.
 | 7Targets Client Secret | Seven_Targets_Client_Secret__c | Text Area(255) |
 | 7Targets User ID  | Seven_Targets_User_ID__c	 | Text(100) |
 
+
 ### 5. Create Connected App in Salesforce
-1. If you don't have existing Certificate & Private Key then generate one from [here](https://developer.salesforce.com/docs/atlas.en-us.246.0.sfdx_dev.meta/sfdx_dev/sfdx_dev_auth_key_and_cert.htm?_ga=2.43114208.439795187.1656333652-1742453021.1655933163).
+1. If you don't have existing Certificate & Private Key then generate following steps mentioned [here](https://developer.salesforce.com/docs/atlas.en-us.246.0.sfdx_dev.meta/sfdx_dev/sfdx_dev_auth_key_and_cert.htm?_ga=2.43114208.439795187.1656333652-1742453021.1655933163).
 1. Create a Connected App in Salesforce using steps given [here](https://help.salesforce.com/s/articleView?id=sf.task_create_connected_app.htm&type=5). Copy Consumer key given which will be used in further setup.
 
 ## Configure 7Targets
 1. In 7targets go to the _CRM_ page using menu bar from left side.
-1. Add username(in the form of email), consumer key and private key(base64 Encoded [How?](#how-to-get-the-base64-encoded-string-for-private-key)). 
+1. Add username(in the form of email), consumer key and Base64 encoded private key(Base64 Encoded [How?](#how-to-get-the-base64-encoded-string-for-private-key)). 
 1. Use the Test button to verify that the provided credentials are working. 
 1. Get the Assistants email ids and the sequence names by clicking on the respective buttons. Copy and Paste them in the relevant fields in the custom fields created for the Lead Object in Salesforce.
+
+### All Set
+With this you are all set. You can assign an existing Lead in Salesforce by updating the 7Targets Assistant Email value. That lead will then be created in 7Targets.  
+
+You could check the Lead Notes in Salesforce for confirmation. There is a direct link to see this lead in 7Targets too, which you can click and see that lead in 7Targets along with the timeline of messages schedule. 
+
+If you want to stop sending messages, just change the value of field 7Targets Assistant Email in Salesforce to None.
 
 ### How to get the Base64 encoded string for private key
 > Private key create while creating the connected app, mostly is in the form of a file named **server.key**  
