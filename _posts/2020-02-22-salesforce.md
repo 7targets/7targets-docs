@@ -99,6 +99,21 @@ In _Lead_ Object go to _Triggers_ > Click on _New_ button to create new Trigger 
 1. Create a Connected App in Salesforce using steps given [here](https://help.salesforce.com/s/articleView?id=sf.task_create_connected_app.htm&type=5). Copy Consumer key given which will be used in further setup.
 1. Once connected app is created you have to assign appropriate user profile to it. You can do this by searching for _App Manager_ in Quick Search and then selecting Your connect App. Then select dropdown from right hand side & click on _Manage_ then in _Manage Profiles_ select appropriate Profile.
 
+### 6. Remote Site Settings
+
+1. In _Setup_ Quick Search box, search for _Remote site settings_ & Add following urls to allow 7Targets API connection:
+   - https://api.7targets.com
+   - https://login.7targets.com
+   - https://solutionapi.7targets.com
+
+### 7. Notes Settings:
+
+1. In _Setup_ Quick Search box, search for _Notes Setting_ & make sure _Enable Notes_ checkbox is checked.
+2. In _Setup_ > _Object Manager_ search for _Lead_ Object. In _Lead_ Object go to _Page Layouts_ > _Lead Layouts_.
+3. In _Lead Layouts_ go to _Related Lists_ Section. And drag the _Notes & Attachments_ button from the _Related List_ section to the _Related List_ tab.
+
+![Enable Notes Layout](../../images/enable_notes_layout.gif)
+
 ## Configure 7Targets
 
 1. In 7targets go to the _CRM_ page using menu bar from left side.
