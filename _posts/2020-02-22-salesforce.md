@@ -23,7 +23,7 @@ Simplified Configuration steps for 7Targets AI Sales Assistant Integration with 
 - Add custom fields to the Lead Object: Assistant Email, Lead State, Sequence Name.
 - Create a new Trigger named LeadTriggerFor7Targets.
 - Create an Apex class SevenTargetsLeadIntegration.
-- Configure 7Targets API credentials in Salesforce Custom Metadata.
+- Configure 7Targets API credentials in Salesforce Custom Metadata Types.
 
 ### 2. Connected App in Salesforce:
 
@@ -70,33 +70,34 @@ You will copy your assistants email ids from 7Targets and update the values in f
 You will copy the sequence names from 7Targets and update the values in this field later.
 ![Seven Targets Sequence](../../images/salesforce_seven_targets_sequence.png)
 
-### 2. Add trigger to the Lead Object in Salesforce
-
-In _Lead_ Object go to _Triggers_ > Click on _New_ button to create new Trigger called LeadTriggerFor7Targets. Copy the code from [here](https://github.com/7targets/Salesforce-Integration/blob/main/LeadTriggerFor7Targets.tgr) to create a new trigger and then save the trigger.
-
-### 3. Create Apex class to communicate with 7Targets
-
-In _Setup_ search for _Apex Classes_ & create a new Apex Class called SevenTargetsLeadIntegration. You can find the code [here](https://github.com/7targets/Salesforce-Integration/blob/main/SevenTargetsLeadIntegration.cls). Copy and paste this code for this Apex class.
-
-### 4. Configure 7Targets API credentials in Salesforce Custom Metadata
+### 2. Configure 7Targets API credentials in Salesforce Custom Metadata
 
 Get 7Targets API Client Id & Client Secret from support@7targets.com.
-a. Goto _Setup_ > search _custom metadata_ in Quick Find Box.
+a. Goto _Setup_ > search _custom metadata types_ in Quick Find Box.
 b. In _Custom Metadata_ create a new metadata named **7Targets API Credential** as shown below.
 ![7Targets API Credential](../../images/salesforce_seven_targets_api.png)
 c. Add below fields in this Custom metadata and use the values given by 7Targets support for Client Id and Client Secret.
 d. For 7Targets User ID field. Get the value from 7Targets->Settings->User Identifier.
 
-| Field Label            | Field Name                       | Data Type      |
-| ---------------------- | -------------------------------- | -------------- |
-| 7Targets Client Id     | Seven_Targets_Client_Id\_\_c     | Text Area(255) |
-| 7Targets Client Secret | Seven_Targets_Client_Secret\_\_c | Text Area(255) |
-| 7Targets User ID       | Seven_Targets_User_ID\_\_c       | Text(100)      |
+| Field Label            | Field Name                  | Data Type      |
+| ---------------------- | --------------------------- | -------------- |
+| 7Targets Client Id     | Seven_Targets_Client_Id     | Text Area(255) |
+| 7Targets Client Secret | Seven_Targets_Client_Secret | Text Area(255) |
+| 7Targets User ID       | Seven_Targets_User_ID       | Text(100)      |
+
+### 3. Create Apex class to communicate with 7Targets
+
+In _Setup_ search for _Apex Classes_ & create a new Apex Class called **SevenTargetsLeadIntegration**. You can find the code [here](https://github.com/7targets/Salesforce-Integration/blob/main/SevenTargetsLeadIntegration.cls). Copy and paste this code for this Apex class.
+
+### 4. Add trigger to the Lead Object in Salesforce
+
+In _Lead_ Object go to _Triggers_ > Click on _New_ button to create new Trigger called LeadTriggerFor7Targets. Copy the code from [here](https://github.com/7targets/Salesforce-Integration/blob/main/LeadTriggerFor7Targets.tgr) to create a new trigger and then save the trigger.
 
 ### 5. Create Connected App in Salesforce
 
 1. If you don't have existing Certificate & Private Key then generate following steps mentioned [here](https://developer.salesforce.com/docs/atlas.en-us.246.0.sfdx_dev.meta/sfdx_dev/sfdx_dev_auth_key_and_cert.htm?_ga=2.43114208.439795187.1656333652-1742453021.1655933163).
 1. Create a Connected App in Salesforce using steps given [here](https://help.salesforce.com/s/articleView?id=sf.task_create_connected_app.htm&type=5). Copy Consumer key given which will be used in further setup.
+1. Once connected app is created you have to assign appropriate user profile to it. You can do this by searching for _App Manager_ in Quick Search and then selecting Your connect App. Then select dropdown from right hand side & click on _Manage_ then in _Manage Profiles_ select appropriate Profile.
 
 ## Configure 7Targets
 
