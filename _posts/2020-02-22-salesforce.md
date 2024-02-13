@@ -77,7 +77,7 @@ a. Goto _Setup_ > search _custom metadata types_ in Quick Find Box.
 b. In _Custom Metadata_ create a new metadata named **7Targets API Credential** as shown below.
 ![7Targets API Credential](../../images/salesforce_seven_targets_api.png)
 c. Add below fields in this Custom metadata and use the values given by 7Targets support for Client Id and Client Secret.
-d. For 7Targets User ID field. Get the value from 7Targets->Settings->User Identifier.
+d. For 7Targets User ID field. Get the value from 7Targets->Settings->User Identifier. Make Sure this user is assigned to all the Assistants that are being used in Salesforce Integration.
 
 | Field Label            | Field Name                  | Data Type      |
 | ---------------------- | --------------------------- | -------------- |
@@ -104,7 +104,7 @@ In _Lead_ Object go to _Triggers_ > Click on _New_ button to create new Trigger 
 1. In _Setup_ Quick Search box, search for _Remote site settings_ & Add following urls to allow 7Targets API connection:
    - https://api.7targets.com
    - https://login.7targets.com
-   - https://solutionapi.7targets.com
+   - https://solution.7targets.com
 
 ### 7. Notes Settings:
 
