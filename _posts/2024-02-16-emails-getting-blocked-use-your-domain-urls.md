@@ -10,7 +10,7 @@ sidebar:
   - {id: your-emails-could-be-blocked, text: Your emails could be blocked}
   - {id: simple-solution, text: Simple solution}
   - {id: tracking-domain-details, text: Tracking domain details}
-  - {id: Additional help for creating the tracking domain, text: Additional help}
+  - {id: additional-help-for-creating-the-tracking-domain, text: Additional help}
   
 categories:
   - How-To
@@ -35,7 +35,7 @@ The solution is straightforward: Your accounts should have a tracking domain ded
 
 Add a DNS record for your domain to create a branded tracking domain for your 7Targets Assistants using your OWN domain name. 
 
-Once above step is done, copy the tracking urls to the Assistants. Screen shot below.
+Once above step is done, copy the tracking urls to the Assistants using Edit Assistant option. Screen shot below.
 
 This is the most crucial step you can take to boost your email deliverability and steer clear of blocking problems.
 
@@ -43,5 +43,7 @@ This is the most crucial step you can take to boost your email deliverability an
 ![own tracking domain](../../images/own-tracking-domain-details.png)
 
 ## Additional help for creating the tracking domain
-https://www.youtube.com/watch?v=Ytr7R_BN0JY
+
+https://www.youtube.com/watch?v=Ytr7R_BN0JY   
+
 https://www.youtube.com/watch?v=-GJ7IsVXuwA
