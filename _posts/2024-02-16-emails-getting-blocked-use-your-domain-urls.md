@@ -33,9 +33,9 @@ If you haven't set up a custom tracking domain, 7Targets uses shared tracking do
 ## Simple solution
 The solution is straightforward: Your accounts should have a tracking domain dedicated solely to your emails.
 
-Add a DNS record for your domain to create a branded tracking domain for your 7Targets Assistants using your OWN domain name. 
-
-Once above step is done, copy the tracking urls to the Assistants using Edit Assistant option. Screen shot below.
+1. Lets create a SSL certificate for your domain. Drop an email to support@7targets.com 
+1. Create CNAME records for your domain to create a branded tracking domain for your 7Targets Assistants using your OWN domain name. Take the CNAME record value from 7Targets support team 
+1. Once above steps are done, copy the tracking url to the Assistants using Edit Assistant option. Screen shot below. 
 
 This is the most crucial step you can take to boost your email deliverability and steer clear of blocking problems.
 
