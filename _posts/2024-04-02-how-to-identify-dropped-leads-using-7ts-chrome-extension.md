@@ -31,9 +31,9 @@ To get started with the 7Targets Chrome Extension, follow these simple steps:
 
 If you're installing the extension using a zip file, navigate to "Manage Extensions" in Chrome, then click on "Load unpacked" and select the extracted folder containing the extension files.
 
-![Manage Extensions](../images/chromeextension-dist-file.jpg)
+![Manage Extensions](../../images/chromeextension-dist-file.jpg)
 
-![Manage Extensions](../images/chromeextension-start-extension.jpg)
+![Manage Extensions](../../images/chromeextension-start-extension.jpg)
 
 4. The extension will be downloaded and installed automatically. Once completed, you'll see a confirmation message.
 
@@ -47,29 +47,29 @@ To start using the 7Targets Chrome Extension, you'll need to log in with your 7T
 
 1. If you do not have a 7Targets account, click on the "Sign Up" button to create an account on the 7Targets website. After creating your account, log in using your 7Targets credentials in the Dropped Lead extension.
 
-![Login Extensions](../images/chromeextension-login-page.jpg)
+![Login Extensions](../../images/chromeextension-login-page.jpg)
 
 2. After logging into extension, click on "Authorize" button. This will prompt you to grant permission for the extension to access your Gmail account.
 
-![Authorize Extensions](../images/chromeextension-auth.jpg)
+![Authorize Extensions](../../images/chromeextension-auth.jpg)
 
 3. Select the account that you used to log into the dropped leads extension.
 
-![Authorize Extensions](../images/chromeextension-auth-one.jpg)
+![Authorize Extensions](../../images/chromeextension-auth-one.jpg)
 
 4. Click on "Advanced," then click on "Go to 7Targets Chrome Extension."
 
-![Authorize Extensions](../images/chromeextension-auth-two.jpg)
+![Authorize Extensions](../../images/chromeextension-auth-two.jpg)
 
-![Authorize Extensions](../images/chromeextension-auth-three.jpg)
+![Authorize Extensions](../../images/chromeextension-auth-three.jpg)
 
 5. Follow the on-screen instructions to grant the necessary permissions.
 
-![chrome Extensions](../images/chromeextension-auth-grant-permission.jpg)
+![chrome Extensions](../../images/chromeextension-auth-grant-permission.jpg)
 
 6. Once the authorization process is complete, you'll receive a notification confirming that authorization was successful. The identification of dropped leads will run for the first time after authorization.
 
-![chrome Extensions](../images/chromeextension-login.jpg)
+![chrome Extensions](../../images/chromeextension-login.jpg)
 
 With the 7Targets Chrome Extension authorized, it can now effectively identify dropped leads in your Gmail, and then you can take proactive steps to reactivate them, boosting your sales and business growth.
 
@@ -83,7 +83,7 @@ Once you've authorized the 7Targets Chrome Extension and ensured it has access t
 
 3. All identified dropped leads will be moved into the designated label in your Gmail account.
 
-![Dropped Leads Label](../images/chromeextension-dropped-Leads-label.jpg)
+![Dropped Leads Label](../../images/chromeextension-dropped-Leads-label.jpg)
 
 4. Review the labeled emails to identify dropped leads, then take proactive steps to reactivate them.
 
