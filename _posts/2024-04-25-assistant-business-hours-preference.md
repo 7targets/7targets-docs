@@ -40,8 +40,8 @@ If a user adds scheduled date which is out of give business hours then it will s
 
 ### Exceptions to business Hours
 Business hour preference **doesn't** apply in following cases:
-- [Send Time Optimization](./2023-06-14-what-is-send-time-optimisation.md)
-- [Processing Pending Leads](./2023-02-09-how-are-pending-leads-processed.md)
+- [Send Time Optimization](../../how-to/what-is-send-time-optimisation)
+- [Processing Pending Leads](../../how-to/how-are-pending-leads-processed)
 - Overriding business hours by adding Scheduled date outside given range.
 - Any automated email send as a response to asking for brochure will not consider the business hours
 
