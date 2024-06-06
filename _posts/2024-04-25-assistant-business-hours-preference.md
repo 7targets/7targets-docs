@@ -6,7 +6,10 @@ description: Sending Follwups only during business hours
 type: How-to
 sidebar:
   - {id: overview, text: Setting Business Hours}
-  - - {id: how-it-works, text: How it Works}
+  - {id: exceptions, text: Exceptions to business Hours}
+  - {id: override-business-hours, text: Override Business Hours}
+  - {id: how-it-works, text: How it Works}
+
 
 categories:
   - How-To
@@ -37,12 +40,12 @@ If a user adds scheduled date which is out of give business hours then it will s
 
 ### Exceptions to business Hours
 Business hour preference **doesn't** apply in following cases:
-- ![Send Time Optimization](./2023-06-14-what-is-send-time-optimisation.md)
-- ![Processing Pending Leads](./2023-02-09-how-are-pending-leads-processed.md)
+- [Send Time Optimization](../../how-to/what-is-send-time-optimisation)
+- [Processing Pending Leads](../../how-to/how-are-pending-leads-processed)
 - Overriding business hours by adding Scheduled date outside given range.
 - Any automated email send as a response to asking for brochure will not consider the business hours
 
-#### Override Business Hours**
+#### Override Business Hours
 You have the flexibility to override the the business hours preferences. If your business hours are set from 9:00 AM to 7:30 PM, but you prefer follow-ups to begin later in the day for particular lead file, you can specify a different scheduled time, such as 3:00 PM while adding leads. This means that follow-ups will start at 3:00 PM and continue until the end of your regular business hours at 7:30 PM.
 
 ## How it Works:
