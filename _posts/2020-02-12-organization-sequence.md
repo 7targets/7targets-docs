@@ -5,6 +5,7 @@ description: Manage Schedule Sequence
 type: Document
 sidebar:
   - {id: sequence, text: Sequence}
+  - {id: whatsapp-sequence, text: Whatsapp Sequence}
   - {id: questions-answered, text: Questions answered}
 categories:
   - manage-org
@@ -32,6 +33,16 @@ Please note that any change the existing sequence would take effect for the lead
 Sequence is accessible to other users in the org to use, they cannot edit it though. 
 
 If you want to delete a specific sequence, you have to click on the delete icon which comes up on hover of the specific sequence in the sequence drop down list. System provided sequences cannot be deleted, so the delete icon will not come in front of them.
+
+## [Whatsapp Sequence](#whatsapp-sequence)
+For Quick Followsup & Reply Cycle you can now use Whatsapp Messages in Sequences.
+
+**Prerequisite :** Before you start to use Whatsapp Sequence you need to have [Sinch Account](https://www.sinch.com/). **Sinch** will act as Whatapp Provider while sending messages.
+
+You can create new custom messages for Whatsapp using steps mentioned [here](../../manage-org/whatsapp-message/)
+
+Once Custom Messages are created You can select desired message from Edit Sequences page as in below image
+![Whatsapp Message Sequence](../images/Whatsapp_Message_Sequence.png)
 
 ## Questions answered
 - How do I add my custom sequence with custom message ?
