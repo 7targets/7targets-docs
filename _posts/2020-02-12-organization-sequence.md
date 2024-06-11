@@ -1,7 +1,7 @@
 ---
 date: 2020-02-12
 title: Schedule Sequence 
-description: Manage Schedule Sequence
+description: Manage Schedule Sequence helps you decide how you want the assistant to followup. how many message and at what days of gap
 type: Document
 sidebar:
   - {id: sequence, text: Sequence}

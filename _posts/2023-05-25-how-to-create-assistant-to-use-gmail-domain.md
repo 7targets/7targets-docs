@@ -2,7 +2,7 @@
 date: 2023-02-08
 title: How to create assistant to use GMAIL domain
 # video_id: 6xyI5NNCCmc
-description:  If you want your Assistant to send email from your company domain instead of `<yourcompany>.7ts-e.com` and your company domain email is on GMAIL for Business, then you can use this feature.
+description:  If you want your Assistant to send email from your company domain email on GMAIL for Business, then you can use this feature.
 type: How-to
 sidebar:
   - {id: tldr, text: TL;DR}
@@ -21,7 +21,7 @@ categories:
 ---
 
 ## TL;DR
-Simplified Email Integration with Your Company Domain on 7Targets
+Simplified Email Integration with Your Company Domain on 7Targets for GMAIL
 
 ### Objective
 * Enable Assistant to use your company domain for emails.
