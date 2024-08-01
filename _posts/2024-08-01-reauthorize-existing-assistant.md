@@ -3,7 +3,7 @@ date: 2024-08-01
 title: Reauthorize existing Assistant
 video_id: ????????
 description: How to reauthorize existing gmail or outlook assistant.
-type: Video
+type: How-to
 sidebar:
   - {id: why-reauthorize, text: Why do I need to Reauthorize My Assistant}
   - {id: how-to-reauthorize, text: How do I Reauthorize My Assistant}
