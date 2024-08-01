@@ -87,10 +87,7 @@ In the 'Email' field you can edit the email address of the assistant.
 
 ## Step 6
 
-To get WhatsApp notifications, you can add the phone number in the field shown below. Make sure you mention the country code.
-
-![image](../images/details-of-assistant-6.png)
-
+To get WhatsApp notifications, you can add the phone number at Settings->Profile. Make sure you mention the country code.
 
 ## Step 7
 

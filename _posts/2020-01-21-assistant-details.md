@@ -28,11 +28,10 @@ Assistant has a default recommended sequence of 7 follow-ups with increasing dur
 Assistant optimizes the email send time for scheduled emails of individual lead, this is done based on when(time) that specific lead opened already sent emails. Each person email checking habits are different, some do in morning, some while lunch and all. Assistant does this hyper-personalization so that the chances of lead reading the email increases. This is `Send Time Optimization`.  
 
 ## Assistant Profile
-Name, Avatar, Email, Phone Number and Signature represents the Assistant identity. 
+Name, Avatar, Email, Role, Company Description and Signature represents the Assistant identity. 
 
-Leads see Name, Email, Phone Number and Signature of the Assistant and these can be edited as appropriate. Phone number is also used to notify you of the WARM and HOT leads on WhatsApp. 
-
-At present you cannot add a image/logo to the signature. 
+Leads see Name, Email, Signature of the Assistant and these can be edited as appropriate. 
+Assistant uses Users Phone number to notify about the WARM and HOT leads on WhatsApp. Users number can edited from Settings->Profile.  
 
 ## Assign Assistant to User
 Assistant being specific to an industry and offering can be used by multiple users in your organization.  
