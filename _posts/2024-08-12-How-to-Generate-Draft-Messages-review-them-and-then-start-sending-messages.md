@@ -1,3 +1,4 @@
+---
 date: 2024-08-12
 title: How to Generate Draft Messages review them and then start sending messages
 # video_id: ????????
