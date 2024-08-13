@@ -54,7 +54,7 @@ To Create a whatsapp Message You can copy the text from Whatsapp template create
 Make sure to use same Template ID from sinch for Whatsapp Message.
 
 You can personlize this message such that dyanamic variables used in these templates will be mapped to 7Targets personlized parameters.
-For e.g. if you want **{{1}}** to be mapped with Lead First Name then after personalization it would look like this :`{{1->lead.name}}`
+For e.g. if you want **{{1}}** to be mapped with Lead First Name then after personalization it would look like this :```{{1->lead.name}}```
 
 You can also attach Videos upto 16 Mb, Images in jpeg format & PDFs.
 
