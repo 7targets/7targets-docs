@@ -2,10 +2,10 @@
 date: 2024-08-13
 title: Follow-up Emails Not Threading Together
 description: Understanding why follow-up emails might not appear in a single thread when CCing an assistant.
-type: Document
+type: How-to
 sidebar:
-  - {id: why-followups-not-same-thread, text: Why Aren't My Follow-up Emails in the Same Thread?}
-  - {id: causes-followup-thread-issue, text: What Causes This Issue?}
+  - {id: why-followups-not-same-thread, text: Why Aren't My Follow-up Emails in the Same Thread}
+  - {id: causes-followup-thread-issue, text: What Causes This Issue}
 categories:
   - How-to
 ---
