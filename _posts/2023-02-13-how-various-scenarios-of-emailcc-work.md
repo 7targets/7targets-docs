@@ -11,6 +11,7 @@ sidebar:
   - {id: response, text: Response } 
   - {id: user-replies, text: User replies } 
   - {id: no-response-from-lead, text: No response from Lead } 
+  - {id: emailcc-restart, text: Lead Restart during Emailcc }
 
 categories:
   - How-To
@@ -78,3 +79,11 @@ If assistant preferences are set to change lead to 'Long term nurturing' after a
 
 If you have any further doubts, you can directly mail us at support@7targets.com.
 
+## Lead Restart during Emailcc
+1. **Replying to an Existing Thread with an Active Lead :** If an email conversation already has an active lead and follow-ups are being managed by the assistant, and you send a reply within the same thread, the assistant will continue with the current follow-up schedule without restarting the lead follow-ups.
+
+2. **Replying to an Existing Thread with an Inactive Lead :** If an email conversation already exists but the lead is not active (no follow-ups are being made), and you send a reply, the assistant will restart the follow-ups from the first message in the sequence.
+
+3. **Starting a New Thread with an Active Lead :** If you start a new email thread with an existing lead that already has active follow-ups, and the assistant is included (EmailCC), the assistant will restart the follow-ups.
+
+4. **Starting a New Thread with an Inactive Lead :** If you start a new email thread with an existing lead that does not have active follow-ups, and the assistant is included (EmailCC), the assistant will start the sequence from the initial message, restarting the follow-ups.
