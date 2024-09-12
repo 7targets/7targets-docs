@@ -20,7 +20,7 @@ Assistant will notify you on various event and you can disable all or one at a t
 
 As well can copy that notification to more email ids by adding those emails in the specific notification.
 
-The WhatsApp notification for Response received and Warm leads is only on one phone number and that is Assistant's phone number. 
+The WhatsApp notification for Response received and Warm leads is only on one phone number and that is User's phone number. Which can be provided from Settings->Profile.
 
 ![Notification](../../images/notification.png)
 

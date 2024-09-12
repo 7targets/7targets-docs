@@ -27,7 +27,7 @@ After saving you can confirm if the leads which are impacted because of this pro
 Listing the whatsapp message issues below. 
 1. You may not be using an approved template with correct template id. 
 1. The variable in the template may not be mapped to the right variable from 7Targets.
-1. The sorrounding brackets `{{ }}` may not be correct. Like extra or less brackets around the variable.
+1. The sorrounding brackets ```{{ }}``` may not be correct. Like extra or less brackets around the variable.
 1. There may no or extra mapping sign `->` that got added or removed while saving
 
 Feel free to reach out to support@7targets.com for any assistance required during setup.
