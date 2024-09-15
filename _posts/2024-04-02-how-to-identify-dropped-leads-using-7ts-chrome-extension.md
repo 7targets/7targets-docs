@@ -68,20 +68,18 @@ With the 7Targets Chrome Extension authorized, it can now effectively identify d
 
 Once you've authorized the 7Targets Dropped Lead Extension and ensured it has access to your logged-in Gmail account, you can identify dropped leads. Here's how:
 
+![Dropped Leads Label](../../images/chromeextension-dropped-Leads-label.jpg)
+
 1. When the extension runs for the first time, it will analyze emails from the last 5 years in your Sent folder to identify any dropped leads.
 
-2. Then, The extension will automatically analyze your sent emails every day at 10:30 AM GMT (4:00 PM IST) to identify dropped leads.
+2. Afterward, the extension will automatically analyze your sent emails every day at 10:30 AM GMT (4:00 PM IST) to identify dropped leads.
 
 3. Dropped leads will be labeled as "Dropped Leads" for easy identification.
 
 4. All identified dropped leads will be moved into the designated label in your Gmail account.
 
-![Dropped Leads Label](../../images/chromeextension-dropped-Leads-label.jpg)
-
-5. Review the labeled emails to identify dropped leads, then take proactive steps to reactivate them.
+5. Review the labeled emails to identify dropped leads, and then take proactive steps to reactivate them.
 
 6. Each day, the extension checks if you have followed up with any dropped leads within the last 5 days. If you have, the lead will be removed from the "Dropped Leads" label.
 
 By efficiently identifying and reactivating dropped leads, you can boost your sales efforts and business growth.
-
-The extension will automatically analyze your sent emails every day at 10:30 AM GMT (4:00 PM IST) to identify dropped leads.
