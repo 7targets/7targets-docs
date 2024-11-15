@@ -44,6 +44,6 @@ This is the most crucial step you can take to boost your email deliverability an
 
 ## Additional help for creating the tracking domain
 
-![How to create a CNAME record](https://www.youtube.com/watch?v=Ytr7R_BN0JY)
+[How to create a CNAME record](https://www.youtube.com/watch?v=Ytr7R_BN0JY)
 
-![How To Add A CNAME To GoDaddy](https://www.youtube.com/watch?v=-GJ7IsVXuwA)
+[How To Add A CNAME To GoDaddy](https://www.youtube.com/watch?v=-GJ7IsVXuwA)
