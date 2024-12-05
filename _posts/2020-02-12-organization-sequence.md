@@ -6,6 +6,7 @@ type: Document
 sidebar:
   - {id: sequence, text: Sequence}
   - {id: whatsapp-sequence, text: Whatsapp Sequence}
+  - {id: sms-sequence, text: SMS Sequence}
   - {id: questions-answered, text: Questions answered}
 categories:
   - manage-org
@@ -43,6 +44,16 @@ You can create new custom messages for Whatsapp using steps mentioned [here](../
 
 Once Custom Messages are created You can select desired message from Edit Sequences page as in below image
 ![Whatsapp Message Sequence](../images/Whatsapp_Message_Sequence.png)
+
+## [SMS Sequence](#sms-sequence)
+For Quick Followsup & Reply Cycle you can now use SMS Messages in Sequences.
+
+**Prerequisite :** Before you start to use SMS Sequence you need to have [Twilio Account](https://www.twilio.com/). **Twilio** will act as SMS Provider while sending messages.
+
+You can create new custom messages for SMS using steps mentioned [here](../../manage-org/sms-message/)
+
+Once Custom Messages are created You can select desired message from Edit Sequences page as in below image
+![SMS Message Sequence](../images/SMS_Message_Sequence.png)
 
 ## Questions answered
 - How do I add my custom sequence with custom message ?
