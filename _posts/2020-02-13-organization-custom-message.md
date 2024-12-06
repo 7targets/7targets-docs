@@ -9,6 +9,7 @@ sidebar:
   - {id: personalization, text: Personalization}
   - {id: image-in-email, text: Image in Email}
   - {id: whatsapp-message, text: Whatsapp Message}
+  - {id: sms-message, text: SMS Message}
   - {id: questions-answered, text: Questions answered}
 categories:
   - manage-org
@@ -46,17 +47,26 @@ We recommend to keep the image size small (like less than 200 KB). As well, the 
 Sometimes, you might want to include a call-to-action (CTA) image in your email and link it to a specific URL. This is indeed possible. 
 [Please refer this link.]({{ site.baseurl }}/how-to/how-to-add-hyperlink-to-images/)
 
-## Whatsapp Messages
+## Whatsapp Message
 To achieve quick followup reply cycle you may want to use whatsapp messages.
 
 To Create a whatsapp Message You can copy the text from Whatsapp template created & Approved in Sinch Dashboard & Click on _Create Whatsapp Message_ Button on Custom Message Page
 
-Make sure to use same Template ID from sinch for Whatsapp Message.
-
 You can personlize this message such that dyanamic variables used in these templates will be mapped to 7Targets personlized parameters.
+
 For e.g. if you want **{{1}}** to be mapped with Lead First Name then after personalization it would look like this :```{{1->lead.name}}```
 
 You can also attach Videos upto 16 Mb, Images in jpeg format & PDFs.
+
+## SMS Message
+To achieve quick followup reply cycle you may want to use SMS messages.
+
+To Create a SMS Message Click on _Create SMS Message_ Button on Custom Message Page
+
+You can personlize this message such that dyanamic variables used in these templates will be mapped to 7Targets personlized parameters.
+
+For e.g. if you want **{{1}}** to be mapped with **Lead First Name** then after personalization it would look like this :```{{1->lead.name}}```
+
 
 ## Questions answered
 - I am unable to edit `post proposal msg`. Kindly advice.
