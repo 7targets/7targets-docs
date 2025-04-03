@@ -48,7 +48,7 @@ We can verify the Assistant Deepali is created in Assistant’s Page.
 
 ## Forwarding Setup for Outlook
 
-If your Outlook email is routed through a third-party filtering service such as SpamExperts, Mimecast, or Avanan, you may need to set up a Forwarding Assistant to ensure emails are properly forwarded.
+If Your Outlook email is routed through a third-party filtering service (for e.g. SpamExperts, Mimecast, or Avanan etc.) before reaching Microsoft's servers. Because of this, automatic email notifications to 7Targets may not work as they do with standard Microsoft deployments. To ensure proper forwarding, a manual forwarding needs to be set up
 
 If your email does not use any third-party services, you can skip this step.
 
