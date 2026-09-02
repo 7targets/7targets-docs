@@ -5,7 +5,7 @@ title: 7Targets AI Sales Assistant
 url: "https://help.7targets.ai"
 baseurl:
 chat_widget_enabled: true
-chat_widget_demo_mode: true
+chat_widget_demo_mode: false
 chat_widget_token_url: "https://opsrabbit-chat.netbird.aaic.cc/api/opsrabbit/chat-token"
 chat_widget_api_base: "https://sre.7targets.ai/api"
 chat_widget_widget_id: "ecw_9993571cf72342aca549a75a"
