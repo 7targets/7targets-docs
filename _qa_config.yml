@@ -1,0 +1,4 @@
+# QA keeps the widget in demo mode so a documentation deployment cannot send
+# real support requests while the production static site is configured live.
+chat_widget_enabled: true
+chat_widget_demo_mode: true

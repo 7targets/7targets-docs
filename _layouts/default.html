@@ -49,6 +49,19 @@
 		</section>
 
 		{% include footer.html %}
+
+		{% if site.chat_widget_enabled == true %}
+			<seven-targets-chat
+				data-enabled="true"
+				data-demo-mode="{{ site.chat_widget_demo_mode }}"
+				data-token-url="{{ site.chat_widget_token_url }}"
+				data-api-base="{{ site.chat_widget_api_base }}"
+				data-widget-id="{{ site.chat_widget_widget_id }}"
+				data-tenant-id="{{ site.chat_widget_tenant_id }}"
+				data-agent-name="{{ site.chat_widget_agent_name }}"
+			></seven-targets-chat>
+			<script defer src="{{ site.baseurl }}/js/7targets-chat-widget.js"></script>
+		{% endif %}
 		<script>
 			$(function() {
 				$('a[href*=\\#]').not(".no-smooth").on('click', function(event){
