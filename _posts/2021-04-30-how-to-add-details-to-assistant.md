@@ -9,7 +9,7 @@ sidebar:
   - {id: step-2, text: Edit assistant}
   - {id: step-3, text: Give a new name}
   - {id: step-4, text: Select avatar}
-  - {id: step-5, text: Edit email address}
+  - {id: step-5, text: Check email address}
   - {id: step-6, text: Get WhatsApp notification}
   - {id: step-7, text: Add more context}
   - {id: step-8, text: Select sequence}
@@ -66,7 +66,7 @@ Select the 'Edit Assistant' option as shown.
 
 ## Step 3
 
-In the 'Name' field you can change the name of the assistant. Check that it changes the email id of the assistant too.
+In the **Name** field, enter the new name. Changing the name leaves the Assistant’s email address unchanged.
 
 ![image](../../images/details-of-assistant-3.png)
 
@@ -80,9 +80,7 @@ You can change the avatar of the assistant by selecting one of the three.
 
 ## Step 5
 
-In the 'Email' field you can edit the email address of the assistant.
-
-![image](../../images/details-of-assistant-5.png)
+The **Email** field shows the Assistant’s current address. See the [Assistant email address rules]({{ site.baseurl }}/how-to/why-email-address-of-assistant-beyond-@-part-cannot-be-changed/) for details.
 
 
 ## Step 6

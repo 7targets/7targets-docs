@@ -30,7 +30,8 @@ Assistant optimizes the email send time for scheduled emails of individual lead,
 ## Assistant Profile
 Name, Avatar, Email, Role, Company Description and Signature represents the Assistant identity. 
 
-Leads see Name, Email, Signature of the Assistant and these can be edited as appropriate. 
+Leads see the Assistant’s name, email address, and signature. You can edit the name and signature. See the [Assistant email address rules]({{ site.baseurl }}/how-to/why-email-address-of-assistant-beyond-@-part-cannot-be-changed/) for details about the email field.
+
 Assistant uses Users Phone number to notify about the WARM and HOT leads on WhatsApp. Users number can edited from Settings->Profile.  
 
 ## Assign Assistant to User
