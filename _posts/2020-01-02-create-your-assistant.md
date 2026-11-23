@@ -23,7 +23,7 @@ Your Assistant is identified by name, email address and title. It is `recommende
 
 Let’s pick or type an appropriate title. 
 
-Company name is used by the Assistant in the AI generated email subjects. Assistant’s email address too is derived from the company name. You can change the Company name and email address of Assistant later.
+Company name is used by the Assistant in the AI generated email subjects. Assistant’s email address too is derived from the company name. You can change the Company name later.
 
 Note the generated signature. You can always edit the signature later.
 
