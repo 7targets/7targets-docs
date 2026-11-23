@@ -16,7 +16,7 @@ categories:
 # set: getting-started
 # set_order: 3
 ---
-Your Assistant is identified by name, email address, and title. You can always change the details. We recommend you have industry-specific and geography-specific AI assistants. For example, use Indian sounding name for Indian leads and for use US sounding name for US-based leads.
+Your Assistant is identified by name, email address, and title. You can change the Assistant’s name later. We recommend you have industry-specific and geography-specific AI assistants. For example, use Indian sounding name for Indian leads and for use US sounding name for US-based leads.
  
 To know more about setting up an AI sales assistant please visit this page.
 

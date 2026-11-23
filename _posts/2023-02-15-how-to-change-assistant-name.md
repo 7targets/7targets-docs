@@ -8,7 +8,7 @@ sidebar:
   - {id: step-1, text: Click on Assistant tab}
   - {id: step-2, text: Edit assistant}
   - {id: step-3, text: Give a new name}
-  - {id: step-4, text: Edit email address}
+  - {id: step-4, text: Check email address}
   - {id: step-5, text: Edit signature}
   - {id: step-6, text: Save the changes}  
 categories:
@@ -36,16 +36,14 @@ Select the 'Edit Assistant' option as shown.
 
 ## Step 3
 
-In the 'Name' field you can change the name of the assistant. Make sure you change email id of the assistant to reflect the name.
+In the **Name** field, enter the new name. Changing the name leaves the Assistant’s email address unchanged.
 
 ![image](../../images/details-of-assistant-3.png)
 
 
 ## Step 4
 
-In the 'Email' field you can edit the email address of the assistant.
-
-![image](../../images/details-of-assistant-5.png)
+The **Email** field shows the Assistant’s current address. See the [Assistant email address rules]({{ site.baseurl }}/how-to/why-email-address-of-assistant-beyond-@-part-cannot-be-changed/) for details.
 
 ## Step 5
 
